@@ -1,2 +1,3 @@
-# enlivenedcoop-website
-Website for the Enlivened Cooperative
+# Enlivened Cooperative
+
+Quick website for the coop, built on Jekyll.
