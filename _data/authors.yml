@@ -11,7 +11,7 @@ author1:
     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
+
     Open `_data/authors.yml` to edit this text.
 
   # This photo will be used in the about section
@@ -26,8 +26,8 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
+    twitter:         enlivenedcooperative
+    github:          enlivenedcooperative
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -57,7 +57,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        enlivenedcooperative
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>

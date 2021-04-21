@@ -40,47 +40,50 @@ keywords:              []
 logo:                  /assets/img/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
+# file: `_config.yml`
 author:
-  # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
-  # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  social:
+    twitter: qwtel
+    github:  qwtel
 
 # Add links to the sidebar.
 menu:
-  - title:             About
-    url:               /about/
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
+
+  - title:             Courses
+    url:               /courses/
+  - title:             Projects
+    url:               /projects/
+  - title:             Blog
+    url:               /blog/
+  - title:             Contact
+    url:               /contact/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+# legal:
+#   - title:             LICENSE
+#     url:               /LICENSE/
+#   - title:             NOTICE
+#     url:               /NOTICE/
+#   - title:             CHANGELOG
+#     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             2021 - Copylft, al wrongs reversed :).
+copyright:             2021 - Copyleft, all wrongs reversed :).
 
 # Format of the permalinks
-permalink:             /:categories/:year-:month-:day-:title/
+permalink:             /blog/:categories/:year-:month-:day-:title/
+
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
-paginate_path:         /:num/
+paginate_path:         /blog/:num/
 
 
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack
 # remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
 
@@ -272,7 +275,7 @@ hydejack:
     dynamic:           true
 
     # Set to `true` to allow visitors to switch between light and dark mode.
-    icon:              true
+    icon:              false
 
   # ⚡️ DANGER ZONE ⚡️
   # ----------------
@@ -301,11 +304,17 @@ collections:
     permalink:         /projects/:path/
     output:            true
 
+  courses:
+    permalink:         /courses/:path/
+    output:            true
+
 
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
 
 exclude:
+  - ./#jekyll-theme-hydejack/node_modules
+  - ./#jekyll-theme-hydejack/.git
   - .jekyll-cache
   - .sass-cache
   - '*.toml'
