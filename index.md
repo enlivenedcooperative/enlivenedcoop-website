@@ -1,6 +1,5 @@
 ---
 layout: home
-title:
 description: >
   A federated eco-social for-impact organization offering relevant, meaningful and innovative learning experiences developing services, research projects and advocacy aimed to support people, grassroots communities and organizations with tools, practices and sensibilities to co-construct inter-cultural and ecological worlds
 last_modified_at: 2018-08-03

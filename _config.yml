@@ -366,8 +366,6 @@ plugins:
 #   publisher:           <id>
 #   admins:              <id>
 
-seo_tag.page_title
-
 # Used on index and about sites
 # social:
 #   name:                <firstname> <lastname>
