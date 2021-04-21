@@ -1,19 +1,21 @@
 ---
 layout: home
-title: About us
+title:
 description: >
-  The Enlivened Cooperative website is here
+  A federated eco-social for-impact organization offering relevant, meaningful and innovative learning experiences developing services, research projects and advocacy aimed to support people, grassroots communities and organizations with tools, practices and sensibilities to co-construct inter-cultural and ecological worlds
 last_modified_at: 2018-08-03
+image: /assets/img/avatar.png
 no_link_title: false
 no_excerpt: false
 hide_image: false
 cover: true
+hide_title: true
 hide_description: true
 redirect_from:
   - /about/
 ---
 
-The **Enlivened Cooperative** is a federated eco-social for-impact organization offering relevant, meaningful and innovative learning experiences, services and products from a diversity of knowledge systems, and research and advocacy, to support people, grassroots communities and organizations with tools, practices and sensibilities to co-construct inter-cultural and ecological worlds.
+The **Enlivened Cooperative** is a federated eco-social for-impact organization offering relevant, meaningful and innovative learning experiences developing services, research projects and advocacy aimed to support people, grassroots communities and organizations with tools, practices and sensibilities to co-construct inter-cultural and ecological worlds.
 {:.lead}
 
 ![Full-width image](/assets/img/blog/coop-01.png){:.lead width="1920" height="1080" loading="lazy"}
