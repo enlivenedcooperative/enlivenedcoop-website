@@ -49,6 +49,6 @@ _zip
 /stats.json
 /dist
 
-/assets/js/*hydejack-*
+# /assets/js/*hydejack-*
 /_sass/*/__*__/*
 .bundle
