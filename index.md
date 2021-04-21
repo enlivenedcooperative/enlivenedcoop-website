@@ -50,4 +50,4 @@ The Enlivened Cooperative is made up of a team of diverse and highly experienced
 
 ## Our background
 
-The  Enlivened Cooperative has emerged out of the ongoing work of the Ecoversities Alliance, which has been active over the last 5 years, and of the multiple partners which make up the Alliance who have been working in a diversity of transformative and engaged learning practices in higher education for decades. The Ecoversities Alliance emerged as a strategic response to the inability of current higher education models to adequately respond to our planetary crises.
+The  Enlivened Cooperative has emerged out of the ongoing work of the [Ecoversities Alliance](https://ecoversities.org), which has been active over the last 5 years, and of the multiple partners which make up the Alliance who have been working in a diversity of transformative and engaged learning practices in higher education for decades. This project emerged as a strategic response to the inability of current higher education models to adequately respond to our planetary crises.
