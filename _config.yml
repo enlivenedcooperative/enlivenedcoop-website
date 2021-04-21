@@ -25,11 +25,10 @@ title:                 Enlivened Cooperative
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  A federated eco-social for-impact organization offering relevant, meaningful and innovative learning experiences.
 
 # A shorter description for the sidebar.
-tagline:               Enlivened Cooperative
+tagline: "A federated eco-social for-impact organization offering relevant, meaningful and innovative learning experiences."
 
 # A list of keywords for your blog
 keywords:              []
