@@ -25,8 +25,6 @@ layout: base
 {% unless addons %}{% assign addons = "about,newsletter,related,random" | split:"," %}{% endunless %}
 {% for addon in addons %}
   {% case addon %}
-  {% when 'about' %}
-     {% include_cached components/about.html author=page.author %}
   {% when 'newsletter' %}
     {% include if-non-null try="pro/newsletter.html" %}
   {% when 'related' %}

@@ -6,7 +6,9 @@ description: >
   We would love know about your ideas and feedback. Contact us!
 ---
 
-<form>
+You can reach us writing to _[info@enlivenedcooperative.org](mailto:info@enlivenedcooperative.org)_.
+
+<!-- <form>
   <div class="form-group">
     <label for="exampleInputName1">Name</label>
     <input type="text" class="form-control" id="exampleName1" placeholder="Your name">
@@ -21,4 +23,4 @@ description: >
     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
   </div>
   <button type="submit" class="btn btn-primary">Submit</button>
-</form>
+</form> -->
