@@ -43,11 +43,16 @@ As a participant what will I encounter in this course?
 * Tools for and guidance in exploring eco-social regeneration in your own context.
 * Get to know other chocolate rebels!
 
+## Who is the course for?
+
+Lovers of all things chocolate; chocolatiers current or aspiring; those working with/in agriculture, food and sustainability/regeneration; activists and community organizers; ecologists and those excited about trees; educators, academics and researchers exploring another way of learning and making community in solidarity; families (including children) engaged in other ways of learning.
+
+The course will be mainly in English with subtitle translation into Spanish available for the workshops/presentations if required.
+
 ## Course Costs
 
 | Your income is   | You pay |
 |------------------|:------------|
-| First body part   |Second cell |
 | > $15,000         | $100 (and see below)* |
 | $15,000           | $150 |
 | $15,001 – $25,000 | $250 |
@@ -122,38 +127,55 @@ Sessions are structured with the following:
 
 #### Udi Mandel (Course curator, Enlivened Cooperative)
 
+![](/assets/img/courses/cacao/udi.jpg){:.right.thumb width="300"}
+
 A life-long Chocolate lover, it was during my time living in Costa Rica and working at EARTH University (an agroecology university) that I got to more intimately know the world of cacao and chocolate, working with farmers and chocolatiers, from a variety of backgrounds, and helping to set up the [Chocolate Coast](https://www.costadelchocolate.com) alliance of those working with Cacao and chocolate in the Caribbean region. The vision of the Chocolate Coast was to create a collaborative alliance, centered on Cacao and chocolate, towards localized social, cultural and economic regeneration. The other experience that informs my approach as curator of this course (which I am tentatively calling cosmopolitical learning) is that of bringing together different ways of being-knowing-doing-relating and inhabiting to engage with the contemporary world’s more pressing problems we face. This approach is seen in the [Ecoversities Alliance](https://ecoversities.org), as well as the Enlivened Cooperative, both of which I helped to found.
 
 
 #### Edgardo Garcia & Areli (Cooperativa CACAO)
+
+![](/assets/img/courses/cacao/cacao_coop.jpg){:.right.thumb width="400"}
 
 We are Cooperativa CACAO, which means Autonomous Cooperative of Sharing and Learning of Oaxaca. The cooperative was born in August 2013. We are a group of young people who organize ourselves with the objectives of: contributing to the food sovereignty of our families and communities through cocoa, artisan chocolate and creating tools for self-management (autogestión) and autonomy. Through our work we want to contribute to the strengthening of agroforestry systems in the Sierra Sur, Chinantla and Costa de Oaxaca, in addition to valuing the peasant way of life, heal the social fabric of our communities, generate networks of local producers, revalue cocoa and chocolate as a food - medicine and not as a candy. For us, cocoa and artisan chocolate are symbols of the joyful rebellion and resistance of our native peoples. We want a chocolate that gives us strength to fight for food sovereignty.
 
 
 #### Carla D. Martin
 
+![](/assets/img/courses/cacao/carla.jpg){:.right.thumb width="300"}
+
 PhD, is the Founder and Executive Director of the Fine Cacao and Chocolate Institute and a Lecturer in the Department of African and African American Studies at Harvard University. Carla is a social anthropologist whose current research focuses on ethics, quality, and politics in cacao and chocolate and draws on several years of domestic and international ethnographic experience. Her writing has appeared or is forthcoming in Transition Magazine, Social Dynamics, The Root, US History Scene, Sodade Magazine, Socio.hu, The Savannah Review, and edited volumes. She lectures widely and has taught extensively in African and African American Studies, critical food studies, social anthropology, and ethnomusicology, and has received numerous awards in recognition of excellence in teaching and research. She currently serves on the Editorial Board of Transition Magazine. Find her online at [carladmartin.com](http://carladmartin.com/) and [@carladmartin](https://twitter.com/carladmartin).
 
 
 #### Edgar Campbel (Afrocacao)
 
+![](/assets/img/courses/cacao/edgar.jpg){:.right.thumb width="300"}
+
 Finca Don Edgar, is a farm with almost 100 years of history. My parents cultivated Cacao and different ground food, which was sent to the market in Limón by boat at that time. At the end of the 1970’s our main crop got infected by the fungus called “monilia” which broke our economy., Oour farm was almost destroyed, because of the lack of knowledge to deal with this sickness, so we looked for other ways of living, migrating to the cities, looking for jobs. After almost 40 years, during which time I became a teacher, was president of the Costa Rica Teachers Union and had other roles in the field of education, I retired and returned to rescue our farm. Applying new knowledge and working with research centers, we have sought to rehabilitate the cacao, and put our farm to work from an agroecological approach, trying to reconstruct our “cacao culture” by remembering and sharing the knowledge of our ancestral customs, using our farm as a school, planting our “first aid kits” remembering our “gastronomy” researching about “grandma's recipes” and using our farm as a tourist sightseeing place, where we share the beauty of Nature and our History through Cacao.
 
 #### Kerstin Roos
+
+![](/assets/img/courses/cacao/kerstin.jpg){:.right.thumb width="300"}
 
 Kerstin’s chocolate journey began when she was seven, and had just moved to Canada from Germany. She missed her favourite chocolate treats so much that she vowed to one day make chocolate like the chocolate she loved back in her country of birth. This dream remained dormant until, at age 30, Kerstin made a career move into the culinary world while living in NYC. She began taking chocolate making classes and started honing her skills as a chocolatier. In 2005 she opened a chocolate shop in Edmonton, Canada and created a line of chocolate confections called Chocophilia. She also offered chocolate workshops that included sensory education.  After studying the history of cacao and the culture around it, she became fascinated by the cacao farmers and their communities.  In 2012 she closed her shop so she could travel with her family to different cacao growing regions around the world.  In 2015,  Kerstin started grad school at the School for International Training in Brattleboro, VT and completed a master’s degree in sustainable development focusing on issues of equity in the cocoa supply chain.  She currently lives in Vermont with her family and offers hands-on workshops for women that involve chocolate making and therapeutic uses of cacao.
 
 #### Gwen Burnyeat
 
+![](/assets/img/courses/cacao/gwen.jpg){:.right.thumb width="300"}
+
 Dr. Gwen Burnyeat is a [junior research fellow in anthropology at Merton College](https://www.merton.ox.ac.uk/people/dr-gwen-burnyeat), University of Oxford, currently researching peace, conflict and polarisation in Colombia. She is author of _["Chocolate, Politics and Peace-Building: An Ethnography of the Peace Community of San José de Apartadó"](https://www.palgrave.com/gb/book/9783319514772)_, Colombia (2018), producer of award-winning ethnographic documentary [Chocolate of Peace](http://chocolatedepaz.com/english) (2016), and member of the peacebuilding organisation [Embrace Dialogue](https://uk.rodeemoseldialogo.org/).
 
+> I am a political anthropologist, and I have been working on peace and conflict in Colombia for over a decade as both an engaged scholar and peacebuilding practitioner, particularly on the recent peace process between the government and the FARC-EP guerrilla. I did my PhD in Social Anthropology at University College London (UCL) as a Wolfson Scholar, and before that lectured in Political Anthropology at the National University of Colombia in Bogotá, where I also did an MPhil in Social Anthropology as a Leverhulme Study-Abroad Scholar. My work spans anthropology of the state and of politics, peace and conflict studies, political theory, and Colombian history, ethnography and politics. My research uses the Colombian case to contribute to urgent global debates on topics such as dialogue and reconciliation, political polarisation, so-called ‘post-truth’ politics, and the crisis of liberalism.
 
 #### Andreas Cordero (Morena Clara)
+
+![](/assets/img/courses/cacao/andreas.jpg){:.right.thumb width="300"}
 
 Morena Clara is an integrated farm that is dedicated to the production and recovery of cacao, which is transformed into chocolate shells, jewelry, drinks, nibs, etc. In 2017 we started with a hectare of land in Talamanca, Limón with cacao varieties donated by the Inter-American Foundation under the tutelage of the Talamanca Caribe Biological Corridor. We planted using a novel ethnohistoric and agroforestry recovery system combining cocoa with fruit trees, timber, medicinal and aromatic plants; most of them, used for decades in the homes of the Afro-descendant population in the area. Experiencing the loss of values ​​and lack of instruction that the young population receives regarding the crops of their ancestors, a project began to develop, not only agricultural but also educational, which included local youth and women heads of households who promote the transmission of healthy and harmonious relations with the environment.
 At the Morena Clara farm the entire process is learned in a dynamic and experiential way from the tree to bar, organic practices have been developed that guarantee healthy fruits with good taste and a final product of quality. During these four years our objective has been to show the productive opportunity in the canton of Talamanca and to educate the new generations who are learning about the history, culture and production of excellent cocoa. We maintain a friendly relationship with the environment and seek spaces to have a better quality of life.
 
 
 #### Marbelly Vargas Urbina (Taye dù: it is my ancestral name  - Bri Bri educator)
+
+![](/assets/img/courses/cacao/marbelly.jpg){:.right.thumb width="300"}
 
 I am an indigenous woman of the Bribri ethnic group of the Duriwak clan, I was born in Puerto Limón, Costa Rica. In 2006, I have been part of the Distance State University in Talamanca since its creation and to date I am the Head of the Talamanca University Headquarters, I have a Master's Degree in Human Rights, with more than 15 years of experience within the indigenous territory of Talamanca. I have undertaken efforts to strengthen the Costa Rican indigenous identity, through ancestral practices, mainly I have been involved in ceremonies of my town, where Cacao is our sacred drink and needs to be present in all the sacred activities of our culture. Cacao is the most important element in our material and spiritual life for us aborigines, for this reason it is used in purification rituals such as funeral ceremonies, birth, and other events of the daily life of the Bri Bri. I am also the author of two documents: Indigenous Territorial Law in Talamanca, and Cultural Rights with special reference to the cosmovision of the indigenous Bribris of Talamanca. I have stood out as an advocate for my own culture.

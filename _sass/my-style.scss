@@ -1,3 +1,18 @@
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
+
+.thumb {
+  padding: 10px;
+  background: white;
+  box-shadow: 0px 0px 18px #ccc;
+  margin: 0 0 15px 15px;
+}
+
 .dl-table {
   a {
     @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
