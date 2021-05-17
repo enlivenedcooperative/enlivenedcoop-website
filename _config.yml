@@ -188,6 +188,8 @@ kramdown:
 # ----------------------------------------------------------------------------------------
 # These settings are specific to Hydejack.
 
+
+
 hydejack:
   # Configure the order of complementary content on blog posts
   post_addons:         [about, newsletter, related, random, comments]
@@ -212,7 +214,7 @@ hydejack:
   # Set to true to disable the built-in search functionality.
   # Note that search is disabled during local use to save on build time.
   # Run Jekyll with the `JEKYLL_ENV` environment variable set to `production` to enable.
-  no_search:           false
+  no_search:           true
 
   # Set to `true` if you do not want parts of the css inlined in <head/>
   # This will increase site build speed dramatically!
