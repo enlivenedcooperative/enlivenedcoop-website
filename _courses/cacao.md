@@ -39,7 +39,7 @@ As a participant what will I encounter in this course?
 * The stories, practices, recipes and guidance of chocolatiers (including the many stages of making chocolate), cacao growers and thinkers.
 * The ecology, processing, history, industrialization and political ecology of cacao and chocolate.
 * Tasting and discerning different kinds of chocolate and understanding the different provenance and commodity chains that exist in the world of cacao (tasting package will be sent to you).
-* The various ways cacao and chocolate has been used to regenerate communities and create international solidarity economies.
+* The various ways cacao and chocolate have been used to regenerate communities and create international solidarity economies.
 * Tools for and guidance in exploring eco-social regeneration in your own context.
 * Get to know other chocolate rebels!
 
