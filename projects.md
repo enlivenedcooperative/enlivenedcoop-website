@@ -10,7 +10,7 @@ no_groups: true
 ## Enlivening Technology
 
 * How do we design convivial technologies which bring us closer to each other, our communities and ecologies?
-* How do we use technology in a balanced way, honoring our bodies, our senses, and our relationship to our surrounding ecology in a world where learning and relationships happen increasingly online mediated by screens,
+* How do we use technology in a balanced way, honoring our bodies, our senses, and our relationship to our surrounding ecology in a world where learning and relationships happen increasingly online mediated by screens?
 
 
 ### Project: Enlivened Learning Web
