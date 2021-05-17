@@ -25,10 +25,10 @@ title:                 Enlivened Cooperative
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  A federated eco-social for-impact organization offering relevant, meaningful and innovative learning experiences.
+  An eco-social for-impact organization offering relevant, meaningful and innovative learning experiences.
 
 # A shorter description for the sidebar.
-tagline: "A federated eco-social for-impact organization offering relevant, meaningful and innovative learning experiences."
+tagline: "An eco-social for-impact organization offering relevant, meaningful and innovative learning experiences."
 
 # A list of keywords for your blog
 keywords:              []
