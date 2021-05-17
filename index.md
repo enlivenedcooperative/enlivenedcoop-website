@@ -52,5 +52,3 @@ A neglected analysis and innovation to the contemporary crises lies in how and w
 The Enlivened Cooperative is a growing collective of diverse and highly experienced learning practitioners who have been actively engaged in the field of education as teachers, professors, researchers, activists, leaders, artists, filmmakers, programers, and learners. We have been re-imagining learning, education, research and leadership over many decades in schools, universities, indigenous communities and marginalized communities working at local, regional, and planetary levels. We come from, and dwell in places from around the world immersed in experiments in community activism, cross-cultural and eco-social learning, and the open source movement.
 
 The Enlivened Cooperative has emerged partially out of the ongoing work of the [Ecoversities Alliance](https://ecoversities.org), which has been active since 2015 came to fruition as a strategic response to the inability of current higher education models to adequately respond to our planetary crises.
-
-Amazing site!
