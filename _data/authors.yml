@@ -26,11 +26,11 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         enlivenedcooperative
+    # twitter:         enlivenedcooperative
     github:          enlivenedcooperative
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
-    # facebook:        <username>
+    facebook:        enlivenedcoop
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
@@ -39,7 +39,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
+    instagram:       enlivenedcooperative
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -57,7 +57,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        enlivenedcooperative
+    linkedin:        enlivened-cooperative
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
