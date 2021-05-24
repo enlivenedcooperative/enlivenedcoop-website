@@ -25,9 +25,9 @@ accent_image:
 sitemap: false
 ---
 
-From its origins in Mesoamerican societies to today’s global commodity chains, cacao has continuously shaped and been shaped by the communities it has grown with. What is the allure of this tree, its spiritual and medicinal value? How has the ecology, farming practices, processing and cooking of cacao and been transformed over the centuries? What impact has cacao had in the societies it has encountered? What human cultures has this tree gathered around it (such as: Mesoamerican, Afro Caribbean, industrial processing, transnational cooperative solidarity economies, regenerative agroforestry, craft chocolatiers) and what can we learn from these cultures about social-ecological wellbeing?
+From its origins in Mesoamerican societies to today’s global commodity chains, cacao has continuously shaped and been shaped by the communities it has grown with. What is the allure of this tree, its spiritual and medicinal value? How has the ecology, farming practices, processing and cooking of cacao and been transformed over the centuries? What impact has cacao had in the societies it has encountered? What human cultures has this tree gathered around it (such as: Mesoamerican, Afro-Caribbean, industrial processing, transnational cooperative solidarity economies, regenerative agroforestry, craft chocolatiers) and what can we learn from these cultures about social-ecological wellbeing?  
 
-This online 12 week course will engage with these questions and bring together representatives from these different cultures and areas of expertise towards a holistic engagement with cacao and chocolate. The 2 hour weekly sessions with facilitators from different cultures/knowledge systems, will share different tastings, outlooks, stories, experiences, inquiries and practices. Through the lens of cacao and its relation to these cultures, learners will experience different phases of the chocolate making process (from bean to bar), try out exercises and practices (including recipes) and tastings at home and explore their own place - local ecology and community through a series of invited tasks. Learners will grow through the weeks within a perspective of a cacao tree and its mycelia from the kernel of cacao towards the present moment of planetary alliances of solidarity and affinity chains of chocolate.
+This online 12 week course will engage with these questions and bring together representatives from these different cultures and areas of expertise towards a holistic engagement with cacao and chocolate. The 2 hour weekly sessions with facilitators from different cultures/knowledge systems, will share different tastings, outlooks, stories, experiences, inquiries and practices. Through the lens of cacao and its relation to these cultures, learners will experience different phases of the chocolate making process (from bean to bar), try out recipes and tastings at home and explore their own place - local ecology and community through a series of lectures, conversations and invited tasks. Learners will grow through the weeks within a perspective of a cacao tree and its mycelia from the kernel of cacao towards the present moment of planetary alliances of solidarity and affinity chains of chocolate.
 
 ## Dates and times
 
@@ -38,8 +38,8 @@ As a participant what will I encounter in this course?
 * Experience an elivened way of learning and being in a diverse learning community with faculty, practitioners and other participants from many regions of the world.
 * The stories, practices, recipes and guidance of chocolatiers (including the many stages of making chocolate), cacao growers and thinkers.
 * The ecology, processing, history, industrialization and political ecology of cacao and chocolate.
-* Tasting and discerning different kinds of chocolate and understanding the different provenance and commodity chains that exist in the world of cacao (tasing package will be sent to you).
-* The various ways cacao and chocolate has been used to regenerate communities and create international solidarity economies.
+* Tasting and discerning different kinds of chocolate and understanding the different provenance and commodity chains that exist in the world of cacao (tasting package will be sent to you).
+* The various ways cacao and chocolate have been used to regenerate communities and create international solidarity economies.
 * Tools for and guidance in exploring eco-social regeneration in your own context.
 * Get to know other chocolate rebels!
 

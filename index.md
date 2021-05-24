@@ -14,7 +14,7 @@ redirect_from:
   - /about/
 ---
 
-The **Enlivened Cooperative** is a worker-owned, not-for-profit, eco-social learning organization. We are reimagining learning in support of people, grassroots communities and organizations with tools, practices and sensibilities to co-construct inter-cultural and ecological worlds. For us, this involves bringing together principles of cooperativism, biomimicry and intercultural learning. We organize ourselves as an eco-social learning cooperative, enlivening how and what we learn together and in place. We also enliven learning by learning with our heads, hearts, hands and home, emphasising joyful learning in and with diversity and our relationships.
+The **Enlivened Cooperative** is a worker-owned, not-for-profit, eco-social learning organization. We are reimagining learning in support of people, grassroots communities and organizations with tools, practices and sensibilities to co-construct inter-cultural and ecological worlds. For us, this involves bringing together principles of cooperativism, biomimicry, inter-cultural learning and well-being. We organize ourselves as an eco-social learning cooperative, enlivening how and what we learn together and in places we are currently rooted. We also enliven learning by connecting our heads, hearts, hands and home, emphasizing joyful learning in and with diversity and our relationships.
 {:.lead}
 
 ![Full-width image](/assets/img/blog/coop-01.png){:.lead width="1920" height="1080" loading="lazy"}
