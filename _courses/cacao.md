@@ -53,7 +53,7 @@ The course will be mainly in English with subtitle translation into Spanish avai
 
 | Your income is   | You pay |
 |------------------|:------------|
-| > $15,000         | $100 (and see below)* |
+| < $15,000         | $100 (and see below)* |
 | $15,000           | $150 |
 | $15,001 – $25,000 | $250 |
 | $25,001 – $35,000 | $350 |
