@@ -8,4 +8,6 @@ Social activist, unprofessionalized intellectual, unschooled father, manager of 
 
 ## UDI MANDEL
 
+![](/assets/img/udi photo .jpg){:.right.thumb width="150"}
+
 With 20 years of experience teaching in higher education and collaborating with communities in Europe, North and Latin America, Udi’s work focuses on the role and possibility of learning and collaboration to offer hopeful futures. Udi co-founded with Kelly Teamey and others the _Enlivened Learning Project_ and the Ecoversities Alliance, an international alliance of learning places committed to social and ecological justice and regeneration. 
