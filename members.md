@@ -2,6 +2,8 @@
 
 ## FRANCO AUGUSTO
 
+![](/assets/img/franco.png){:.right.thumb width="150"}
+
 Social activist, unprofessionalized intellectual, unschooled father, manager of open collaborative projects and documentalist of alternatives around the planet, Franco has been collaborating with processes of social transformation for almost 20 years now. He has participated in multiple initiatives related to learning, communication, technologies, social economy and research on alternative proposals and models.
 
 ## UDI MANDEL
