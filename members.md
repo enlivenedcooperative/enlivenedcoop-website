@@ -33,3 +33,4 @@ Paige is a creative educator, designer, and explorer working in the medium of sc
 ## RORY PHIMISTER
 
 Rory has spent 20 years implementing learning management solutions with multilateral agencies and nonprofits in the United States, the Middle East, and East Africa.  He has broad experience managing the grant cycle from pre-award research and proposal writing to post award grant compliance, budget control, and contract closeout. Rory is happiest when he is collaborating with teams of learners to leverage both traditional and online learning methodologies.
+
