@@ -32,7 +32,7 @@ This online 12 week course will engage with these questions and bring together r
 ## Dates and times
 
 Starting Saturday the 10th of July at (8pm London, 3pm Eastern Time, 2pm Mexico City, 12pm Pacific Standard Time). 2 hour weekly zoom sessions, finishing on the 25th of September.
-Sessions will also be recorded and available on a dedicated course website alongside other course materials.
+Sessions will also be recorded and available on a dedicated course website alongside other course materials. In case you miss some sessions you can still participate in the course through the recordingds, shared materials and discussion spaces.
 
 As a participant what will I encounter in this course?
 * Experience an elivened way of learning and being in a diverse learning community with faculty, practitioners and other participants from many regions of the world.
@@ -69,7 +69,7 @@ The cost of the course includes a 350 grams sampling box of chocolates and cacao
 
 ## Application Process
 
-**Please register and make a payment through the following link by the 21st of June: [https://events.humanitix.com/arboreal-learning-with-cacao](https://events.humanitix.com/arboreal-learning-with-cacao)**
+**Please register and make a payment through the following link by the 4th of July: [https://events.humanitix.com/arboreal-learning-with-cacao](https://events.humanitix.com/arboreal-learning-with-cacao)**
 
 Be sure to include the postal address to which the chocolate tasting package will be sent to.
 
