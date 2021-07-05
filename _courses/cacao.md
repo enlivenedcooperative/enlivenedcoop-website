@@ -69,7 +69,7 @@ The cost of the course includes a 350 grams sampling box of chocolates and cacao
 
 ## Application Process
 
-**Please register and make a payment through the following link by the 4th of July: [https://events.humanitix.com/arboreal-learning-with-cacao](https://events.humanitix.com/arboreal-learning-with-cacao)**
+**Please register and make a payment through the following link by the 8th of July: [https://events.humanitix.com/arboreal-learning-with-cacao](https://events.humanitix.com/arboreal-learning-with-cacao)**
 
 Be sure to include the postal address to which the chocolate tasting package will be sent to.
 
