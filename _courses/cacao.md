@@ -31,7 +31,7 @@ This online 12 week course will engage with these questions and bring together r
 
 ## Dates and times
 
-Starting Saturday the 10th of July at (8pm London, 3pm Eastern Time, 2pm Mexico City, 12pm Pacific Standard Time). 2 hour weekly zoom sessions, finishing on the 25th of September.
+Starting Saturday the 10th of July at (16pm Eastern Time). 2 hour weekly zoom sessions, finishing on the 25th of September.
 Sessions will also be recorded and available on a dedicated course website alongside other course materials. In case you miss some sessions you can still participate in the course through the recordingds, shared materials and discussion spaces.
 
 As a participant what will I encounter in this course?
