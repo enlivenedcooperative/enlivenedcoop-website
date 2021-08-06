@@ -14,7 +14,7 @@ image:
 
 links:
   - title: Register to this course
-    url: https://events.humanitix.com/arboreal-learning-with-cacao
+    url: https://events.humanitix.com/body-wisdom-yatra
 
 accent_color: '#4fb1ba'
 accent_image:
