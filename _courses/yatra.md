@@ -152,19 +152,27 @@ In the modern world, we have lost touch with our bodies and the entire focus is 
 
 ### Wishal Singh Dhaybhai
 
+![](/assets/img/courses/yatra/wishal.jpg){:.right.thumb width="400"}
+
 Vishal has been practicing InterPlay since 2014. He’s a mixed bag of skills and interests, including up-cycling, zero waste, clowning and cracking bad jokes. Vishal facilitates experiences and workshops on body wisdom, zero waste and design thinking, that enable people to discover more possibilities in their life and be more connected with themselves, Mother Earth and others around them. Vishal is one of the founding members of ECO HUT, a shop that designs and makes eco friendly items. He also is a facilitator of Eco Jam and Arts for Social Change Jam.
 Vishal has been awarded the titles of ‘Udaipur Green Hero’ and ‘Green Mewar’ and loves to take you on a walk and tell stories about the old streets of Udaipur and its lakes.
 
 
 ### Vibhuti
 
+![](/assets/img/courses/yatra/vibhuti.jpg){:.right.thumb width="400"}
+
 Vibhuti believes that she found one of her passions with Interplay and body work. She is a trained leader of Interplay and also participated in the Arts and Social Change Millennial program in California in 2018. She uses the tools of body wisdom, clowning, small group pedagogy to create spaces to discover one's inner self. She loves that she is finding more playfulness in herself with these tools and wishes more and more people to embrace the lightness and connection with our bodies. She works with young adults through Youth Alliance and also is a facilitator and clown at Purple Mangoes.
 
 ### Tripura Kashyap
 
+![](/assets/img/courses/yatra/tripura.jpg){:.right.thumb width="400"}
+
 Pioneered Dance Movement Therapy in India in 1990. She received a 1st class diploma in Bharatanatyam from Kalakshetra, Chennai and was a performing artiste in the Chandralekha dance company, Chennai. She later studied Movement therapy at the Hancock Centre for Dance/movement therapy in Wisconsin, USA and received an M.A. in Psychology.  She worked as a Movement therapist at Half-way homes, Special schools, Treatment / Rehabilitation centres, Senior citizens facilities and with individual clients for the next 10 years. Tripura received fellowships from the Ashoka International Foundation and Indian Ministry of Culture for her innovations in dance therapy and contemporary dance. She authored ‘My Body, My Wisdom’ a handbook on Creative dance therapy and ‘Contemporary Dance: Practices, Paradigms and Practitioners’ published by Penguin and Aayu publications.   Tripura is the co-founder of Creative Movement Therapy Association of India (CMTAI) and teaches movement therapy certificate and diploma courses. She is also on the visiting faculty of Ashoka University and Ambedkar University
 
 ### Sukhmani Kohli
+
+![](/assets/img/courses/yatra/sukhmani.jpg){:.right.thumb width="400"}
 
 She has been engaged with theatre for 18 years and been working as a facilitator and trainer for 11 years. Currently, along with teaching theatre to young people, she performs as a clown and also teaches the sacred art of Red Nose Clowning. As a facilitator, she uses the wisdom of theatre and clowning, to help people discover and accept who they really are and to learn to play again without inhibitions. She is also trained in working with facilitation tools from Art of Hosting, Interplay, Empathetic facilitation, etc to hold safe spaces for people to help them self-reflect and discover newer ways of being and working together. Her work involves a fine balance of process work like self discovery, group work, mind-body-spirit exploration and skills like storytelling, body work, communication, stage presence and improvisation.
 
@@ -172,6 +180,8 @@ She has been engaged with theatre for 18 years and been working as a facilitator
 
 
 ### Belén Alfaro
+
+![](/assets/img/courses/yatra/belen.jpg){:.right.thumb width="400"}
 
 Scenic Artist, movement researcher, pedagogue and performer.
 
@@ -181,24 +191,45 @@ I recognize myself as a creator and scenic interpreter, I develop as a theater p
 
 ### Dani d’Emilia
 
+![](/assets/img/courses/yatra/dani.jpg){:.right.thumb width="400"}
+
+
 She is an artist and educator working in the fields of performance, visual art, devised theatre, radical pedagogy and social-relational justice. Since 2014 Radical Tenderness has been a main guiding force in her political-affective art-life practices. Her work attempts to engage cuir-metabolic sensibilities towards the expansion of intimacies and the deactivation of the logic of separability within ourselves and our wider relations. Dani is a co-founder of the immersive theatre company Living Structures (UK) and the art space Roundabout.lx (PT). She was a core member of the performance collectives La Pocha Nostra (MX/US) and Proyecto Inmiscuir (MX/ES). Dani is a member of the collective Gesturing Towards Decolonial Futures and a collaborator of ANDlab (Research Centre for Art-Thinking & Politics of Togetherness). During 2018-19, with the support of Musagetes Foundation, Dani and Vanessa Andreotti began an artistic-pedagogic investigation entitled ‘Engaged dis-identifications’ which explores the workings of non-notional possibilities of co-existence through performative practices, which they continue to unfold in their collaborations. + info: www.danidemilia.com
 
 ### Sarah Amsler
 
+![](/assets/img/courses/yatra/surah.jpg){:.right.thumb width="400"}
+
+
 She is a researcher, writer and educator. Her work is dedicated to visibilizing and interrupting systems of affective, conceptual, political and relational power that fuel processes of human-inclusive ecological suffering and destruction, particularly through patterns of interpersonal, historical-social, epistemic, ontological, and metabolic violence. Critical analyses of modernity-coloniality and decolonization, transfeminist studies of knowledge and science, queer theory, critical and queer ecologies, material-process philosophies, and affective-somatic practice inform her work to create pedagogies for being and becoming otherwise; expanding radically relational possibility, accountability and response-ability; countering coloniality in education and everyday political-intimate-collective life within post-imperial and settler-colonial contexts as well as translocal communities; and mobilizing embodied biopoethics as one of many pathways towards (re)learning and nurturing inseparable co-existence. She is Associate Professor of Education at the University of Nottingham and a member of the Our Bodhi Project and Gesturing Towards Decolonial Futures art-ecology-research collectives.
 
 ### Mariana
+
+![](/assets/img/courses/yatra/mariana.jpg){:.right.thumb width="300"}
+
 She is a yoga teacher and circus air artist. She holds a bachelor's degree in Hatha Yoga Integral and a Master's degree in Arts. He currently works at Circo-escola Circo da Lua, in Serra Grande (Bahia) and in the  Espaço Comum Luiz Estrela, in Belo Horizonte (Minas Gerais).
 
 ### Joví
 
 is an art educator with a background in theater of the oppressed and circus arts. He is currently a circus-theatre teacher at Circo-escola Circo da Lua.
 
+### Ana Lucía Piñán Elizondo
+
+![](/assets/img/courses/yatra/ana.jpg){:.right.thumb width="400"}
+
+Therapist and Educator in Somatic Movement by the EastWest Institute, completing her studies in Shin Somatics Bodywork, Shin Somatics (Land to Water) Yoga and multidisciplinary studies in movement arts, dance and body awareness.
+She is a scenic creator, teacher and researcher, mainly from the link between the body, technology, inter and transdisciplinarity.
+She has a Cum Laude doctorate in Art, Production and Research from the Polytechnic University of Valencia, Spain, with the research Perception and presence of the body in the society of the screen.
+Master in Aesthetics and Art, Bachelor of Modern and Classical Dance and Specialist in Cultural Policies.
+She has presented her work, both artistic and academic, in Spain, Argentina, and different Central American countries.
+
 
 
 ## Curating Team
 
 ### Gerardo López-Amaro
+
+![](/assets/img/courses/yatra/gerardo.jpg){:.right.thumb width="400"}
 
 Weaver of feelings and thoughts. He engages in activist scholarship around Buen Vivir, ecopedagogies and practices of re-existence. He explores ways to highlight the experiments to co-create viable alternatives to the current system and address the global challenges of our times. He is a PhD candidate in Anthropology and Social Change by the California Institute of Integral Studies (CIIS). He wonders, practices and writes about the possibilities for the emergence of another possible world learning with grassroots movements. He is part of the Steering Committee of the Ecoversities Alliance and co-founder of several initiatives and projects around human rights, permaculture, and community organizing.
 
@@ -207,6 +238,8 @@ Weaver of feelings and thoughts. He engages in activist scholarship around Buen 
 Harsh was a khoji at Swaraj university. He comes from Ara, a small town in Bihar, India. He had been exploring many fields such as filmmaking, photography, event management and self understanding. He also love to travel a lot to explore Rural and Folk cultures .He would like to spread, promote and learn about these hidden treasures. And for that he had work with THE PARI project in Rajasthan. He also worked with Abhivyakti media for development ,Nasik to explore Community media specifically Community films. He has been also working with Shikshantar Andolan,Udaipur as he thinks the modern education system is destroying the culture. Because of that he walked out of that system after his high school. He also helped in constructing the Hacking education System Fellowship and was working on it. He loves to go into the wild, trek and camp. Spending time under the open sky and getting close to nature. He dreams of a society free of conditioning and based on love, trust, and compassion. He has been traveling to different cities with the vision of creating learning city through Learning City unConference. He deeply believes in the power of community, collective Intelligences and the magic of Chaos. He was working with Manish Jain, who has been leading the deschooling movement in and around the world organizing Learning Societies unConference in Sardarshahar 2016, Bangalore 2017, Odisha 2019 and Sardarshahar in 2020. He has also been helping Shikshantar in Coordinating there major networks which are LSuC, Indian Multiversities Alliance and Swapathgami Walkouts Network by organizing events and gatherings. He has been supporting Swaraj university by coordinating and organizing short term workshops/courses. He had been practicing the Art of Hosting For six years now and also sharing it for two years. He was living with a community in Jaipur called AhimsaGram, trying to learn and implement N.V.C, Sociocracy and Restorative practices. From the past two years he has been very inclined towards Shamanism and learning rituals for healing and other similar practices. He also started hosting MEN’s circles in places He travel from the last two Years. He loves sounds and music and keeps trying to make them. Combining what he has learnt in past years he also designed a workshop which he calls “The Paths of unLearning.” To embrace his passion for travelling and core interest in education he started "Vimukt Shiksha Yatra" along with Shikshantar and Indian Multiversity Alliance which is a learning journey to explore learning spaces, individuals, projects and programs which are working on reimagining education. Currently he is also serving as a Weaver in Ecoversities Alliance (www.ecoversities.org) and As a Steering Committee member in Indian Multiversities Alliance (www.multiversities.net). And last year he has been part of initiating a youth festival for the social sector youth which is called "2069?: The Youth Festival" and has been active convener for the same this year also. For the last four years one of the most important explorations for him has been around body wisdom and its intelligence through different mediums like clowning, Interplay. He is also practicing Contact improvisation, a dance form and shares that from the last three years. He is very much inspired by Kabir Das's philosophies and quotes. One of the most inspiring quotes for him has been "Bura jo dekhan main chala, Bura na milya koi, jo mann dekha aapne, Mujhse bura na koi."
 
 ### Fouziya Tehzeeb
+
+![](/assets/img/courses/yatra/fouziya.jpg){:.right.thumb width="400"}
 
 Fouziya was born and brought up in Jammu and Kashmir. She firmly believes in speaking and standing up for everybody and everything. As a woman, she identifies herself as a women's rights advocate; as part of the environment she inhabits, she aspires to live in harmony with nature; as a person born in conflict zone, she has deep empathy for the marginalized and oppressed. She is an independent writer and is currently doing a research on the Landmine victims of Jammu and Kashmir valley.
 
