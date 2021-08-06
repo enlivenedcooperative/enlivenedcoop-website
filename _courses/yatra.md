@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Vimukt Shiksha Body Wisdoms Yatra: Movement, Liberation and Embodied Awareness'
+title: 'Body Wisdoms Yatra: Movement, Liberation and Embodied Awareness'
 description: >
   To reconnect with the body is to enliven the wisdom of the experience. The normativity of the current system of oppression has taught us to judge the body and classify it in sizes and shapes, motivational phrases and even spiritual paths, generalizing people and their processes and alienating too many from their own source of deep communion with the movement of life.
 
@@ -14,7 +14,7 @@ image:
 
 links:
   - title: Register to this course
-    url: https://events.humanitix.com/arboreal-learning-with-cacao
+    url: https://events.humanitix.com/body-wisdom-yatra
 
 accent_color: '#4fb1ba'
 accent_image:
@@ -70,7 +70,7 @@ The course will be mainly in English with subtitle translation into Spanish avai
 
 ## Registration
 
-...?
+https://events.humanitix.com/body-wisdom-yatra
 
 ## Workshop Format
 
