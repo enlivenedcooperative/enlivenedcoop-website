@@ -114,6 +114,10 @@ Practice that strengthens and expands our body / mind awareness assimilating tha
 -----
 Monday August 23rd: _Superficie Profunda_. Mexico. Ana Lucía
 
+Superficie Profunda (Deep Surface) is a Somatic Movement Laboratory that seeks an encounter and reencounter with one's own body and its multidirectional perception. Deep surface explores the three-dimensionality of the body that is on the screen, as well as various strategies to express it in a deeper way from the recognition of body tissues that help us to rebuild our sides and our back, and with this awareness, the inside. from which (we) inhabit.
+
+Deep Surface, based on the principles of Shin Somatics Movement, is the result of a long research on how new technologies affect the perception of and from our own body and therefore of our being in the world, activating a body capable of expressing itself from places that, more and more, escape to everyday life.
+
 -----
 Tuesday August 24th: _Yoga do Riso_. **Circo da Lua** - Brazil
 
