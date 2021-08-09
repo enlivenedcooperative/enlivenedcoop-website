@@ -59,8 +59,8 @@ The course will be mainly in English with subtitle translation into Spanish avai
 
 | Your income is   | You pay |
 |------------------|:------------|
-| < $15,000         | $75 (and see below)* |
-| $15,000           | $100 |
+| < $7,500          | $35 (and see below)* |
+| $15,000 - $7,500  | $75 |
 | $15,001 – $25,000 | $150 |
 | $25,001 – $35,000 | $200 |
 
@@ -150,7 +150,7 @@ In the modern world, we have lost touch with our bodies and the entire focus is 
 * Portugal - Dani d’Emilia (Gesturing Towards Decolonial Futures)
 * UK – Sarah Amsler (Gesturing Towards Decolonial Futures)
 * Brazil - Mariana and Joví (Circo-Scola da Lua)
-* Mexico - Ana Lucía
+* Mexico - Ana Lucía Piñán Elizondo
 
 ## Bios
 
