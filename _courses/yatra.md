@@ -24,6 +24,7 @@ accent_image:
 
   overlay:    true
 sitemap: false
+published: false
 ---
 
 To reconnect with the body is to enliven the wisdom of the experience. The normativity of the current system of oppression has taught us to judge the body and classify it in sizes and shapes, motivational phrases and even spiritual paths, generalizing people and their processes and alienating too many from their own source of deep communion with the movement of life.
