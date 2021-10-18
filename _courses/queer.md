@@ -14,7 +14,7 @@ image:
 
 links:
   - title: Register to this workshop
-    url:
+    url: https://events.humanitix.com/queer-metabolic-sensibilities
 
 accent_color: '#4fb1ba'
 accent_image:
@@ -33,6 +33,10 @@ Sensing interconnection with the pluri-body intelligences of vital existence all
 ## Dates and times
 
 Thursday, November 18th from 10am-12:30pm ET
+
+## Registration
+
+**Go to [this page to register now](https://events.humanitix.com/queer-metabolic-sensibilities)!**
 
 ## Workshop Costs
 
