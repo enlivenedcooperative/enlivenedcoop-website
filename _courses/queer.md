@@ -4,7 +4,7 @@ title: 'Tuning into queer metabolic sensibilities'
 description: >
   Tuning into queer metabolic sensibilities. A workshop by Dani d’Emilia and Sarah Amsler
 
-date: 18 Nov 2020
+date: 1 Oct 2021
 image:
   path: /assets/img/courses/queer.jpg
   srcset:
