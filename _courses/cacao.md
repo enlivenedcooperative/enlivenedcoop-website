@@ -12,8 +12,8 @@ image:
     640w: /assets/img/courses/cacao-640.jpg
 
 links:
-  - title: Register to this course
-    url: https://events.humanitix.com/arboreal-learning-with-cacao
+  # - title: Registration is closed
+    # url: https://events.humanitix.com/arboreal-learning-with-cacao
 
 accent_color: '#4fb1ba'
 accent_image:
@@ -24,6 +24,8 @@ accent_image:
   overlay:    true
 sitemap: false
 ---
+
+> **This course is not open at this moment**
 
 From its origins in Mesoamerican societies to today’s global commodity chains, cacao has continuously shaped and been shaped by the communities it has grown with. What is the allure of this tree, its spiritual and medicinal value? How has the ecology, farming practices, processing and cooking of cacao and been transformed over the centuries? What impact has cacao had in the societies it has encountered? What human cultures has this tree gathered around it (such as: Mesoamerican, Afro-Caribbean, industrial processing, transnational cooperative solidarity economies, regenerative agroforestry, craft chocolatiers) and what can we learn from these cultures about social-ecological wellbeing?
 
@@ -69,7 +71,7 @@ The cost of the course includes a 350 grams sampling box of chocolates and cacao
 
 ## Application Process
 
-**Registrations for this event have now closed, keep an eye out for the next time we will run the course sometime in early 2022.  
+**Registrations for this event have now closed, keep an eye out for the next time we will run the course sometime in early 2022.
 Any questions about this event and others you can reach us on: info@enlivenedcooperative.org**
 
 Be sure to include the postal address to which the chocolate tasting package will be sent to.
