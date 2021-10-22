@@ -4,7 +4,7 @@ title: 'Tuning into queer metabolic sensibilities'
 description: >
   Tuning into queer metabolic sensibilities. A workshop by Dani d’Emilia and Sarah Amsler
 
-date: 18 Nov 2020
+date: 1 Oct 2021
 image:
   path: /assets/img/courses/queer.jpg
   srcset:
@@ -14,7 +14,7 @@ image:
 
 links:
   - title: Register to this workshop
-    url:
+    url: https://events.humanitix.com/queer-metabolic-sensibilities
 
 accent_color: '#4fb1ba'
 accent_image:
@@ -33,6 +33,10 @@ Sensing interconnection with the pluri-body intelligences of vital existence all
 ## Dates and times
 
 Thursday, November 18th from 10am-12:30pm ET
+
+## Registration
+
+**Go to [this page to register now](https://events.humanitix.com/queer-metabolic-sensibilities)!**
 
 ## Workshop Costs
 
