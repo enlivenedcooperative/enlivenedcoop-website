@@ -44,20 +44,25 @@ The workshop is offered in the spirit of gift culture and economics, inspired by
 
 We provide here a non-prescriptive guide to orient your generous donation for the presenters, organizers and the Cooperative.
 
-| Your income is   | You pay |
-|------------------|:------------|
-| < $15,000         | $0(*) |
-| $15,001 – $25,000 | $5 |
-| $25,001 – $45,000 | $20 |
-| $45,001 – $75,000 | $40 |
-| $75,001 – $100,000 | $70 |
-| Above $101,000 | $100 |
+Payment proposal:
 
-(*) Register without a financial donation at this time. Please consider supporting Enlivened Cooperative in the future.
-{:.note-sm title="About costs"}
+* if you earn less than $6,000 yearly:
+  * feel free to register with whatever amount is possible and/or without making a financial donation at this time
 
+* if you earn between $6,001 – $12,000
+  * we suggest a minimum of $10
 
-If you are being sent by an organization with an annual budget over $200,000, or would like to pay it forward towards our scholarship fund please make a payment of $200+ US.
+* if you earn between $12,001 – $24,000
+  * we suggest a minimum of $20
+
+* if you earn between $24,001 – $48,000
+  * we suggest a minimum of $40
+
+* if you earn more than $48,001 – $60,000
+  * we suggest a minimum of $100
+
+* if you earn more than $60,001
+  * we suggest a minimum of $200
 
 
 ## Bios
