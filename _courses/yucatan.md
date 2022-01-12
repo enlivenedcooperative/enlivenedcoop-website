@@ -1,8 +1,6 @@
 ---
 layout: project
 title: 'Yucatán journey: extinctions, ocean, cenotes and time '
-description: >
-  To reconnect with the body is to enliven the wisdom of the experience. The normativity of the current system of oppression has taught us to judge the body and classify it in sizes and shapes, motivational phrases and even spiritual paths, generalizing people and their processes and alienating too many from their own source of deep communion with the movement of life.
 
 date: 1 Jan 2022
 image:
@@ -108,7 +106,14 @@ Arrive at Cancun International Airport. Transfer to our hotel. Meet your Learnin
 
 ![](/assets/img/courses/yucatan/yucatan-03.jpg){:.right.thumb width="350"}
 
-After a 2h30min drive, we will visit [Chichén Itzá](https://www.lonelyplanet.com/mexico/yucatan-peninsula/chichen-itza), the most important archaeological vestige of the Maya-Toltec civilization in Yucatan (10th-15th centuries). Its monuments are among the undisputed masterpieces of Mesoamerican architecture because of the beauty of their proportions, the refinement of their construction and the splendor of their sculpted decorations that have made it one of the Wonders of the World. We will visit this ancient city with the help of a local expert, learning about archeo-astronomy. In the evening, we will host a lecture and conversation on astronomy and Deep Time perspectives. Sleep in the Valladolid area.
+After a 2h30min drive, we will visit Chichén Itzá, the most important archaeological
+vestige of the Maya-Toltec civilization in Yucatan (10th-15th centuries). Its monuments
+are among the undisputed masterpieces of Mesoamerican architecture because of the beauty
+of their proportions, the refinement of their construction and the splendor of their
+sculpted decorations that have made it one of the Wonders of the World. We will visit
+this ancient city with the help of a local expert, learning about archeo-astronomy. In
+the evening, we will host a lecture and conversation on astronomy and Deep Time
+perspectives. Sleep in the Valladolid area.
 
 ### Day 3. Cenote Xooch
 
