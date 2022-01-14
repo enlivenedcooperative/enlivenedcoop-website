@@ -27,9 +27,6 @@ accent_image:
 # INTERBEING LEARNING JOURNEY YUCATAN
 
 # Table of Contents
-- [INTERBEING LEARNING JOURNEY YUCATAN](#interbeing-learning-journey-yucatan)
-- [Table of Contents](#table-of-contents)
-- [Yucatan journey: weaving time and care for life in times of climate emergency](#yucatan-journey-weaving-time-and-care-for-life-in-times-of-climate-emergency)
   - [Ecopedagogy and travelling](#ecopedagogy-and-travelling)
   - [Itinerary](#itinerary)
     - [Day 1. Arrival](#day-1-arrival)
@@ -138,6 +135,7 @@ We will travel To Tulum, the ancient seaport and city with a stunning view of th
 ![](/assets/img/courses/yucatan/yucatan-09.jpg){:.right.thumb width="350"}
 
 We will enjoy free time by the white-sand beach and delight in the turquoise waters of the Caribbean. After lunch, we will hold space for preparing for an emergent and self-organized bonfire/stories/art night. As an off the grid area, this will be a great opportunity for stargazing.
+
 
 
 ### Day 10. Sian Ka'an
