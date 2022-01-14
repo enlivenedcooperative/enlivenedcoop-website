@@ -12,7 +12,7 @@ image:
 
 links:
   - title: Apply to this course
-    url: #https://docs.google.com/forms/d/e/1FAIpQLSem0Du4snt53-iCdFeHjes1Pv8PTQkuJanr9BsCKJS--DB_-A/viewform?usp=sf_link
+    url: https://docs.google.com/forms/d/e/1FAIpQLSem0Du4snt53-iCdFeHjes1Pv8PTQkuJanr9BsCKJS--DB_-A/viewform?usp=sf_link
 
 accent_color: '#4fb1ba'
 accent_image:
@@ -27,19 +27,9 @@ accent_image:
 # INTERBEING LEARNING JOURNEY YUCATAN
 
 # Table of Contents
+  - [Yucatan journey] (#yucatan-journey)
   - [Ecopedagogy and travelling](#ecopedagogy-and-travelling)
   - [Itinerary](#itinerary)
-    - [Day 1. Arrival](#day-1-arrival)
-    - [Day 2. Chichén Itzá](#day-2-chichén-itzá)
-    - [Day 3. Cenote Xooch](#day-3-cenote-xooch)
-    - [Day 4. Peto](#day-4-peto)
-    - [Day 5. Lagoon of Bacalar](#day-5-lagoon-of-bacalar)
-    - [Day 6. Lagoon of Bacalar](#day-6-lagoon-of-bacalar)
-    - [Day 7. Banco Chinchorro](#day-7-banco-chinchorro)
-    - [Day 8. Tulum](#day-8-tulum)
-    - [Day 9. Sian Ka'an](#day-9-sian-kaan)
-    - [Day 10. Sian Ka'an](#day-10-sian-kaan)
-    - [Day 11. Departures](#day-11-departures)
   - [Your journey includes:](#your-journey-includes)
   - [Reasons to participate](#reasons-to-participate)
   - [Ethics and economy](#ethics-and-economy)
