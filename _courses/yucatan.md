@@ -14,6 +14,7 @@ links:
   - title: Apply to this course
     url: (https://docs.google.com/forms/d/e/1FAIpQLSem0Du4snt53-iCdFeHjes1Pv8PTQkuJanr9BsCKJS--DB_-A/viewform?usp=sf_link)
 
+
 accent_color: '#4fb1ba'
 accent_image:
   background: 'url(/assets/img/courses/yucatan.jpg), linear-gradient(to bottom, #0a7b81 0%, #01636e 25%, #02505b 50%, #073a4a 75%, #082e39 100%)'
@@ -27,7 +28,7 @@ accent_image:
 # INTERBEING LEARNING JOURNEY YUCATAN
 
 # Table of Contents
-  - [Yucatan journey] (#yucatan-journey)
+  
   - [Ecopedagogy and travelling](#ecopedagogy-and-travelling)
   - [Itinerary](#itinerary)
   - [Your journey includes:](#your-journey-includes)
@@ -130,6 +131,7 @@ We will enjoy free time by the white-sand beach and delight in the turquoise wat
 
 ### Day 10. Sian Ka'an
 
+
 ![](/assets/img/courses/yucatan/yucatan-04.jpg){:.right.thumb width="350"}
 
 We will host a day of integration and sharing of the experiences and learnings during the journey. We will close with final reflections, ceremony and a celebration.
@@ -153,7 +155,7 @@ Itinerary at a glance:
 * All entrance fees for archaeological sites, nature preserves and other attractions except optional activities.
 * Complimentary WiFi access where available.
 
-Your journey does not include:
+Your journey **does not** include:
 
 * flights to and from Cancún.
 * bus from or to Cancun airport.
