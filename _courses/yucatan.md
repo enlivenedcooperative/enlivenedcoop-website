@@ -12,7 +12,7 @@ image:
 
 links:
   - title: Apply to this course
-    url: https://docs.google.com/forms/d/e/1FAIpQLSem0Du4snt53-iCdFeHjes1Pv8PTQkuJanr9BsCKJS--DB_-A/viewform?usp=sf_link
+    url: (https://docs.google.com/forms/d/e/1FAIpQLSem0Du4snt53-iCdFeHjes1Pv8PTQkuJanr9BsCKJS--DB_-A/viewform?usp=sf_link)
 
 
 accent_color: '#4fb1ba'
@@ -126,6 +126,11 @@ We will travel To Tulum, the ancient seaport and city with a stunning view of th
 ![](/assets/img/courses/yucatan/yucatan-09.jpg){:.right.thumb width="350"}
 
 We will enjoy free time by the white-sand beach and delight in the turquoise waters of the Caribbean. After lunch, we will hold space for preparing for an emergent and self-organized bonfire/stories/art night. As an off the grid area, this will be a great opportunity for stargazing.
+
+
+
+
+
 
 
 
