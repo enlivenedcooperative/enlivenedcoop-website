@@ -12,7 +12,7 @@ image:
 
 links:
   - title: Apply to this course
-    url: (https://docs.google.com/forms/d/e/1FAIpQLSem0Du4snt53-iCdFeHjes1Pv8PTQkuJanr9BsCKJS--DB_-A/viewform?usp=sf_link){:target="_blank"}
+    url: https://docs.google.com/forms/d/e/1FAIpQLSem0Du4snt53-iCdFeHjes1Pv8PTQkuJanr9BsCKJS--DB_-A/viewform?usp=sf_link {:target="_blank"}
 
 
 accent_color: '#4fb1ba'
@@ -31,10 +31,10 @@ accent_image:
   
   - [Ecopedagogy and travelling](#ecopedagogy-and-travelling)
   - [Itinerary](#itinerary)
-  - [Your journey includes:](#your-journey-includes)
+  - [Your journey includes](#your-journey-includes)
   - [Reasons to participate](#reasons-to-participate)
   - [Ethics and economy](#ethics-and-economy)
-  - [Faculty and team:](#faculty-and-team)
+  - [Faculty and team](#faculty-and-team)
   - [Learning Journey summary](#learning-journey-summary)
   - [Covid safety and considerations](#covid-safety-and-considerations)
   - [About the Interbeing Learning Journeys series](#about-the-interbeing-learning-journeys-series)
