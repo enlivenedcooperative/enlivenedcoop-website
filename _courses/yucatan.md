@@ -12,7 +12,7 @@ image:
 
 links:
   - title: Apply to this course
-    url: (https://docs.google.com/forms/d/e/1FAIpQLSem0Du4snt53-iCdFeHjes1Pv8PTQkuJanr9BsCKJS--DB_-A/viewform?usp=sf_link)
+    url: Go to (https://docs.google.com/forms/d/e/1FAIpQLSem0Du4snt53-iCdFeHjes1Pv8PTQkuJanr9BsCKJS--DB_-A/viewform?usp=sf_link){:target="_blank}
 
 
 accent_color: '#4fb1ba'
