@@ -42,7 +42,7 @@ layout: base
       <span class="fr">
         <span class="sr-only">{{ separator }} {{ site.data.strings.links | default:"Links" }}{{ site.data.strings.colon }}</span>
         {% for link in project.links %}
-          <a class="external" href="{{ link.url }}" property="sameAs">{{ link.title }}</a>
+          <a class="external" href="{{ link.url }}" target="{{ link.target }}" property="sameAs">{{ link.title }}</a>
           {% unless forloop.last %}{{ separator }}{% endunless %}
         {% endfor %}
       </span>
