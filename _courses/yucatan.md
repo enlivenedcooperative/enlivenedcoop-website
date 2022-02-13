@@ -222,11 +222,11 @@ More details coming soon.
 ## Learning Journey summary
 
 * We will take a maximum of 25 people
-* Registration start date -​ ​January 1st, 2022
+* Registration start date -​ ​February 1st, 2022
 * Registration last date - March 12th, 2022
 * Dates of the learning journey - March 26th - April 5th
 * No of days - 11 days
-* Cost - from $3,200 USD (early bird until February 15th, 2022. $3,600 USD after that date). We require a non-refundable $500 USD deposit to confirm a place.
+* Cost - from $2,500 USD in shared accommodation and $2,700 in private accommodation (early bird until February 28th, 2022. $2,800 and $3,000 USD after that date). We require a non-refundable $500 USD deposit to confirm a place.
 * How will we be traveling - We​ ​will​ ​have​ ​pre-booked​ ​cars​ ​for​ ​the​ ​travel.
 * Total Kms - We​ ​will​ ​be​ ​travelling​ ​roughly​ ​1500​ ​kms (average 2h30min per day)
 
