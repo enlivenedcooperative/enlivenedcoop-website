@@ -26,7 +26,7 @@ accent_image:
 
 ---
 
-# INTERBEING LEARNING JOURNEY YUCATAN
+# Interbeing Learning Journey Yucatán
 
 # Table of Contents
   
