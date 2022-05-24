@@ -28,6 +28,9 @@ accent_image:
 
 # Bolivia and Peru journey: Andean knots of remembrance and mutual upbringing
 
+1. this ordered seed list will be replaced by the toc
+{:toc}
+
 ## Introduction
 
 The Andes Mountains, created over 50 million years ago,  is a collection of various mountain chains interwoven in orographic knots, running for 7,200 kilometres (4,500 miles). The Bolivian and Peruvian Tropical Andes are home to more than 45,000 plants and 3,000 vertebrate species, half of them endemic. They also house 99% of all tropical glaciers in the world. Its lagoons and lakes -guarded by frailejones, gigantic silver-leafed plants specialized in collecting water from the clouds and siphoning it into the ground- are the source of astounding rivers such as the Orinoco and the Amazon.
