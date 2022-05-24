@@ -43,7 +43,7 @@ These worlds are facing very complex challenges.  On average, the glaciers in t
 
 This is an invitation to tie ourselves in knots, with the mountains, with the stories, with the Andean world of mutual upbringing. It is an invitation to follow on the trail of the cosmic serpent in the sacred river, undoing tourism and development and a provocation to learn to be good visitors, setting aside the Western sense of neo-colonizing entitlement and focusing on the attuning of sensibilities, journeying together, holding the inevitable contradictions and caring for the nourishment of local communities, land and waters that will host us, as well as for the lands and waters where we travelers usually dwell.
 
-![](/assets/img/courses/andes/000007.png)
+![](/assets/img/courses/andes/000007.jpg)
 
 ## Itinerary
 
@@ -73,7 +73,7 @@ We will take a boat to Isla del Sol, the birthplace of the sun and the site wher
 
 #### Day 5. Tuesday, August 30. Puno - Pucara
 
-![](/assets/img/courses/andes/000009.png)
+![](/assets/img/courses/andes/000009.jpg)
 
 This is a day of a long bus ride -and hopefully, good on the road conversations!-  in which we will leave Bolivia and enter Peru. After breakfast, we will drive for around 4 hours to Puno, where we will stop for a lunch break overlooking Lake Titicaca. After feeling refreshed and rested, we will drive for an additional 2 hours to the traditional town of Pucara, recognized for its pottery. The most representative symbol of this area is the Torito de Pucará, which are hung in pairs above the entrances of the houses as a symbol of protection and prosperity. This town will be our home for the night.
 
