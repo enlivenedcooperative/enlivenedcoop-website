@@ -26,6 +26,7 @@ accent_image:
 
 ---
 
+# Bolivia and Peru journey: Andean knots of remembrance and mutual upbringing
 
 ## Introduction
 
