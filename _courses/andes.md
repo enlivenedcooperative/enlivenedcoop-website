@@ -30,8 +30,6 @@ accent_image:
 
 ## Introduction
 
-![](/assets/img/courses/andes/000007.png)
-
 The Andes Mountains, created over 50 million years ago,  is a collection of various mountain chains interwoven in orographic knots, running for 7,200 kilometres (4,500 miles). The Bolivian and Peruvian Tropical Andes are home to more than 45,000 plants and 3,000 vertebrate species, half of them endemic. They also house 99% of all tropical glaciers in the world. Its lagoons and lakes -guarded by frailejones, gigantic silver-leafed plants specialized in collecting water from the clouds and siphoning it into the ground- are the source of astounding rivers such as the Orinoco and the Amazon.
 
 Lake Titicaca -the highest navigable lake in the world- is the birthplace of the sun, as told by the Incas. The highlands remember the cosmic travel of the serpent-river, the Wilkamayu, bridging heavens and earth.  The deep memory of time is harbored by the stories, literally woven in knots of remembrance of quipus (an Andean device for recording information, consisting of variously colored threads knotted in different ways), roads, cities, temples, observatories, as well as rocks, seeds, and textiles.
@@ -41,6 +39,8 @@ The Andean ‘world’ is appreciated by the runa (indigenous people) like a per
 These worlds are facing very complex challenges.  On average, the glaciers in the Andean region – Bolivia, Colombia, Ecuador and Peru – have lost over 50 per cent of their coverage since the 1960s. Amazonian forest fires impact directly in the thinning and melting of glaciers in the Andes. Agriculture at the highest altitudes in the world is acutely threatened by the climate emergency with increasingly extreme droughts, hailstorms and frosts. The Andes hold the world’s largest mineral deposits of gold, copper, silver, lithium and molybdenum.
 
 This is an invitation to tie ourselves in knots, with the mountains, with the stories, with the Andean world of mutual upbringing. It is an invitation to follow on the trail of the cosmic serpent in the sacred river, undoing tourism and development and a provocation to learn to be good visitors, setting aside the Western sense of neo-colonizing entitlement and focusing on the attuning of sensibilities, journeying together, holding the inevitable contradictions and caring for the nourishment of local communities, land and waters that will host us, as well as for the lands and waters where we travelers usually dwell.
+
+![](/assets/img/courses/andes/000007.png)
 
 ## Itinerary
 
@@ -211,15 +211,16 @@ We adopt the three principles of permaculture: Care for the Earth, Care for the 
 
 ## Faculty and team:
 
-![](/assets/img/courses/andes/000004.jpg)
+![](/assets/img/courses/andes/000004.jpg){:.right.thumb width="250"}
 
 Gerardo López-Amaro, co-founder of the Enlivened Cooperative, is currently walking  the path of autonomous education with the task of imagining spaces of encounter for thinking-feeling together about ways to strengthen the defense of life, memory and territory. He sees this as part of a planetary struggle for cognitive, relational and ontological justice. He is purposefully becoming entangled in a great “we” of people enacting the pluriverse, that “world where many worlds fit.” Born and raised in San Luis Potosi, Mexico, he’s a pilgrim of viable spaces informed by politics of love and consciousness regarding the healing of land and territory, love and intimacy, and labor and livelihood.
 
+![](/assets/img/courses/andes/000014.jpg){:.right.thumb width="250"}
+
 Elena Pardo. Educator, cultural manager and promoter of intra and intercultural education in urban and rural areas in the Cusco Region, Peru. She is the director of CEPROSI and a speaker at conferences, forums and events at the regional, national and international levels. She promotes the Watunakuy (international seed event) that has been held for 15 years at the Raqchi Ceremonial Center, an international meeting for the exchange of collective healing and the exchange of seeds. She is a member of the Watunakuy Ayllu Network and the Ecoversities Network.
 
-![](/assets/img/courses/andes/000014.jpg)
 
-![](/assets/img/courses/andes/000010.jpg)
+![](/assets/img/courses/andes/000010.jpg){:.right.thumb width="250"}
 
 Aneeta Pathak. Founder of Anveshan – Experiential Learning & Unlearning Centre – Imparting integral learning and leadership, where the mind, body and soul are aligned and prepared to embark on a journey of lifelong enrichment for both, the individual and the community.
 
