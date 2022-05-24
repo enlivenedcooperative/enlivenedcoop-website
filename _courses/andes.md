@@ -255,8 +255,11 @@ Bolivia and Peru both require at the moment a covid vaccination certificate or a
 ## About the Interbeing Learning Journeys series
 
 > “If you are a poet, you will see clearly that there is a cloud floating in this sheet of paper. Without a cloud, there will be no rain; without rain, the trees cannot grow: and without trees, we cannot make paper. The cloud is essential for the paper to exist. If the cloud is not here, the sheet of paper cannot be here either. So we can say that the cloud and the paper inter-are.”
+{:.lead}
 
-Thich Nhat Hahn, Clouds in Each Paper
+**Thich Nhat Hahn, Clouds in Each Paper**
+
+----  
 
 We humans do not exist independently in an isolated triumphant alienated bubble. The Interbeing Learning Journeys are an opportunity to explore interconnected issues of non-anthropocentric time and ways of being, of self and consciousness, of ancient and modern knowledge, following the paths of stars, water, and peoples. In journeying from place to place we also travel within, re-creating new stories and tapping into unknown sensibilities, possibilities and purposes for each participant.
 
