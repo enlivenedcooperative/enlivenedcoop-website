@@ -43,7 +43,7 @@ These worlds are facing very complex challenges.  On average, the glaciers in t
 
 This is an invitation to tie ourselves in knots, with the mountains, with the stories, with the Andean world of mutual upbringing. It is an invitation to follow on the trail of the cosmic serpent in the sacred river, undoing tourism and development and a provocation to learn to be good visitors, setting aside the Western sense of neo-colonizing entitlement and focusing on the attuning of sensibilities, journeying together, holding the inevitable contradictions and caring for the nourishment of local communities, land and waters that will host us, as well as for the lands and waters where we travelers usually dwell.
 
-![](/assets/img/courses/andes/000007.jpg)
+![](/assets/img/courses/andes/000007.png)
 
 ## Itinerary
 
@@ -73,7 +73,7 @@ We will take a boat to Isla del Sol, the birthplace of the sun and the site wher
 
 #### Day 5. Tuesday, August 30. Puno - Pucara
 
-![](/assets/img/courses/andes/000009.jpg)
+![](/assets/img/courses/andes/000009.png)
 
 This is a day of a long bus ride -and hopefully, good on the road conversations!-  in which we will leave Bolivia and enter Peru. After breakfast, we will drive for around 4 hours to Puno, where we will stop for a lunch break overlooking Lake Titicaca. After feeling refreshed and rested, we will drive for an additional 2 hours to the traditional town of Pucara, recognized for its pottery. The most representative symbol of this area is the Torito de Pucará, which are hung in pairs above the entrances of the houses as a symbol of protection and prosperity. This town will be our home for the night.
 
@@ -117,7 +117,7 @@ In the morning, we will visit the Sacsayhuaman site, one of the most impressive 
 
 After breakfast, we will help you to set up your transfer to the International Airport of Cusco.
 
-### Details
+## Details
 
 Your journey includes:
 
@@ -216,18 +216,18 @@ We adopt the three principles of permaculture: Care for the Earth, Care for the 
 
 ![](/assets/img/courses/andes/000004.jpg){:.right.thumb width="250"}
 
-Gerardo López-Amaro, co-founder of the Enlivened Cooperative, is currently walking  the path of autonomous education with the task of imagining spaces of encounter for thinking-feeling together about ways to strengthen the defense of life, memory and territory. He sees this as part of a planetary struggle for cognitive, relational and ontological justice. He is purposefully becoming entangled in a great “we” of people enacting the pluriverse, that “world where many worlds fit.” Born and raised in San Luis Potosi, Mexico, he’s a pilgrim of viable spaces informed by politics of love and consciousness regarding the healing of land and territory, love and intimacy, and labor and livelihood.
+**Gerardo López-Amaro**, co-founder of the Enlivened Cooperative, is currently walking  the path of autonomous education with the task of imagining spaces of encounter for thinking-feeling together about ways to strengthen the defense of life, memory and territory. He sees this as part of a planetary struggle for cognitive, relational and ontological justice. He is purposefully becoming entangled in a great “we” of people enacting the pluriverse, that “world where many worlds fit.” Born and raised in San Luis Potosi, Mexico, he’s a pilgrim of viable spaces informed by politics of love and consciousness regarding the healing of land and territory, love and intimacy, and labor and livelihood.
 
-![](/assets/img/courses/andes/000014.jpg){:.right.thumb width="250"}
+![](/assets/img/courses/andes/000014.jpg){:.right.thumb width="230"}
 
-Elena Pardo. Educator, cultural manager and promoter of intra and intercultural education in urban and rural areas in the Cusco Region, Peru. She is the director of CEPROSI and a speaker at conferences, forums and events at the regional, national and international levels. She promotes the Watunakuy (international seed event) that has been held for 15 years at the Raqchi Ceremonial Center, an international meeting for the exchange of collective healing and the exchange of seeds. She is a member of the Watunakuy Ayllu Network and the Ecoversities Network.
+**Elena Pardo**. Educator, cultural manager and promoter of intra and intercultural education in urban and rural areas in the Cusco Region, Peru. She is the director of CEPROSI and a speaker at conferences, forums and events at the regional, national and international levels. She promotes the Watunakuy (international seed event) that has been held for 15 years at the Raqchi Ceremonial Center, an international meeting for the exchange of collective healing and the exchange of seeds. She is a member of the Watunakuy Ayllu Network and the Ecoversities Network.
 
 
 ![](/assets/img/courses/andes/000010.jpg){:.right.thumb width="250"}
 
-Aneeta Pathak. Founder of Anveshan – Experiential Learning & Unlearning Centre – Imparting integral learning and leadership, where the mind, body and soul are aligned and prepared to embark on a journey of lifelong enrichment for both, the individual and the community.
+**Aneeta Pathak**. A passionate activist, traveler and a firm believer of experiential learning & transformational leadership with more than twenty years of experience. She is the founder of Anveshan - Experiential Learning & Unlearning Centre based in Auroville with an objective is to design sustainable experiential learning & transformational courses for self-development and leadership development among the children, youth and adults of the world based on inner wisdom. One of the main programmes of Anveshan is the River Yatras. The River Yatra is an exploration of the story and life of the Rivers, from its source to the communities that lives along it shore; It is also a journey of self-exploration
 
-Silvia Rivera Cusicanqui. Founder of the Colectivx Chixi and El Tambo. She is an Aymara activist sociologist, contemporary theorist and Bolivian historian. She has researched anarchist theory, as well as Quechua and Aymara cosmologies. She was the director and co-founder member of the Andean Oral History Workshop. She is also an activist who works directly with Bolivian indigenous movements, such as the Tupacatarista and cocalero movements.
+**Silvia Rivera Cusicanqui**. Founder of the Colectivx Chixi and El Tambo. She is an Aymara activist sociologist, contemporary theorist and Bolivian historian. She has researched anarchist theory, as well as Quechua and Aymara cosmologies. She was the director and co-founder member of the Andean Oral History Workshop. She is also an activist who works directly with Bolivian indigenous movements, such as the Tupacatarista and cocalero movements.
 
 ## Learning Journey summary
 
