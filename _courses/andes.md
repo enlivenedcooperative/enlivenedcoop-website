@@ -117,7 +117,7 @@ In the morning, we will visit the Sacsayhuaman site, one of the most impressive 
 
 After breakfast, we will help you to set up your transfer to the International Airport of Cusco.
 
-## Details
+## What is included
 
 Your journey includes:
 
@@ -218,7 +218,7 @@ We adopt the three principles of permaculture: Care for the Earth, Care for the 
 
 **Gerardo López-Amaro**, co-founder of the Enlivened Cooperative, is currently walking  the path of autonomous education with the task of imagining spaces of encounter for thinking-feeling together about ways to strengthen the defense of life, memory and territory. He sees this as part of a planetary struggle for cognitive, relational and ontological justice. He is purposefully becoming entangled in a great “we” of people enacting the pluriverse, that “world where many worlds fit.” Born and raised in San Luis Potosi, Mexico, he’s a pilgrim of viable spaces informed by politics of love and consciousness regarding the healing of land and territory, love and intimacy, and labor and livelihood.
 
-![](/assets/img/courses/andes/000014.jpg){:.right.thumb width="230"}
+![](/assets/img/courses/andes/000014.jpg){:.right.thumb width="210"}
 
 **Elena Pardo**. Educator, cultural manager and promoter of intra and intercultural education in urban and rural areas in the Cusco Region, Peru. She is the director of CEPROSI and a speaker at conferences, forums and events at the regional, national and international levels. She promotes the Watunakuy (international seed event) that has been held for 15 years at the Raqchi Ceremonial Center, an international meeting for the exchange of collective healing and the exchange of seeds. She is a member of the Watunakuy Ayllu Network and the Ecoversities Network.
 
