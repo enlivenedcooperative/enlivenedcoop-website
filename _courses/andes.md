@@ -47,7 +47,7 @@ This is an invitation to tie ourselves in knots, with the mountains, with the st
 
 ## Itinerary
 
-Dates: August 26th-September 10th, 2022
+Dates: August 26th-September 7th, 2022
 
 #### Day 1. Friday, Aug 26. Arrivals.
 
@@ -76,19 +76,19 @@ We will take a boat to Isla del Sol, the birthplace of the sun and the site wher
 
 ![](/assets/img/courses/andes/000009.png)
 
-This is a day of a long bus ride -and hopefully, good on the road conversations!-  in which we will leave Bolivia and enter Peru. After breakfast, we will drive for around 4 hours to Puno, where we will stop for a lunch break overlooking Lake Titicaca. After feeling refreshed and rested, we will drive for an additional 2 hours to the traditional town of Pucara, recognized for its pottery. The most representative symbol of this area is the Torito de Pucará, which are hung in pairs above the entrances of the houses as a symbol of protection and prosperity. This town will be our home for the night.
+This is a day of a long bus ride -and hopefully, good on-the-road conversations!-  in which we will leave Bolivia and enter Peru. After breakfast, we will drive for around 4 hours to Puno, where we will stop for a lunch break overlooking Lake Titicaca. After feeling refreshed and rested, we will drive for an additional 4 hours to the town of Sicuani, where we will spend the night.
 
 #### Day 6. Wednesday, Aug 31. Sicuani
 
 ![](/assets/img/courses/andes/000002.jpg)
 
-After breakfast, we will drive for 2 hours to the town of Sicuani. We will get to know from the experience of children about the cultivation of ways of knowing and being that deeply care for every earth being belonging to the ayllu, the enmeshed weaving of life that sustains people and territory. Through the stories of children, women, men and elders we will engage with the politics of encariñamiento of these Quechua communities. In the evening, we will attend a ceremony for the Wilkamayu. We will stay for the night in Sicuani.
+We will get to know from the experience of children about the cultivation of ways of knowing and being that deeply care for every earth being belonging to the ayllu, the enmeshed weaving of life that sustains people and territory. Through the stories of children, women, men and elders we will engage with the politics of encariñamiento of these Quechua communities. In the evening, we will attend a ceremony for the Wilkamayu. We will stay for the night in Sicuani.
 
 #### Day 7. Thursday, Sep 1. Qeromarca - Raqchi - Sacred Valley
 
 ![](/assets/img/courses/andes/000001.jpg)
 
-In the morning, we will do a short trip to the neighboring town of Qeromarca, where we will be hosted by the community elders for a conversation around the vitality of the seeds. We will then visit the ancient city of Raqchi, home of the Temple of Wiracocha and to more than 150 colcas, circular structures for storing food crops and other materials. In the evening, we will leave the South Valley of Cusco and drive for 2:30 hours to the Sacred Valley of the Incas, where we will spend the night.
+In the morning, we will do a short trip to one portion of the Qhapaq Ñan, the transportation route system of Incas and do a brief  walk to the ancient city of Raqchi, home of the Temple of Wiracocha and to more than 150 colcas, circular structures for storing food crops and other materials. After this visit, we will go to the neighboring town of Qeromarca, where we will be hosted by the community elders for a conversation around the vitality of the seeds. In the evening, we will leave the South Valley of Cusco and drive for 2:30 hours to the Sacred Valley of the Incas, where we will spend the night. 
 
 ![](/assets/img/courses/andes/000000.jpg)
 
@@ -106,15 +106,19 @@ Early in the morning we will drive for an hour to Ollantaytambo to take the trai
 
 ![](/assets/img/courses/andes/000008.jpg)
 
-We will take the train to Cusco, the“navel of the world”, former capital city of the Incas. This complex city integrates beautiful, contrasting architecture and fantastic shopping for local handicraft and textiles. After lunch, we will visit the Qorikancha, the heart of the Tawantinsuyu, the most important temple of the four suyus (regions) of the Inca territory, with diverse populations, environments, resources, and a network of roads, storehouses, and spiritual sites. In the evening, we will have free time to wander around the streets of Cusco.
+We will take the train to Cusco, the“navel of the world”, former capital city of the Incas. This complex city integrates beautiful, contrasting architecture and fantastic shopping for local handicraft and textiles. In the evening, we will have free time to wander around the streets of Cusco.
 
 #### Day 11. Monday, Sep 5. Cusco
 
 ![](/assets/img/courses/andes/000003.jpg)
 
-In the morning, we will visit the Sacsayhuaman site, one of the most impressive Inca constructions, built in the time of the Inca Pachacuti. The main wall is built in zigzag with giant stones up to 5 meters high and 2.5 meters wide (between 90 and 125 tons of weight). The site also offers an amazing view of Cusco and the summits of Ausangate, Pachatusán and Cinca. Back in Cusco for the afternoon, we will dedicate time to the integration and sharing of the experiences and learnings during the journey. We will close with final reflections, ceremony and a celebration.
+In the morning, we will visit the Sacsayhuaman site, one of the most impressive Inca constructions, built in the time of the Inca Pachacuti. The main wall is built in zigzag with giant stones up to 5 meters high and 2.5 meters wide (between 90 and 125 tons of weight). The site also offers an amazing view of Cusco and the summits of Ausangate, Pachatusán and Cinca. Back in Cusco for the afternoon, we will visit the Qorikancha, the heart of the Tawantinsuyu, the most important temple of the four suyus (regions) of the Inca territory, with diverse populations, environments, resources, and a network of roads, storehouses, and spiritual sites. 
 
-#### Day 12. Tuesday, Sep 6. Departures
+#### Day 12. Tuesday, Sep 6. 
+
+This is our last full day together and the opportunity to integrate and share the learnings of our journey, co-creating a closing ceremony of appreciation and gratitude. In the evening, we will host a celebration and party. 
+
+#### Day 12. Wednesday, Sep 7. Departures
 
 After breakfast, we will help you to set up your transfer to the International Airport of Cusco.
 
@@ -236,11 +240,11 @@ We adopt the three principles of permaculture: Care for the Earth, Care for the 
 
 - Registration start date -​ May 25, 2022
 
-- Registration last date - August 15, 2022
+- Registration last date - August 26, 2022
 
-- Dates of the learning journey - August 26- September 6, 2022
+- Dates of the learning journey - August 26- September 7, 2022
 
-- No of days - 12 days
+- No of days - 13 days
 
 - Cost - from $2,500 USD in shared accommodation and $2,800 in private accommodation (early bird until July 15, 2022). After that date, the cost is $2,800 and $3,100, respectively. We require a non-refundable $500 USD deposit to confirm a place.
 
