@@ -55,7 +55,8 @@ Arrivals to El Alto International Airport (LPB) in Bolivia. Transfer to our hote
 
 #### Day 2. Saturday, Aug 27. El Tambo Colectivo
 
-Visit to El Tambo Colectivo, a cultural center in La Paz dedicated to disrupting the boundaries between manual and intellectual work, practicing decolonization through the body and reconciling with the Pachamama. A “tambo” is a place where travelers can rest and get supplies for the journey and as such, this will be the beginning of our journey through the Andes, where we will meet with the members of the Collective, participate in the different daily activities of the center and accept the invitation “to sweat, acullicar (the ritual of chewing coca leaves), and eat together as the optimal conditions for theoretical and political discussion”.
+In the morning, we will get grounded as a group of fellow co-travelers, opening the heart space and getting to know each other in a deeper manner. We will open the space with a ceremony and do a life-mapping session to share our life journeys and the questions that animate us in this moment. In the afternoon, we will visit El Tambo Colectivo, a cultural center in La Paz dedicated to disrupting the boundaries between manual and intellectual work, practicing decolonization through the body and reconciling with the Pachamama. A “tambo” is a place where travelers can rest and get supplies for the journey and as such, this will be the beginning of our journey through the Andes, where we will meet with Silvia Rivera Cusicanqui and other members of the Collective and accept the invitation “to sweat, acullicar (the ritual of chewing coca leaves), and eat together as the optimal conditions for theoretical and political discussion”, opening ourselves to engaging with the multiplicity of Andean worlds that we will encounter in our journey. 
+
 
 ![](/assets/img/courses/andes/000005.jpg)
 
