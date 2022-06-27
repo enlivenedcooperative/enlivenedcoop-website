@@ -4,11 +4,11 @@ title: 'Yucatán journey: extinctions, ocean, cenotes and time (Fall edition)'
 
 date: 1 Jan 2022
 image:
-  path: /assets/img/courses/yucatan.jpg
+  path: /assets/img/courses/yucatan/yucatan-01.jpg
   srcset:
-    2560w: /assets/img/courses/yucatan.jpg
-    1280w: /assets/img/courses/yucatan.jpg
-    640w: /assets/img/courses/yucatan.jpg
+    2560w: /assets/img/courses/yucatan/yucatan-01.jpg
+    1280w: /assets/img/courses/yucatan/yucatan-01.jpg
+    640w: /assets/img/courses/yucatan/yucatan-01.jpg
 
 links:
   - title: Apply to this course!
@@ -28,13 +28,8 @@ accent_image:
 
 # Interbeing Learning Journey Yucatán (Fall edition)
 
-# Table of Contents
-  
 1. this ordered seed list will be replaced by the toc
 {:toc}
-
-
-# Yucatan journey: weaving time and care for life in times of climate emergency
 
 The Yucatán Peninsula in Mexico is a privileged witness of the last mass extinction event, caused by the impact of the Chicxulub asteroid. It shelters the mysteries of cosmic events sculpted as cenotes, windows to the underground. Jungles, lagoons and the ocean are home to vibrant and endangered communities of life. Similarly, it preserves the memories of ancient cities built by peoples who were and are some of the most prestigious observers of the stars and life cycles, the Mayans.
 
