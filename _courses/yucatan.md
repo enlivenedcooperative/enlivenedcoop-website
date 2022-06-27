@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Yucatán journey: extinctions, ocean, cenotes and time '
+title: 'Yucatán journey: extinctions, ocean, cenotes and time (Spring edition)'
 
 date: 1 Jan 2022
 image:
@@ -11,10 +11,10 @@ image:
     640w: /assets/img/courses/yucatan.jpg
 
 links:
-  - title: Apply to this course!
+/*  - title: Apply to this course!
     url: https://docs.google.com/forms/d/e/1FAIpQLSem0Du4snt53-iCdFeHjes1Pv8PTQkuJanr9BsCKJS--DB_-A/viewform?usp=sf_link
     target: _blank
-
+*/
 
 accent_color: '#4fb1ba'
 accent_image:
@@ -26,7 +26,7 @@ accent_image:
 
 ---
 
-# Interbeing Learning Journey Yucatán
+# Interbeing Learning Journey Yucatán (Spring edition)
 
 # Table of Contents
   
