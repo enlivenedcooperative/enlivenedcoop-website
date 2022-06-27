@@ -2,7 +2,7 @@
 layout: project
 title: 'Yucatán journey: extinctions, ocean, cenotes and time (Fall edition)'
 
-date: 1 Jan 2022
+date: 1 Jun 2022
 image:
   path: /assets/img/courses/yucatan/yucatan-01.jpg
   srcset:
@@ -12,15 +12,15 @@ image:
 
 links:
   - title: Apply to this course!
-    url: https://docs.google.com/forms/d/e/1FAIpQLSem0Du4snt53-iCdFeHjes1Pv8PTQkuJanr9BsCKJS--DB_-A/viewform?usp=sf_link
+    url: https://forms.gle/EzER9Np3CR2G1yKr9
     target: _blank
 
 
 accent_color: '#4fb1ba'
 accent_image:
-  background: 'url(/assets/img/courses/yucatan.jpg), linear-gradient(to bottom, #0a7b81 0%, #01636e 25%, #02505b 50%, #073a4a 75%, #082e39 100%)'
-  background: 'url(/assets/img/courses/yucatan.jpg), linear-gradient(to bottom, #7f7053 0%, #72654b 25%, #665a42 50%, #594e3a 75%, #4c4332 100% )'
-  background: 'url(/assets/img/courses/yucatan.jpg), linear-gradient(to bottom, #665a42 0%, #594e3a 25%, #4c4332 50%, #40382a 75%, #332d21 100% )'
+  background: 'url(/assets/img/courses/yucatan/yucatan-01.jpg), linear-gradient(to bottom, #0a7b81 0%, #01636e 25%, #02505b 50%, #073a4a 75%, #082e39 100%)'
+  background: 'url(/assets/img/courses/yucatan/yucatan-01.jpg), linear-gradient(to bottom, #7f7053 0%, #72654b 25%, #665a42 50%, #594e3a 75%, #4c4332 100% )'
+  background: 'url(/assets/img/courses/yucatan/yucatan-01.jpg), linear-gradient(to bottom, #665a42 0%, #594e3a 25%, #4c4332 50%, #40382a 75%, #332d21 100% )'
 
   overlay:    true
 
