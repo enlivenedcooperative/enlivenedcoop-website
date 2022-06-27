@@ -12,9 +12,6 @@ image:
     1280w: /assets/img/courses/queer.jpg
     640w: /assets/img/courses/queer.jpg
 
-links:
-  - title: Register to this workshop
-    url: https://events.humanitix.com/queer-metabolic-sensibilities
 
 accent_color: '#4fb1ba'
 accent_image:
