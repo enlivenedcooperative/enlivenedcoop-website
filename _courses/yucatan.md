@@ -10,12 +10,6 @@ image:
     1280w: /assets/img/courses/yucatan.jpg
     640w: /assets/img/courses/yucatan.jpg
 
-links:
-  - title: Course closed!
-    url: #
-    target: _blank
-
-
 accent_color: '#4fb1ba'
 accent_image:
   background: 'url(/assets/img/courses/yucatan.jpg), linear-gradient(to bottom, #0a7b81 0%, #01636e 25%, #02505b 50%, #073a4a 75%, #082e39 100%)'
