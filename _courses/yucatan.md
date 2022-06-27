@@ -22,7 +22,7 @@ accent_image:
   background: 'url(/assets/img/courses/yucatan.jpg), linear-gradient(to bottom, #7f7053 0%, #72654b 25%, #665a42 50%, #594e3a 75%, #4c4332 100% )'
   background: 'url(/assets/img/courses/yucatan.jpg), linear-gradient(to bottom, #665a42 0%, #594e3a 25%, #4c4332 50%, #40382a 75%, #332d21 100% )'
 
-  overlay:    true
+
 
 ---
 
