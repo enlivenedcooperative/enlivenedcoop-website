@@ -10,10 +10,6 @@ image:
     1280w: /assets/img/courses/andes.jpg
     640w: /assets/img/courses/andes.jpg
 
-links:
-  - title: Apply to this course!
-    url: https://forms.gle/5gBg5d1345iN6WxB6
-    target: _blank
 
 
 accent_color: '#4fb1ba'
