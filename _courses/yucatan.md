@@ -11,10 +11,10 @@ image:
     640w: /assets/img/courses/yucatan.jpg
 
 links:
-/*  - title: Apply to this course!
-    url: https://docs.google.com/forms/d/e/1FAIpQLSem0Du4snt53-iCdFeHjes1Pv8PTQkuJanr9BsCKJS--DB_-A/viewform?usp=sf_link
+  - title: Course closed!
+    url: #
     target: _blank
-*/
+
 
 accent_color: '#4fb1ba'
 accent_image:
