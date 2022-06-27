@@ -11,9 +11,6 @@ image:
     1280w: /assets/img/courses/cacao-1280.jpg
     640w: /assets/img/courses/cacao-640.jpg
 
-links:
-  # - title: Registration is closed
-    # url: https://events.humanitix.com/arboreal-learning-with-cacao
 
 accent_color: '#4fb1ba'
 accent_image:
