@@ -22,7 +22,7 @@ accent_image:
   background: 'url(/assets/img/courses/yucatan.jpg), linear-gradient(to bottom, #7f7053 0%, #72654b 25%, #665a42 50%, #594e3a 75%, #4c4332 100% )'
   background: 'url(/assets/img/courses/yucatan.jpg), linear-gradient(to bottom, #665a42 0%, #594e3a 25%, #4c4332 50%, #40382a 75%, #332d21 100% )'
 
-
+  overlay:    true
 
 ---
 
@@ -30,15 +30,8 @@ accent_image:
 
 # Table of Contents
   
-  - [Ecopedagogy and travelling](#ecopedagogy-and-travelling)
-  - [Itinerary](#itinerary)
-  - [Your journey includes](#your-journey-includes)
-  - [Reasons to participate](#reasons-to-participate)
-  - [Ethics and economy](#ethics-and-economy)
-  - [Faculty and team](#faculty-and-team)
-  - [Learning Journey summary](#learning-journey-summary)
-  - [Covid safety and considerations](#covid-safety-and-considerations)
-  - [About the Interbeing Learning Journeys series](#about-the-interbeing-learning-journeys-series)
+1. this ordered seed list will be replaced by the toc
+{:toc}
 
 
 # Yucatan journey: weaving time and care for life in times of climate emergency
