@@ -54,7 +54,7 @@ During the journey, we will have a combination of visits, group process, lecture
 
 ## Itinerary
 
-March 26th - April 5th
+September 14th-25th, 2022
 
 ![](/assets/img/courses/yucatan/yucatan-01.jpg){:.right.thumb width="350"}
 
@@ -63,85 +63,65 @@ March 26th - April 5th
 Arrive at Cancun International Airport. Transfer to our hotel. Meet your Learning Journey Team and fellow companions on the journey. Gather for a welcome talk, dinner, opening ceremony, and reception.
 
 
-### Day 2. Chichén Itzá
+### Day 2. Chemuyil
 
 ![](/assets/img/courses/yucatan/yucatan-03.jpg){:.right.thumb width="350"}
 
-After a 2h30min drive, we will visit Chichén Itzá, the most important archaeological
-vestige of the Maya-Toltec civilization in Yucatan (10th-15th centuries). Its monuments
-are among the undisputed masterpieces of Mesoamerican architecture because of the beauty
-of their proportions, the refinement of their construction and the splendor of their
-sculpted decorations that have made it one of the Wonders of the World. We will visit
-this ancient city with the help of a local expert, learning about archeo-astronomy. In
-the evening, we will host a lecture and conversation on astronomy and Deep Time
-perspectives. Sleep in the Valladolid area.
+In the morning we will drive for 1h30min to Chemuyil, where we will do an opening ceremony in a geodesic dome in the jungle, sharing our intentions and grounding ourselves while getting to know each other and the intentions for our journey. We will allow space for a silent walk in the jungle, a silence to listen and be truly present to the web of life that wraps us and that we are. A trail will lead us to a cenote, with the invitation to look to the inner world of Earth and Earthlings. Back in Chemuyil we will enjoy a special dinner of traditional local food. 
 
-### Day 3. Cenote Xooch
+### Day 3. Xahuayxol
 
 ![](/assets/img/courses/yucatan/yucatan-08.jpg){:.right.thumb width="350"}
 
-We will visit the Cenote Xooch (1h drive), one of the most impressive cenotes in the region, with an underground pool diameter of approximately 60m, surrounded by exuberant, breathtaking nature. In this unparaleled location we will host a lecture about the Ring of Cenotes, a 180km-diameter semicircular band of abundant karst sinkholes which coincides with the concentric ring of the Chicxulub structure, caused by the impact of the asteroid. Learn about this event that reshaped the history of our planet and the majority of her species. In the evening we will host a group reflection and have some free time in Mérida (2h drive), the capital of Yucatán, where we will spend the night.
+We will meet a local cooperative led by youth who will accompany us in a 3 hour journey of discovering the rich life of the jungle and the cenotes. After that, we will drive for 3:30 hours to Xahuayxol, a small fishermen town in the coast of the Caribbean, where we will have beach time in the evening. We will close the day with a lecture about coral reefs and marine life that will prepare us for the excursion next day. We will spend the night in the cabins by the beach.
 
-### Day 4. Peto
+### Day 4. Banco Chinchorro 
 
 ![](/assets/img/courses/yucatan/yucatan-02.jpg){:.right.thumb width="350"}
 
-Travel to Peto (1h 40 min drive), where we will learn with the help of a local expert about Xook K’iin, a contemporary Mayan agroecological calendar that has enabled peasant communities to better adjust to the changing and unpredictable conditions of climate change. We will walk in the milpa and get to know the different varieties of local flora, fauna and the strategies of indigenous communities to take care of life. After lunch, We will travel to the lagoon of Bacalar (3h drive), where we will sleep.
+We will take a 1 hour boat ride to visit the Banco Chinchorro Biosphere Reserve, a mosaic of open water, seagrass beds, mangroves, sand beaches and coral reefs that is considered one of the most outstanding marine sites in the region. Banco Chinchorro is the biggest platform type reef complex system in Mexico, and the second longest reef in the world. We will have time to snorkel (scuba diving possible with an extra fee). After our return to Mahahual, we will have lunch and spend some time in the beach. In the evening, we will have some time for group process in our cabins in Xahuayxol, where we will have dinner and spend the night.
 
-### Day 5. Lagoon of Bacalar
+### Day 5. Xul Ha/Lagoon of Bacalar 
 
 ![](/assets/img/courses/yucatan/yucatan-10.jpg){:.right.thumb width="350"}
 
-We will experience a full day of solace in the seven-colors Lagoon of Bacalar, regenerating our energy, processing the learnings of the past days and having ample time to engage with the place and with self. We will offer optional activities throughout the day, including somatic practice, Janzu therapy, astrology workshop, visit to town and temazcal (sweat lodge). In the evening, we will host a collective reflection.
+After sharing breakfast by the beach, we will drive for 2 hours to the lagoon of Xul Ha, home to the stromatolites, one of the most ancient forms of life on Earth, responsible for increasing the amount of oxygen in the primeval atmosphere through their continuing photosynthesis. They were the first known organisms to photosynthesize and produce free oxygen, changing radically the possibilities for life on our planet.  We will regroup in the evening in the lagoon of Bacalar for a group sharing. 
 
 ### Day 6. Lagoon of Bacalar
 
-
-
 We will learn about the stromatolites, one of the most ancient forms of life on Earth, responsible for increasing the amount of oxygen in the primeval atmosphere through their continuing photosynthesis. They were the first known organisms to photosynthesize and produce free oxygen. Participate in a panel with local activists about the current challenges to the ecosystem of the lagoon. In the afternoon, we will travel to Mahahual, a coastal town. 
 
-### Day 7. Banco Chinchorro
+### Day 7. Peto/Mérida
 
-We will take a 1 hour boat ride to visit the Banco Chinchorro Biosphere Reserve, a mosaic of open water, seagrass beds, mangroves, sand beaches and coral reefs that is considered one of the most outstanding marine sites in the region. Banco Chinchorro is the biggest platform type reef complex system in Mexico, and the second longest reef in the world. We will have time to snorkel (scuba diving possible with an extra fee). 
+In the morning, we will travel to Peto (3 hours drive), where we will learn with the help of a local expert about Xook K’iin, a contemporary Mayan agroecological calendar that has enabled peasant communities to better adjust to the changing and unpredictable conditions of climate change. We will walk in the milpa and get to know the different varieties of local flora, fauna and the strategies of indigenous communities to take care of life. After lunch, we will travel to Mérida (1h30min) to enjoy some free time in this historical city. 
 
-### Day 8. Tulum
+
+### Day 8. Buctzotz
 
 ![](/assets/img/courses/yucatan/yucatan-05.jpg){:.right.thumb width="350"}
 
-We will travel To Tulum, the ancient seaport and city with a stunning view of the coast. After lunch, we will head to Sian Ka'an Reserve, where we will have a conversation with activists around marine ecosystems, urban development and current challenges. We will have a stargazing night and the opportunity to share talents and stories around a bonfire.
+We will visit the Mayan town of Buctzotz, where we will be hosted by members of the Asamblea Muuch Xiimbal. This will be an opportunity to engage in the Mayan philosophy and worldbeing, and we will learn about the current challenges faced in the peninsula of Yucatan. After lunch, we will drive back to Mérida (1h30min) by the coastal road, where we will have the opportunity to spot some pink flamingos. In the evening we will have time for group sharing and reflection. 
 
-### Day 9. Sian Ka'an
+### Day 9. Ek Balam/Chichén Itzá 
 
 ![](/assets/img/courses/yucatan/yucatan-09.jpg){:.right.thumb width="350"}
 
-We will enjoy free time by the white-sand beach and delight in the turquoise waters of the Caribbean. After lunch, we will hold space for preparing for an emergent and self-organized bonfire/stories/art night. As an off the grid area, this will be a great opportunity for stargazing.
-
-```
+After a 2h30min drive, we will visit the ancient city of Ek Balam, where we will also have lunch. By 4 pm, we will visit Chichén Itzá, in time for the Fall equinox and the descent of the serpent in the Temple of Kukulkán. Chichén Itzá is considered the most important archaeological vestige of the Maya-Toltec civilization in Yucatan (10th-15th centuries). Its monuments are among the undisputed masterpieces of Mesoamerican architecture because of the beauty of their proportions, the refinement of their construction and the splendor of their sculpted decorations that have made it one of the Wonders of the World. We will visit this ancient city with the help of a local expert, learning about archeo-astronomy. We will spend the night in this area.
 
 
+### Day 10. Cenote Xooch/Holbox Island 
 
+We will visit the Cenote Xooch (1h drive), one of the most impressive cenotes in the region, with an underground pool diameter of approximately 60m, surrounded by exuberant, breathtaking nature. In this unparalleled location we will host a lecture about the Ring of Cenotes, a 180km-diameter semicircular band of abundant karst sinkholes which coincides with the concentric ring of the Chicxulub structure, caused by the impact of the asteroid. Learn about this event that reshaped the history of our planet and the majority of her species. In the evening we will travel to Chiquilá, where we will take the ferry to the island of Holbox, located at the intersection of the Caribbean sea and the Gulf of Mexico. At night, we will experience the astonishing spectacle of bioluminescence. 
 
+### Day 11. Holbox - Cancún
 
-```
+After enjoying a slow morning at the amazing beach in Holbox, we will take the ferry back to the continent and drive to Cancún (2h10min), where we will host an evening of integration, a closing ceremony and a celebration. 
 
+### Day 12. Departures 
 
+We will help you to set up your transfer to the airport of Cancun.
 
-
-
-
-
-### Day 10. Sian Ka'an
-
-
-![](/assets/img/courses/yucatan/yucatan-04.jpg){:.right.thumb width="350"}
-
-We will host a day of integration and sharing of the experiences and learnings during the journey. We will close with final reflections, ceremony and a celebration.
-
-### Day 11. Departures
-
-After breakfast, we will travel to Tulum, where we can help you to set up your transfer to the airport of Cancun.
-
-Itinerary at a glance:
+## Itinerary at a glance:
 
 
 ![](/assets/img/courses/yucatan/yucatan-map.png){:.thumb}
@@ -163,6 +143,19 @@ Your journey **does not** include:
 * snacks.
 * optional activities (massage, snorkeling, scuba diving) and local tours in free time.
 * health and travel insurance
+
+## What to bring
+
+Temperatures in the region for the dates of the learning journey range between 86F (30C) and 72F (22C). Expect sunny days with a chance of rain. You might want to bring:
+
+* eco-friendly sunscreen
+* long-sleeve, light tops
+* light pants
+* hat
+* swimsuit
+* insect repellent
+
+
 
 ## Reasons to participate
 
@@ -197,11 +190,8 @@ By participating in this journey, you support an effort to engage with equity an
 
 **Udi Mandel** has 20 years of experience teaching social anthropology and sustainability in higher education and collaborating with communities in Europe, the Pacific, North and Latin America. Udi’s focus is on issues of social, ecological and epistemic justice with an emphasis on regenerative practices that can bring human and ecological flourishing. Udi’s work combines action research, writing, filmmaking and community collaborations in a range of settings,  including diverse indigenous communities, social and ecological movements from around the world. Udi received his PhD in social anthropology from Goldsmiths College (University of London), an MSc in international development from the University of Bristol, and an MFA from the University of Edinburgh. Udi has held faculty appointments at EARTH University (Costa Rica), the University of Bristol (UK), and the University of Oxford and other institutions in the UK and US. Udi co-founded with others the Enlivened Learning Project and the Ecoversities Alliance, an international alliance of learning places committed to social and ecological justice and regeneration. Udi is also a co-founder of the Enlivened Cooperative.
 
-**Stephan Martin** is an astronomer, educator, and author who has taught astronomy, physics, and consciousness studies at colleges, universities, and learning centers across the US for over twenty-five years. Between 2003-2008 he studied directly with Brian Swimme and others at the California Institute of Integral Studies, out of which came his first book Cosmic Conversations, in which he held dialogues with scientists, spiritual teachers, and cultural creatives on the nature of the universe and our role in it. Since then he has led workshops on the New Cosmology at seminars and retreat centers across the US and Europe and has been active in exploring multidisciplinary approaches to exploring the universe.  He is currently adjunct faculty in the Consciousness and Transformative Studies graduate program at John F Kennedy University where he teaches a course on “Cosmology and Consciousness.” Steve is also a co-director of the continuing care program at the Center for Spiritual Emergence in Asheville, NC where he assists clients in living more conscious lives from an expansive perspective.
-
-**Andrea Romo** is an inter/trans/disciplinary practitioner of sentipensar, art, movement, healing and Buen Vivir, as a path towards the dissolution of the “I”, of the “mine”. Her areas of experience and integration are: Therapy and Education in Somatic Movement and Body Awareness, Doctorate in New Anthropology of Health, Zero Point Field Healing, Yoga Yoghismo and Somatic Yoga, Art Therapy, Experimental Art and Vipassana meditation. She has worked as facilitator, manager and creator of projects and spaces for creativity and Buen Vivir.
-“I feel that the development of consciousness at each level of existence (body, mind, spirit) contributes to its integration with the whole and in turn, to connect with the BEING / Essence, understanding that nothing is isolated but everything is linked in this network of interactions that manifest existence. We are the weavers and the woven.
-Working with unconditional Love as the definition of that essence is to connect with the power within each union to generate new possibilities in the internal and external world”.
+**Bernardo Sánchez Lapuente** is a Social Anthropologist, Theater Educator and Photographer. Beyond titles and credentials, Bernardo is an Artist, Dad of two awesome girls, traveler and world bridger. He develops his work within the framework of Art Education with kids and youth, as well as accompanying group processes. He feels fascinated with the idea of traveling throughout the planet that we inhabit while also journeying throughout the infinite geography that inhabits us. He will be in charge of generating spaces and moments to put into common ground the discoveries and questions of the journey. 
+Pedro Uc Be is a poet and a defender of the Mayan territory in Yucatan. Born in Buctzotz, he is the author of several books and a recipient of different awards. For Pedro, poetry and the care for the land are the same, a deep root that is entangled to his relationship to the milpa. His proposal is to share Mayan philosophy, thought and emotion a a proposal of life, of survival, of joy and of health. 
 
 **Bernardo Caamal Itzá** is a referent of the Mayan culture of Yucatan. Born in Peto, he left his hometown in 1989 to pursue an agronomy degree at the Universidad Autónoma de Chapingo. Upon completion of his studies, he came back home ‘as promised’, where his mother and the milpa were waiting for him. For the past 26 years, he has worked with pleasure positioning ‘our philosophy of life, between wind and tides’, collaborating with indigenous and peasant populations in the process of knowing better the milpa and developing the Xok K’iin, an agroecological calendar in times of climate emergency.
 Conciencia Tours and Travel. Local travel agency.
@@ -210,13 +200,12 @@ More details coming soon.
 ## Learning Journey summary
 
 * We will take a maximum of 25 people
-* Registration start date -​ ​February 1st, 2022
-* Registration last date - March 12th, 2022
-* Dates of the learning journey - March 26th - April 5th
-* No of days - 11 days
-* Cost - from $2,500 USD in shared accommodation and $2,700 in private accommodation (early bird until February 28th, 2022. $2,800 and $3,000 USD after that date). We require a non-refundable $500 USD deposit to confirm a place.
+* Registration start date -​ ​June 20th, 2022
+* Registration last date - August 30th, 2022
+* Dates of the learning journey - September 14-25,2022
+* No of days - 12 days.
 * How will we be traveling - We​ ​will​ ​have​ ​pre-booked​ ​cars​ ​for​ ​the​ ​travel.
-* Total Kms - We​ ​will​ ​be​ ​travelling​ ​roughly​ ​1500​ ​kms (average 2h30min per day)
+* Total Kms - We​ ​will​ ​be​ ​traveling​ ​roughly​ ​1400​ ​kms (average 2h30min per day)
 
 ## Covid safety and considerations
 
