@@ -22,7 +22,7 @@ accent_image:
 
 # Interbeing Learning Journey Yucatán (Spring edition)
 
-  
+
 1. this ordered seed list will be replaced by the toc
 {:toc}
 
@@ -93,11 +93,11 @@ We will experience a full day of solace in the seven-colors Lagoon of Bacalar, r
 
 
 
-We will learn about the stromatolites, one of the most ancient forms of life on Earth, responsible for increasing the amount of oxygen in the primeval atmosphere through their continuing photosynthesis. They were the first known organisms to photosynthesize and produce free oxygen. Participate in a panel with local activists about the current challenges to the ecosystem of the lagoon. In the afternoon, we will travel to Mahahual, a coastal town. 
+We will learn about the stromatolites, one of the most ancient forms of life on Earth, responsible for increasing the amount of oxygen in the primeval atmosphere through their continuing photosynthesis. They were the first known organisms to photosynthesize and produce free oxygen. Participate in a panel with local activists about the current challenges to the ecosystem of the lagoon. In the afternoon, we will travel to Mahahual, a coastal town.
 
 ### Day 7. Banco Chinchorro
 
-We will take a 1 hour boat ride to visit the Banco Chinchorro Biosphere Reserve, a mosaic of open water, seagrass beds, mangroves, sand beaches and coral reefs that is considered one of the most outstanding marine sites in the region. Banco Chinchorro is the biggest platform type reef complex system in Mexico, and the second longest reef in the world. We will have time to snorkel (scuba diving possible with an extra fee). 
+We will take a 1 hour boat ride to visit the Banco Chinchorro Biosphere Reserve, a mosaic of open water, seagrass beds, mangroves, sand beaches and coral reefs that is considered one of the most outstanding marine sites in the region. Banco Chinchorro is the biggest platform type reef complex system in Mexico, and the second longest reef in the world. We will have time to snorkel (scuba diving possible with an extra fee).
 
 ### Day 8. Tulum
 
@@ -110,19 +110,6 @@ We will travel To Tulum, the ancient seaport and city with a stunning view of th
 ![](/assets/img/courses/yucatan/yucatan-09.jpg){:.right.thumb width="350"}
 
 We will enjoy free time by the white-sand beach and delight in the turquoise waters of the Caribbean. After lunch, we will hold space for preparing for an emergent and self-organized bonfire/stories/art night. As an off the grid area, this will be a great opportunity for stargazing.
-
-```
-
-
-
-
-
-```
-
-
-
-
-
 
 
 ### Day 10. Sian Ka'an
