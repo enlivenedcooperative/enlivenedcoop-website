@@ -52,6 +52,10 @@ Before the journey, registered participants will get access to a platform with r
 
 During the journey, we will have a combination of visits, group process, lectures, practices and free time. Participants are invited to document their journey in the way that suits them better for their learning process.
 
+## Prices
+
+Add here!
+
 ## Itinerary
 
 September 14th-25th, 2022
