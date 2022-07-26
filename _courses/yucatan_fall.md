@@ -52,10 +52,6 @@ Before the journey, registered participants will get access to a platform with r
 
 During the journey, we will have a combination of visits, group process, lectures, practices and free time. Participants are invited to document their journey in the way that suits them better for their learning process.
 
-## Prices
-
-Add here!
-
 ## Itinerary
 
 September 14th-25th, 2022
@@ -138,6 +134,12 @@ We will help you to set up your transfer to the airport of Cancun.
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-map.png){:.thumb}
 
+## Cost
+
+2500 USD in double room
+2800 USD in private room
+Partial grants available upon request after applying
+
 ## Your journey includes:
 
 * A team of experts, professional tour leaders and educators and local community organizers.
@@ -155,6 +157,14 @@ Your journey **does not** include:
 * snacks.
 * optional activities (massage, snorkeling, scuba diving) and local tours in free time.
 * health and travel insurance
+
+## Testimonials
+
+"Our journey together was the most inspiring, fulfilling, satisfying, and enlivening trip I've ever taken... well, with the exception of being alive and somewhat conscious at this particular time in the Universe. Thank you for this extraordinary co-creation of Imagination, Possibility and Beyond"
+Marianne
+
+"Each person we met, each environment we engaged, was more astonishing than the last, making deep impressions on my consciousness about other ways of being. I carry these precious astonishments with me as I go".
+Terri
 
 ## What to bring
 
@@ -187,6 +197,8 @@ Cultivating spaces for other ways of knowing and being -aside from mainstream, d
 
 Unfolding a self and collective inquiry leading to the birth of new practices and stories.
 
+Co-creating a space for deepening artistic explorations.
+
 Meeting fellow travelers with kindred interests and mutual inspiration .
 
 ## Ethics and economy
@@ -217,7 +229,7 @@ More details coming soon.
 ## Learning Journey summary
 
 * We will take a maximum of 25 people
-* Registration start date -​ ​June 20th, 2022
+* Registration start date -​ ​July 20th, 2022
 * Registration last date - August 30th, 2022
 * Dates of the learning journey - September 14-25,2022
 * No of days - 12 days.
