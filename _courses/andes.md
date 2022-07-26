@@ -10,7 +10,10 @@ image:
     1280w: /assets/img/courses/andes.jpg
     640w: /assets/img/courses/andes.jpg
 
-
+links:
+  - title: Apply to this course!
+    url: https://forms.gle/f6xatdvSqjxUjisv5
+    target: _blank
 
 accent_color: '#4fb1ba'
 accent_image:
@@ -166,6 +169,14 @@ The values, pedagogy and approach of the Enlivened Cooperative in this journey e
 Before the journey, registered participants will get access to a platform with resources on different topics of the journey, such as: Quechua and Aymara culture, history and philosophy, Deep Time perspective, anti-tourism and radical hospitality, Andean ecosystems, archeoastronomy and indigenous peoples resistance to extractivist models of development. These are materials and resources that learners can engage freely, at their own rhythm and with no expected outcome. Participants are invited to choose one topic of inquiry during their journey that is relevant and alive for them.
 
 During the journey, we will have a combination of visits, group process, lectures, practices and free time. Participants are invited to document their journey in the way that suits them better for their learning process.
+
+## Testimonials of past participants
+
+"Our journey together was the most inspiring, fulfilling, satisfying, and enlivening trip I've ever taken... well, with the exception of being alive and somewhat conscious at this particular time in the Universe. Thank you for this extraordinary co-creation of Imagination, Possibility and Beyond"
+Marianne
+
+"Each person we met, each environment we engaged, was more astonishing than the last, making deep impressions on my consciousness about other ways of being. I carry these precious astonishments with me as I go".
+Terri
 
 ## Reasons to participate
 
