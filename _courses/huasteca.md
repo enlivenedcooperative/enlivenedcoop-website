@@ -36,7 +36,7 @@ The Huasteca is a bioregion of enormous socioecological diversity and significan
 Xantolo is a month-long series of celebrations leading to the Day of the Dead. Dances, food, songs, conversations, art and food are shared throughout this vast region that comprises seven different states. Ancestors are an essential part of the community of life and in this particular period of the year life and death are celebrated as an integral part of one cycle of renewal and disruption, of grief and celebration, of mystery and change.
 In this unique  journey we will have the opportunity to engage with local communities involved in the co-creation of initiatives related to agroecology, food sovereignty, art, solidarity economy and activism. We will have the extraordinary opportunity of being hosted mainly by a network of indigenous women that has been active for the past decade in the region.
 
-![](/assets/img/courses/huaesteca/huaesteca-07.png)
+![](/assets/img/courses/huaesteca/huaesteca-06.jpg)
 
 ## Itinerary
 
@@ -48,6 +48,7 @@ We will meet in the city of San Luis Potosí by noon and will have ground transp
 
 #### Monday, October 24th. Tamtok
 
+![](/assets/img/courses/huaesteca/huaesteca-07.jpg)
 
 
 In the morning, we will travel to Tamtok, one of the most important ancient cities of the Teenek people, where we will have a guided visit by an archaeologist. After replenishing our energy with delicious local food, we will then head back to our accommodation, where we will do an opening ceremony and a River of Life activity.
@@ -64,17 +65,17 @@ We will visit different houses of artists, weavers and producers in Tancanhuitz,
 
 #### Thursday, October 27th. Tamul
 
-
+![](/assets/img/courses/huaesteca/huaesteca-14.jpg)
 
 This is a day for navigating the Tampaón River, where we will embark on a panga -a small boat- to row as a team and visit the massive, 350-ft waterfall of Tamul. After a refreshing swim, we will enjoy a meal before heading back to our accommodation in Tanlajás.
 
 #### Friday, October 28th. Sótano de las Golondrinas
 
-
+![](/assets/img/courses/huaesteca/huaesteca-03.jpg)
 
 After a short hike, we will visit the caves of Mantetzulel, a sacred site of pilgrimage for the Teenek people, where we will be hosted by local leaders and visit in the nearby region an agroecological coffee farm. After sharing a delicious meal, we will drive to the Sótano de las Golondrinas just in time for the sunset, where thousands of swallows give a magnificent, mesmerizing spectacle when they enter the 1680 ft depth cave. We will then drive to the south portion of the Huasteca Potosina region.
 
-####Saturday, October 29th. Rest
+#### Saturday, October 29th. Rest
 
 
 
@@ -90,7 +91,7 @@ In the mountains of Matlapa, we will visit a Nahua family’s agroecological far
 
 We will spend the morning with local families in Matlapa preparing for the Day of the Dead, participating in the elaboration of ritual food and collecting the materials for the altar. In the evening, we will have a group reflection.
 
-Tuesday, November 1st. San Martín Chalchicuautla
+#### Tuesday, November 1st. San Martín Chalchicuautla
 
 
 We will dedicate the morning to constructing our collective altar for our ancestors and our beloved that have died. In the afternoon,  we will drive to Escuatitla, in the municipality of San Martín Chalchicuautla, where we will visit the ritual wood-carved mask artist, dance at the rhythm of the comparsas and attend the ceremony of cambio de fiscal.
@@ -192,7 +193,7 @@ Co-creating a space for deepening undergoing artistic explorations and languages
 
 Meeting fellow travelers with kindred interests and mutual inspiration .
 
-![](/assets/img/courses/huaesteca/huaesteca-12.jpg)
+
 
 
 ## Ethics and economy
@@ -203,11 +204,10 @@ We adopt the three principles of permaculture: Care for the Earth, Care for the 
 
 ## Faculty and team:
 
-![](/assets/img/courses/huaesteca/huaesteca-04.jpg){:.right.thumb width="250"}
+![](/assets/img/courses/huaesteca/gerardo.jpg){:.right.thumb width="250"}
 
 **Gerardo López-Amaro**, co-founder of the Enlivened Cooperative, is currently walking  the path of autonomous education with the task of imagining spaces of encounter for thinking-feeling together about ways to strengthen the defense of life, memory and territory. He sees this as part of a planetary struggle for cognitive, relational and ontological justice. He is purposefully becoming entangled in a great “we” of people enacting the pluriverse, that “world where many worlds fit.” Born and raised in San Luis Potosi, Mexico, he’s a pilgrim of viable spaces informed by politics of love and consciousness regarding the healing of land and territory, love and intimacy, and labor and livelihood.
 
-![](/assets/img/courses/huaesteca/huaesteca-14.jpg){:.right.thumb width="210"}
 
 **Carmen Ramos**.
 
