@@ -4,11 +4,11 @@ title: 'Huasteca journey: embroidery, wise food and celebration of the dead'
 
 date: 1 May 2022
 image:
-  path: /assets/img/courses/andes.jpg
+  path: /assets/img/courses/huaesteca.jpg
   srcset:
-    2560w: /assets/img/courses/andes.jpg
-    1280w: /assets/img/courses/andes.jpg
-    640w: /assets/img/courses/andes.jpg
+    2560w: /assets/img/courses/huaesteca.jpg
+    1280w: /assets/img/courses/huaesteca.jpg
+    640w: /assets/img/courses/huaesteca.jpg
 
 links:
   - title: Apply to this course!
@@ -17,9 +17,9 @@ links:
 
 accent_color: '#4fb1ba'
 accent_image:
-  background: 'url(/assets/img/courses/andes.jpg), linear-gradient(to bottom, #0a7b81 0%, #01636e 25%, #02505b 50%, #073a4a 75%, #082e39 100%)'
-  background: 'url(/assets/img/courses/andes.jpg), linear-gradient(to bottom, #7f7053 0%, #72654b 25%, #665a42 50%, #594e3a 75%, #4c4332 100% )'
-  background: 'url(/assets/img/courses/andes.jpg), linear-gradient(to bottom, #665a42 0%, #594e3a 25%, #4c4332 50%, #40382a 75%, #332d21 100% )'
+  background: 'url(/assets/img/courses/huaesteca.jpg), linear-gradient(to bottom, #0a7b81 0%, #01636e 25%, #02505b 50%, #073a4a 75%, #082e39 100%)'
+  background: 'url(/assets/img/courses/huaesteca.jpg), linear-gradient(to bottom, #7f7053 0%, #72654b 25%, #665a42 50%, #594e3a 75%, #4c4332 100% )'
+  background: 'url(/assets/img/courses/huaesteca.jpg), linear-gradient(to bottom, #665a42 0%, #594e3a 25%, #4c4332 50%, #40382a 75%, #332d21 100% )'
 
   overlay:    true
 
@@ -32,11 +32,11 @@ accent_image:
 
 ## Introduction
 
-The Huasteca is a bioregion of enormous socioecological diversity and significance, home to the Teenek, Nahuat and Xi’oi cultures, nations that have dwelled in the rain forests, waterfalls, caves, mountains and valleys that configure its rich topography. Ancient cities like Tamtok are proof of the complex urbanization systems and the observation of astronomical cycles. The rich oral history and the colorful weaving and embroidery tell the stories of the time before time and the vibrancy of celebrations and rituals announce a respectful way of being in relationship with the land and her sentient beings. 
-Xantolo is a month-long series of celebrations leading to the Day of the Dead. Dances, food, songs, conversations, art and food are shared throughout this vast region that comprises seven different states. Ancestors are an essential part of the community of life and in this particular period of the year life and death are celebrated as an integral part of one cycle of renewal and disruption, of grief and celebration, of mystery and change. 
-In this unique  journey we will have the opportunity to engage with local communities involved in the co-creation of initiatives related to agroecology, food sovereignty, art, solidarity economy and activism. We will have the extraordinary opportunity of being hosted mainly by a network of indigenous women that has been active for the past decade in the region. 
+The Huasteca is a bioregion of enormous socioecological diversity and significance, home to the Teenek, Nahuat and Xi’oi cultures, nations that have dwelled in the rain forests, waterfalls, caves, mountains and valleys that configure its rich topography. Ancient cities like Tamtok are proof of the complex urbanization systems and the observation of astronomical cycles. The rich oral history and the colorful weaving and embroidery tell the stories of the time before time and the vibrancy of celebrations and rituals announce a respectful way of being in relationship with the land and her sentient beings.
+Xantolo is a month-long series of celebrations leading to the Day of the Dead. Dances, food, songs, conversations, art and food are shared throughout this vast region that comprises seven different states. Ancestors are an essential part of the community of life and in this particular period of the year life and death are celebrated as an integral part of one cycle of renewal and disruption, of grief and celebration, of mystery and change.
+In this unique  journey we will have the opportunity to engage with local communities involved in the co-creation of initiatives related to agroecology, food sovereignty, art, solidarity economy and activism. We will have the extraordinary opportunity of being hosted mainly by a network of indigenous women that has been active for the past decade in the region.
 
-![](/assets/img/courses/andes/000007.png)
+![](/assets/img/courses/huaesteca/huaesteca-07.png)
 
 ## Itinerary
 
@@ -50,31 +50,31 @@ We will meet in the city of San Luis Potosí by noon and will have ground transp
 
 
 
-In the morning, we will travel to Tamtok, one of the most important ancient cities of the Teenek people, where we will have a guided visit by an archaeologist. After replenishing our energy with delicious local food, we will then head back to our accommodation, where we will do an opening ceremony and a River of Life activity. 
+In the morning, we will travel to Tamtok, one of the most important ancient cities of the Teenek people, where we will have a guided visit by an archaeologist. After replenishing our energy with delicious local food, we will then head back to our accommodation, where we will do an opening ceremony and a River of Life activity.
 
 Tuesday, October 25th. Tamaletom
 
 
-This day we will visit the contemporary Ceremonial Site of Tamaletom, where a collective of elders, women and youth are dedicating their efforts to make the Teenek ways blossom. We will witness the astonishing Danza del Gavilán, learn about the stories embroidered in the pieces of art created by the women and engage in a conversation with local indigenous leaders. In the evening, we will go back to our hotel in Tanlajás where we will host a reflection circle. 
+This day we will visit the contemporary Ceremonial Site of Tamaletom, where a collective of elders, women and youth are dedicating their efforts to make the Teenek ways blossom. We will witness the astonishing Danza del Gavilán, learn about the stories embroidered in the pieces of art created by the women and engage in a conversation with local indigenous leaders. In the evening, we will go back to our hotel in Tanlajás where we will host a reflection circle.
 
 #### Wednesday, October 26th. Tancanhuitz
 
 
-We will visit different houses of artists, weavers and producers in Tancanhuitz, where we will learn how families are recreating the cosmic stories and the memory of Teenek people, from the way they tend to the land and create their raw materials to the different designs. After sharing locally sourced and cooked food, we will go back to Tanlajás for our reflection circle. 
+We will visit different houses of artists, weavers and producers in Tancanhuitz, where we will learn how families are recreating the cosmic stories and the memory of Teenek people, from the way they tend to the land and create their raw materials to the different designs. After sharing locally sourced and cooked food, we will go back to Tanlajás for our reflection circle.
 
 #### Thursday, October 27th. Tamul
 
 
 
-This is a day for navigating the Tampaón River, where we will embark on a panga -a small boat- to row as a team and visit the massive, 350-ft waterfall of Tamul. After a refreshing swim, we will enjoy a meal before heading back to our accommodation in Tanlajás. 
+This is a day for navigating the Tampaón River, where we will embark on a panga -a small boat- to row as a team and visit the massive, 350-ft waterfall of Tamul. After a refreshing swim, we will enjoy a meal before heading back to our accommodation in Tanlajás.
 
 #### Friday, October 28th. Sótano de las Golondrinas
 
 
 
-After a short hike, we will visit the caves of Mantetzulel, a sacred site of pilgrimage for the Teenek people, where we will be hosted by local leaders and visit in the nearby region an agroecological coffee farm. After sharing a delicious meal, we will drive to the Sótano de las Golondrinas just in time for the sunset, where thousands of swallows give a magnificent, mesmerizing spectacle when they enter the 1680 ft depth cave. We will then drive to the south portion of the Huasteca Potosina region. 
+After a short hike, we will visit the caves of Mantetzulel, a sacred site of pilgrimage for the Teenek people, where we will be hosted by local leaders and visit in the nearby region an agroecological coffee farm. After sharing a delicious meal, we will drive to the Sótano de las Golondrinas just in time for the sunset, where thousands of swallows give a magnificent, mesmerizing spectacle when they enter the 1680 ft depth cave. We will then drive to the south portion of the Huasteca Potosina region.
 
-####Saturday, October 29th. Rest 
+####Saturday, October 29th. Rest
 
 
 
@@ -88,12 +88,12 @@ In the mountains of Matlapa, we will visit a Nahua family’s agroecological far
 
 #### Monday, October 31st. Xantolo in Matlapa
 
-We will spend the morning with local families in Matlapa preparing for the Day of the Dead, participating in the elaboration of ritual food and collecting the materials for the altar. In the evening, we will have a group reflection. 
+We will spend the morning with local families in Matlapa preparing for the Day of the Dead, participating in the elaboration of ritual food and collecting the materials for the altar. In the evening, we will have a group reflection.
 
 Tuesday, November 1st. San Martín Chalchicuautla
 
 
-We will dedicate the morning to constructing our collective altar for our ancestors and our beloved that have died. In the afternoon,  we will drive to Escuatitla, in the municipality of San Martín Chalchicuautla, where we will visit the ritual wood-carved mask artist, dance at the rhythm of the comparsas and attend the ceremony of cambio de fiscal. 
+We will dedicate the morning to constructing our collective altar for our ancestors and our beloved that have died. In the afternoon,  we will drive to Escuatitla, in the municipality of San Martín Chalchicuautla, where we will visit the ritual wood-carved mask artist, dance at the rhythm of the comparsas and attend the ceremony of cambio de fiscal.
 
 #### Wednesday, November 2nd. Xilitla
 
@@ -101,11 +101,11 @@ We will dedicate the morning to constructing our collective altar for our ancest
 
 In the morning, we will travel to Nahua communities in Xilitla organizing towards indigenous rights to sovereignty where we will engage in a conversation with local leaders. After lunch, we will travel to the town of Xilitla, where we will have free time to wander in this cobbled-street, charming town surrounded by rainforest. We will stay in the area.
 
-#### Thursday, November 3rd. Peña de Bernal. Integration 
+#### Thursday, November 3rd. Peña de Bernal. Integration
 
 
 
-During the morning, we will drive for 5 hours to reach the quaint town of Peña de Bernal where we will dedicate time in the evening for integration and final reflections of the journey. After lunch we will host a closing ceremony and a celebration. 
+During the morning, we will drive for 5 hours to reach the quaint town of Peña de Bernal where we will dedicate time in the evening for integration and final reflections of the journey. After lunch we will host a closing ceremony and a celebration.
 
 #### Friday, November 4th. Departures
 
@@ -192,7 +192,7 @@ Co-creating a space for deepening undergoing artistic explorations and languages
 
 Meeting fellow travelers with kindred interests and mutual inspiration .
 
-![](/assets/img/courses/andes/000012.jpg)
+![](/assets/img/courses/huaesteca/huaesteca-12.jpg)
 
 
 ## Ethics and economy
@@ -203,13 +203,13 @@ We adopt the three principles of permaculture: Care for the Earth, Care for the 
 
 ## Faculty and team:
 
-![](/assets/img/courses/andes/000004.jpg){:.right.thumb width="250"}
+![](/assets/img/courses/huaesteca/huaesteca-04.jpg){:.right.thumb width="250"}
 
 **Gerardo López-Amaro**, co-founder of the Enlivened Cooperative, is currently walking  the path of autonomous education with the task of imagining spaces of encounter for thinking-feeling together about ways to strengthen the defense of life, memory and territory. He sees this as part of a planetary struggle for cognitive, relational and ontological justice. He is purposefully becoming entangled in a great “we” of people enacting the pluriverse, that “world where many worlds fit.” Born and raised in San Luis Potosi, Mexico, he’s a pilgrim of viable spaces informed by politics of love and consciousness regarding the healing of land and territory, love and intimacy, and labor and livelihood.
 
-![](/assets/img/courses/andes/000014.jpg){:.right.thumb width="210"}
+![](/assets/img/courses/huaesteca/huaesteca-14.jpg){:.right.thumb width="210"}
 
-**Carmen Ramos**. 
+**Carmen Ramos**.
 
 ## Learning Journey summary
 
@@ -241,7 +241,7 @@ Bolivia and Peru both require at the moment a covid vaccination certificate or a
 
 **Thich Nhat Hahn, Clouds in Each Paper**
 
-----  
+----
 
 We humans do not exist independently in an isolated triumphant alienated bubble. The Interbeing Learning Journeys are an opportunity to explore interconnected issues of non-anthropocentric time and ways of being, of self and consciousness, of ancient and modern knowledge, following the paths of stars, water, and peoples. In journeying from place to place we also travel within, re-creating new stories and tapping into unknown sensibilities, possibilities and purposes for each participant.
 
@@ -258,4 +258,3 @@ it is important to slow down and take a pause to take care of water and the hist
 it is important to slow down and take a pause to listen to the wisdom of people who have cultivated a respectful relationship with the Earth -indigenous peoples, peasants, women, artists and environmentalists- in order to gain emplaced insights about our re-invention as human species; and
 
 it is important to slow down and take a pause to breathe and tap into the rhythms, movements and creations of interbeing, and experience embodied learnings about how to become present for the Earth with reciprocity and care.
-
