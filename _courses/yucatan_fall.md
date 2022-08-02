@@ -73,7 +73,7 @@ In the morning we will drive for 1h30min to Chemuyil, where we will do an openin
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-13.jpg){:.thumb}
 
-We will meet a local cooperative led by youth who will accompany us in a 3 hour journey of discovering the rich life of the jungle and the cenotes. After that, we will drive for 3:30 hours to Xahuayxol, a small fishermen town in the coast of the Caribbean, where we will have beach time in the evening. We will close the day with a lecture about coral reefs and marine life that will prepare us for the excursion next day. We will spend the night in the cabins by the beach.
+We will meet with the Moce Yax Cuxtal collective, a local, women-led, environmentalist organization with 20 years of experience for a conversation around current challenges and projects as well as an embodied practice. After that, we will drive for 3:30 hours to Xahuayxol, a small fishermen town in the coast of the Caribbean, where we will have beach time in the evening. We will close the day with a lecture about coral reefs and marine life that will prepare us for the excursion next day. We will spend the night in the cabins by the beach.
 
 ### Day 4. Banco Chinchorro
 
@@ -220,10 +220,14 @@ By participating in this journey, you support an effort to engage with equity an
 
 **Bernardo Sánchez Lapuente** is a Social Anthropologist, Theater Educator and Photographer. Beyond titles and credentials, Bernardo is an Artist, Dad of two awesome girls, traveler and world bridger. He develops his work within the framework of Art Education with kids and youth, as well as accompanying group processes. He feels fascinated with the idea of traveling throughout the planet that we inhabit while also journeying throughout the infinite geography that inhabits us. He will be in charge of generating spaces and moments to put into common ground the discoveries and questions of the journey.
 
+**Lupita de la Rosa**, President and Founder of Moce Yax Cuxtal, a local, women-led environmentalist organization dedicated to creating ecological programs in the urban area of Playa del Carmen and neighboring areas. 
+
 **Pedro Uc Be** is a poet and a defender of the Mayan territory in Yucatan. Born in Buctzotz, he is the author of several books and a recipient of different awards. For Pedro, poetry and the care for the land are the same, a deep root that is entangled to his relationship to the milpa. His proposal is to share Mayan philosophy, thought and emotion a a proposal of life, of survival, of joy and of health.
 
+**Haizel de la Cruz**, Born in Ticul and currently living in Buctzotz. A young photographer that documents the Mayan resistance and the vitality of an ethics of care for life. A ceiba tree, that represents life, time, space and community for Mayan was the first image that she captured with her cellphone. And her world moved. 
+
 **Bernardo Caamal Itzá** is a referent of the Mayan culture of Yucatan. Born in Peto, he left his hometown in 1989 to pursue an agronomy degree at the Universidad Autónoma de Chapingo. Upon completion of his studies, he came back home ‘as promised’, where his mother and the milpa were waiting for him. For the past 26 years, he has worked with pleasure positioning ‘our philosophy of life, between wind and tides’, collaborating with indigenous and peasant populations in the process of knowing better the milpa and developing the Xok K’iin, an agroecological calendar in times of climate emergency.
-Conciencia Tours and Travel. Local travel agency.
+
 More details coming soon.
 
 ## Learning Journey summary
