@@ -55,65 +55,74 @@ In the morning, we will travel to Tamtok, one of the most important ancient citi
 
 Tuesday, October 25th. Tamaletom
 
+![](/assets/img/courses/huaesteca/huaesteca-14.jpg)
+
 
 This day we will visit the contemporary Ceremonial Site of Tamaletom, where a collective of elders, women and youth are dedicating their efforts to make the Teenek ways blossom. We will witness the astonishing Danza del Gavilán, learn about the stories embroidered in the pieces of art created by the women and engage in a conversation with local indigenous leaders. In the evening, we will go back to our hotel in Tanlajás where we will host a reflection circle.
 
 #### Wednesday, October 26th. Tancanhuitz
 
+![](/assets/img/courses/huaesteca/huaesteca-03.jpg)
 
 We will visit different houses of artists, weavers and producers in Tancanhuitz, where we will learn how families are recreating the cosmic stories and the memory of Teenek people, from the way they tend to the land and create their raw materials to the different designs. After sharing locally sourced and cooked food, we will go back to Tanlajás for our reflection circle.
 
 #### Thursday, October 27th. Tamul
 
-![](/assets/img/courses/huaesteca/huaesteca-14.jpg)
+![](/assets/img/courses/huaesteca/huaesteca-15.jpg)
 
 This is a day for navigating the Tampaón River, where we will embark on a panga -a small boat- to row as a team and visit the massive, 350-ft waterfall of Tamul. After a refreshing swim, we will enjoy a meal before heading back to our accommodation in Tanlajás.
 
 #### Friday, October 28th. Sótano de las Golondrinas
 
-![](/assets/img/courses/huaesteca/huaesteca-03.jpg)
+![](/assets/img/courses/huaesteca/huaesteca-01.jpg)
 
 After a short hike, we will visit the caves of Mantetzulel, a sacred site of pilgrimage for the Teenek people, where we will be hosted by local leaders and visit in the nearby region an agroecological coffee farm. After sharing a delicious meal, we will drive to the Sótano de las Golondrinas just in time for the sunset, where thousands of swallows give a magnificent, mesmerizing spectacle when they enter the 1680 ft depth cave. We will then drive to the south portion of the Huasteca Potosina region.
 
 #### Saturday, October 29th. Rest
 
-
+![](/assets/img/courses/huaesteca/huaesteca-04.jpg)
 
 We will spend a full day of rest, regeneration, and processing in a beautiful cabin in the woods. This will be an opportunity to slow down, digest and pause for a bit in our journey. It’s also a good opportunity to go on a long hike, lay on a hammock or gather around the kitchen to share stories and insights, among many other emergent possibilities. In the evening, we will host a group reflection circle that will lead us into a stargazing night.
 
 #### Sunday, October 30th. Matlapa
 
-
+![](/assets/img/courses/huaesteca/huaesteca-05.jpg)
 
 In the mountains of Matlapa, we will visit a Nahua family’s agroecological farm of cinnamon, vanilla and fruit trees. In the evening, we will go back to Matlapa for our reflection circle.
 
 #### Monday, October 31st. Xantolo in Matlapa
 
+![](/assets/img/courses/huaesteca/huaesteca-08.jpg)
+
 We will spend the morning with local families in Matlapa preparing for the Day of the Dead, participating in the elaboration of ritual food and collecting the materials for the altar. In the evening, we will have a group reflection.
 
 #### Tuesday, November 1st. San Martín Chalchicuautla
 
+![](/assets/img/courses/huaesteca/huaesteca-02.jpg)
 
 We will dedicate the morning to constructing our collective altar for our ancestors and our beloved that have died. In the afternoon,  we will drive to Escuatitla, in the municipality of San Martín Chalchicuautla, where we will visit the ritual wood-carved mask artist, dance at the rhythm of the comparsas and attend the ceremony of cambio de fiscal.
 
 #### Wednesday, November 2nd. Xilitla
 
-
+![](/assets/img/courses/huaesteca/huaesteca-10.jpg)
 
 In the morning, we will travel to Nahua communities in Xilitla organizing towards indigenous rights to sovereignty where we will engage in a conversation with local leaders. After lunch, we will travel to the town of Xilitla, where we will have free time to wander in this cobbled-street, charming town surrounded by rainforest. We will stay in the area.
 
 #### Thursday, November 3rd. Peña de Bernal. Integration
 
-
+![](/assets/img/courses/huaesteca/huaesteca-09.jpg)
 
 During the morning, we will drive for 5 hours to reach the quaint town of Peña de Bernal where we will dedicate time in the evening for integration and final reflections of the journey. After lunch we will host a closing ceremony and a celebration.
 
 #### Friday, November 4th. Departures
 
-
+![](/assets/img/courses/huaesteca/huaesteca-13.jpg)
 
 After breakfast, we will help you set up your transfer, either to the cities of Querétaro or Mexico City.
 
+## Itinerary at a glance
+
+![](/assets/img/courses/huaesteca/huaesteca-16.jpg)
 
 
 ## What is included
@@ -138,6 +147,8 @@ Your journey includes:
 Your journey does not include:
 
 - flights to and from Mexico
+
+- domestic transportation to San Luis Potosí and Querétaro
 
 - snacks
 
@@ -211,6 +222,22 @@ We adopt the three principles of permaculture: Care for the Earth, Care for the 
 
 **Carmen Ramos**.
 
+**Paciano Ramírez Juanita**, a wise Nahua man, who has cared for and loved Mother Earth, honoring the ancestral knowledge he learned from his predecessors. Fearless to innovate by integrating cinnamon into his agroforestry production system in which he conserves local species such as vanilla, capulines, soursops, jobos, etc. He has done so wit his family, Nana, his life partner and Gaby, his apprentice daughter, both accompanying women in the production of vanilla and cinnamon. 
+
+**Gaby Ramírez González**, daughter of Don Paciano, she has grown up in the embrace of our Mother Earth. She lives as a caretaker of her agroforestry system where she keeps the wisdom of her father, grandparents and grandmothers, conserving local species and integrating cinnamon, pitahaya and other species that are integrated into the acahuales systems that are Nahua tradition.
+
+**Hermelinda Vázquez**, a Nahua woman, defender of women's rights, literacy teacher and teacher of the word in Nahuatl. She is a sower, caretaker of the milpa and founder of the Indigenous Observatory of the Rights of the Peoples of the Huasteca potosina. She will accompany us to get to know the tradition of San Martín Chalchicuahutla in the preparation of the comparsas and the Xantolo festival.
+
+**Saraleth Ramos**, Traditional Nahua cook. She makes the kitchen a space for empowering women to liberate themselves and sustain lives with justice and dignity. She vindicates the science that is kept in the indigenous wisdom that has been concentrated in traditional cuisine and that has been in force for many years to date. She is a vanilla producer and innovator in the use of revalued ancestral foods and founder of the Women's Network.
+
+**Benigno Robles**, Guardian of the Teenek Ceremonial Center of Tamaletom, linguist who positions the ancestral knowledge that the grandparents and grandmothers have protected. Founder of a meeting space between the indigenous Teenek wisdom and the curiosity of the youth who find in their tradition a way of living the present and future well woven with their history.
+
+**Soledad Guerrero**, Master craftswoman Teenek, part of the Women's Network, a sage woman that shares among women of different generations the wisdom that embroideries keep in their colors, cotton threads and symbology of the same history they capture. She teaches and integrates youth to the work of embroidery as a way to keep tradition, language, stories and the sustainability of daily life alive.
+
+**Felipa**, Master craftswoman Teenek, founder of the Women's Network, wisely guides her companions in the knowledge of the tradition, language, and symbology. Felipa leads other women in community organization, tradition, health care and love for Our Mother Earth.
+
+**Tomasa**, Teacher Teenek of the backstrap loom, keeps the tradition that was inherited from her mother and grandmother, she shares it with her daughters and the girls of the community so that the care of the cotton, natural colors and the loom continue, safeguarding the tradition.
+
 ## Learning Journey summary
 
 - We require a minimum of 10 people and will take a maximum of 20 people
@@ -232,7 +259,7 @@ We adopt the three principles of permaculture: Care for the Earth, Care for the 
 
 ## Covid safety and considerations
 
-Bolivia and Peru both require at the moment a covid vaccination certificate or a PCR or antigen test to enter the country.  We encourage participants in the journey to make sure they comply with all requirements of in-transit countries and travel restrictions.
+Mexico does not require neither a covid vaccination certificate or PCR/antigen tests to enter the country. BWe encourage participants in the journey to make sure they comply with all requirements of in-transit countries and travel restrictions.
 
 ## About the Interbeing Learning Journeys series
 
