@@ -250,7 +250,7 @@ We adopt the three principles of permaculture: Care for the Earth, Care for the 
 
 - No of days - 13 days
 
-- Cost - from $2,500 USD in shared accommodation and $2,800 in private accommodation (early bird until July 15, 2022). After that date, the cost is $2,800 and $3,100, respectively. We require a non-refundable $500 USD deposit to confirm a place.
+- Cost - from $2,000 USD in shared accommodation and $2,300 in private accommodation (early bird until July 15, 2022). After that date, the cost is $2,800 and $3,100, respectively. We require a non-refundable $500 USD deposit to confirm a place.
 
 - How will we be traveling - We​ ​will​ ​have​ ​pre-booked​ ​cars​ ​for​ ​the​ ​travel.
 
