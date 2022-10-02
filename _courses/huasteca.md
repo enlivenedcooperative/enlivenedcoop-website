@@ -40,81 +40,81 @@ In this unique  journey we will have the opportunity to engage with local commun
 
 ## Itinerary
 
-Dates: October 23rd-November 4th, 2022
+Dates: October 23rd-November 4th, 2023
 
-#### Sunday, October 23rd. Arrivals
+#### Monday, October 23rd. Arrivals
 
 We will meet in the city of San Luis Potosí by noon and will have ground transportation to the Huasteca Region. We will stay in Tanlajás.
 
-#### Monday, October 24th. Tamtok
+#### Tuesday, October 24th. Tamtok
 
 ![](/assets/img/courses/huaesteca/huaesteca-07.jpg)
 
 
 In the morning, we will travel to Tamtok, one of the most important ancient cities of the Teenek people, where we will have a guided visit by an archaeologist. After replenishing our energy with delicious local food, we will then head back to our accommodation, where we will do an opening ceremony and a River of Life activity.
 
-Tuesday, October 25th. Tamaletom
+### Wednesday, October 25th. Tamaletom
 
 ![](/assets/img/courses/huaesteca/huaesteca-14.jpg)
 
 
 This day we will visit the contemporary Ceremonial Site of Tamaletom, where a collective of elders, women and youth are dedicating their efforts to make the Teenek ways blossom. We will witness the astonishing Danza del Gavilán, learn about the stories embroidered in the pieces of art created by the women and engage in a conversation with local indigenous leaders. In the evening, we will go back to our hotel in Tanlajás where we will host a reflection circle.
 
-#### Wednesday, October 26th. Tancanhuitz
+#### Thursday, October 26th. Tancanhuitz
 
 ![](/assets/img/courses/huaesteca/huaesteca-03.jpg)
 
 We will visit different houses of artists, weavers and producers in Tancanhuitz, where we will learn how families are recreating the cosmic stories and the memory of Teenek people, from the way they tend to the land and create their raw materials to the different designs. After sharing locally sourced and cooked food, we will go back to Tanlajás for our reflection circle.
 
-#### Thursday, October 27th. Tamul
+#### Friday, October 27th. Tamul
 
 ![](/assets/img/courses/huaesteca/huaesteca-15.jpg)
 
 This is a day for navigating the Tampaón River, where we will embark on a panga -a small boat- to row as a team and visit the massive, 350-ft waterfall of Tamul. After a refreshing swim, we will enjoy a meal before heading back to our accommodation in Tanlajás.
 
-#### Friday, October 28th. Sótano de las Golondrinas
+#### Saturday, October 28th. Sótano de las Golondrinas
 
 ![](/assets/img/courses/huaesteca/huaesteca-01.jpg)
 
 After a short hike, we will visit the caves of Mantetzulel, a sacred site of pilgrimage for the Teenek people, where we will be hosted by local leaders and visit in the nearby region an agroecological coffee farm. After sharing a delicious meal, we will drive to the Sótano de las Golondrinas just in time for the sunset, where thousands of swallows give a magnificent, mesmerizing spectacle when they enter the 1680 ft depth cave. We will then drive to the south portion of the Huasteca Potosina region.
 
-#### Saturday, October 29th. Rest
+#### Sunday, October 29th. Rest
 
 ![](/assets/img/courses/huaesteca/huaesteca-04.jpg)
 
 We will spend a full day of rest, regeneration, and processing in a beautiful cabin in the woods. This will be an opportunity to slow down, digest and pause for a bit in our journey. It’s also a good opportunity to go on a long hike, lay on a hammock or gather around the kitchen to share stories and insights, among many other emergent possibilities. In the evening, we will host a group reflection circle that will lead us into a stargazing night.
 
-#### Sunday, October 30th. Matlapa
+#### Monday, October 30th. Matlapa
 
 ![](/assets/img/courses/huaesteca/huaesteca-05.jpg)
 
 In the mountains of Matlapa, we will visit a Nahua family’s agroecological farm of cinnamon, vanilla and fruit trees. In the evening, we will go back to Matlapa for our reflection circle.
 
-#### Monday, October 31st. Xantolo in Matlapa
+#### Tuesday, October 31st. Xantolo in Matlapa
 
 ![](/assets/img/courses/huaesteca/huaesteca-08.jpg)
 
 We will spend the morning with local families in Matlapa preparing for the Day of the Dead, participating in the elaboration of ritual food and collecting the materials for the altar. In the evening, we will have a group reflection.
 
-#### Tuesday, November 1st. San Martín Chalchicuautla
+#### Wednesday, November 1st. San Martín Chalchicuautla
 
 ![](/assets/img/courses/huaesteca/huaesteca-02.jpg)
 
 We will dedicate the morning to constructing our collective altar for our ancestors and our beloved that have died. In the afternoon,  we will drive to Escuatitla, in the municipality of San Martín Chalchicuautla, where we will visit the ritual wood-carved mask artist, dance at the rhythm of the comparsas and attend the ceremony of cambio de fiscal.
 
-#### Wednesday, November 2nd. Xilitla
+#### Thursday, November 2nd. Xilitla
 
 ![](/assets/img/courses/huaesteca/huaesteca-10.jpg)
 
 In the morning, we will travel to Nahua communities in Xilitla organizing towards indigenous rights to sovereignty where we will engage in a conversation with local leaders. After lunch, we will travel to the town of Xilitla, where we will have free time to wander in this cobbled-street, charming town surrounded by rainforest. We will stay in the area.
 
-#### Thursday, November 3rd. Peña de Bernal. Integration
+#### Friday, November 3rd. Peña de Bernal. Integration
 
 ![](/assets/img/courses/huaesteca/huaesteca-09.jpg)
 
 During the morning, we will drive for 5 hours to reach the quaint town of Peña de Bernal where we will dedicate time in the evening for integration and final reflections of the journey. After lunch we will host a closing ceremony and a celebration.
 
-#### Friday, November 4th. Departures
+#### Saturday, November 4th. Departures
 
 ![](/assets/img/courses/huaesteca/huaesteca-13.jpg)
 
@@ -240,17 +240,17 @@ We adopt the three principles of permaculture: Care for the Earth, Care for the 
 
 ## Learning Journey summary
 
-- We require a minimum of 10 people and will take a maximum of 20 people
+- We require a minimum of 10 people and will take a maximum of 15 people
 
-- Registration start date -​ July 30, 2022
+- Registration start date -​ October 21, 2022
 
-- Registration last date - October 7th, 2022
+- Registration last date - October 7th, 2023
 
-- Dates of the learning journey - October 23rd - November 4th, 2022
+- Dates of the learning journey - October 23rd - November 4th, 2023
 
 - No of days - 13 days
 
-- Cost - from $2,000 USD in shared accommodation and $2,300 in private accommodation (early bird until July 15, 2022). After that date, the cost is $2,800 and $3,100, respectively. We require a non-refundable $500 USD deposit to confirm a place.
+- Cost - from $2,300 USD in shared accommodation and $2,600 in private accommodation (early bird until July 15, 2022). After that date, the cost is $2,800 and $3,100, respectively. We require a non-refundable $500 USD deposit to confirm a place.
 
 - How will we be traveling - We​ ​will​ ​have​ ​pre-booked​ ​cars​ ​for​ ​the​ ​travel.
 
