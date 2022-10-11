@@ -2,7 +2,8 @@
 layout: project
 title: 'Yucatán journey: extinctions, ocean, cenotes and time (Fall edition)'
 
-date: 1 Jun 2022
+date: 22 Sep 2023
+end_date: 4 Oct 2023
 image:
   path: /assets/img/courses/yucatan_fall.jpg
   srcset:
@@ -12,7 +13,7 @@ image:
 
 links:
   - title: Apply to this course!
-    url: https://forms.gle/CePDdFCxgcZwP6PE6
+    url: https://forms.gle/EzER9Np3CR2G1yKr9
     target: _blank
 
 
@@ -26,7 +27,7 @@ accent_image:
 
 ---
 
-# Interbeing Learning Journey Yucatán (Spring edition)
+# Interbeing Learning Journey Yucatán (Fall edition)
 
 1. this ordered seed list will be replaced by the toc
 {:toc}
@@ -54,84 +55,80 @@ During the journey, we will have a combination of visits, group process, lecture
 
 ## Itinerary
 
-April 18th-30th, 2023
+September 22nd - October 4th, 2023
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-01.jpg){:.thumb}
 
-### Day 1. Tuesday, April 18th. Arrivals
+### Day 1. Friday, September 22nd. Arrivals
 
-Arrive at Cancun International Airport. Pick up from Cancun bus station and transfer to our hotel. Meet your Learning Journey Team and fellow companions on the journey. Gather for a welcome talk, dinner, opening ceremony, and reception.
-
-
-### Day 2. Wednesday, April 19th. Chemuyil
-
-![](/assets/img/courses/yucatan_fall/yucatan_fall-09.jpg){:.thumb}
-
-In the morning we will drive for 1h30min to Chemuyil, where we will do an opening ceremony in a geodesic dome in the jungle, sharing our intentions and grounding ourselves while getting to know each other and the intentions for our journey. We will allow space for a silent walk in the jungle, a silence to listen and be truly present to the web of life that wraps us and that we are. A trail will lead us to a cenote, with the invitation to look to the inner world of Earth and Earthlings. Back in Chemuyil we will enjoy a special dinner of traditional local food.
-
-### Day 3. Thursday, April 20th. Xahuayxol
-
-![](/assets/img/courses/yucatan_fall/yucatan_fall-13.jpg){:.thumb}
-
-Activity in the morning to be determined. After that, we will drive for 3:30 hours to Xahuayxol, a small fishermen town in the coast of the Caribbean, where we will have beach time in the evening. We will close the day with a lecture about coral reefs and marine life that will prepare us for the excursion next day. We will spend the night in the cabins by the beach.
-
-### Day 4. Friday, April 21st. Banco Chinchorro
-
-![](/assets/img/courses/yucatan_fall/yucatan_fall-06.jpg){:.thumb}
-
-We will take a 1 hour boat ride to visit the Banco Chinchorro Biosphere Reserve, a mosaic of open water, seagrass beds, mangroves, sand beaches and coral reefs that is considered one of the most outstanding marine sites in the region. Banco Chinchorro is the biggest platform type reef complex system in Mexico, and the second longest reef in the world. We will have time to snorkel (scuba diving possible with an extra fee). After our return to Mahahual, we will have lunch and spend some time in the beach. In the evening, we will have some time for group process in our cabins in Xahuayxol, where we will have dinner and spend the night.
-
-### Day 5. Saturday, April 22nd. Xul Ha/Lagoon of Bacalar
-
-![](/assets/img/courses/yucatan_fall/yucatan_fall-14.jpg){:.thumb}
-
-After sharing breakfast by the beach, we will drive for 2 hours to the lagoon of Xul Ha, home to the stromatolites, one of the most ancient forms of life on Earth, responsible for increasing the amount of oxygen in the primeval atmosphere through their continuing photosynthesis. They were the first known organisms to photosynthesize and produce free oxygen, changing radically the possibilities for life on our planet.  We will regroup in the evening in the lagoon of Bacalar for a group sharing.
-
-### Day 6. Sunday, April 23rd. Lagoon of Bacalar
-
-![](/assets/img/courses/yucatan_fall/yucatan_fall-02.jpg){:.thumb}
-
-We will enjoy a full day of rest and regeneration by the lagoon of Bacalar, with possibility to kayak, sail, cook together, aqua therapy and temazcal. 
-
-### Day 7. Monday, April 24th. Peto/Mérida
-
-![](/assets/img/courses/yucatan_fall/yucatan_fall-07.jpg){:.thumb}
-
-In the morning, we will travel to Peto (3 hours drive), where we will learn with the help of a local expert about Xook K’iin, a contemporary Mayan agroecological calendar that has enabled peasant communities to better adjust to the changing and unpredictable conditions of climate change. We will walk in the milpa and get to know the different varieties of local flora, fauna and the strategies of indigenous communities to take care of life. After lunch, we will travel to Mérida (1h30min) to enjoy some free time in this historical city.
+Arrive at Cancun International Airport. Pick up from Cancun bus station and transfer to our hotel. Meet your Learning Journey Team and fellow companions on the journey. Gather for a welcome talk and dinner.
 
 
-### Day 8. Tuesday, April 25th. Buctzotz
-
-![](/assets/img/courses/yucatan_fall/yucatan_fall-12.jpg){:.thumb}
-
-We will visit the Mayan town of Buctzotz, where we will be hosted by members of the Asamblea Muuch Xiimbal. This will be an opportunity to engage in the Mayan philosophy and worldbeing, and we will learn about the current challenges faced in the peninsula of Yucatan. After lunch, we will drive back to Mérida (1h30min) by the coastal road, where we will have the opportunity to spot some pink flamingos. In the evening we will have time for group sharing and reflection.
-
-### Day 9. Wednesday, April 26th. Chichén Itzá
+### Day 2. Saturday, September 23rd. Chichén Itzá
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-03.jpg){:.thumb}
 
-After a 2h30min drive, we will visit Chichén Itzá, considered the most important archaeological vestige of the Maya-Toltec civilization in Yucatan (10th-15th centuries). Its monuments are among the undisputed masterpieces of Mesoamerican architecture because of the beauty of their proportions, the refinement of their construction and the splendor of their sculpted decorations that have made it one of the Wonders of the World. We will visit this ancient city with the help of a local expert, learning about archeo-astronomy. We will spend the night in this area.
+In the morning we will do an opening ceremony. After a 2h30min drive, we will visit Chichén Itzá, in time for the Fall equinox and the descent of the serpent in the Temple of Kukulkán. Chichén Itzá is considered the most important archaeological vestige of the Maya-Toltec civilization in Yucatan (10th-15th centuries). Its monuments are among the undisputed masterpieces of Mesoamerican architecture because of the beauty of their proportions, the refinement of their construction and the splendor of their sculpted decorations that have made it one of the Wonders of the World. We will visit this ancient city with the help of a local expert, learning about archeo-astronomy. We will spend the night in this area.
 
-
-### Day 10. Thursday, April 27th. Cenote Xooch
+### Day 3. Sunday, September 24th. Cenote Xooch/Holbox Island
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-11.jpg){:.thumb}
 
-We will visit the Cenote Xooch (1h drive), one of the most impressive cenotes in the region, with an underground pool diameter of approximately 60m, surrounded by exuberant, breathtaking nature. In this unparalleled location we will host a lecture about the Ring of Cenotes, a 180km-diameter semicircular band of abundant karst sinkholes which coincides with the concentric ring of the Chicxulub structure, caused by the impact of the asteroid. Learn about this event that reshaped the history of our planet and the majority of her species. In the evening, we will drive to Cancún, where we will spend the night.
+We will visit the Cenote Xooch (1h drive), one of the most impressive cenotes in the region, with an underground pool diameter of approximately 60m, surrounded by exuberant, breathtaking nature. In this unparalleled location we will host a lecture about the Ring of Cenotes, a 180km-diameter semicircular band of abundant karst sinkholes which coincides with the concentric ring of the Chicxulub structure, caused by the impact of the asteroid. Learn about this event that reshaped the history of our planet and the majority of her species. In the evening we will travel to Chiquilá, where we will take the ferry to the island of Holbox, located at the intersection of the Caribbean sea and the Gulf of Mexico. At night, we will experience the astonishing spectacle of bioluminescence.
 
-### Day 11. Friday, April 28th. Isla Contoy
+### Day 4. Monday, September 25th. Holbox
 
-![](/assets/img/courses/yucatan_fall/yucatan_fall-10.jpg){:.thumb}
+We will spend the morning by the beach in Holbox (optional excursion to Cabo Catoche for an extra fee). After lunch, we will take the ferry back to Chiquilá, where we will take our transportation to Solferino, where we will spend the night.
 
-We will take a ferry to visit Isla Contoy, home to over 150 tropical bird species and four types of endangered sea turtles. These animals and a handful of scientists are the only full time inhabitants on this heavily protected island. In the evening, we will take the ferry back to the continent.
+### Day 5. Tuesday, September 26th. Buctzotz
 
-### Day 12. Saturday, April 29th. Integration/celebration
+![](/assets/img/courses/yucatan_fall/yucatan_fall-12.jpg){:.thumb}
 
-We will dedicate this day to wrap up our journey, reflect together about our un/learnings, do a closing ceremony and host a celebration.
+We will take the visit the Mayan town of Buctzotz, where we will be hosted by members of the Asamblea Muuch Xiimbal. This will be an opportunity to engage in the Mayan philosophy and worldbeing, and we will learn about the current challenges faced in the peninsula of Yucatan. After lunch, we will drive back to Mérida (1h30min) by the coastal road, where we will have the opportunity to spot some pink flamingos. In the evening we will have time for group sharing and reflection.
 
-### Day 13. Sunday, April 30th. Departures
+### Day 6. Wednesday, September 27th. Hopelchén
 
-We will help you to set up your transfer to the airport of Cancun.
+![](/assets/img/courses/yucatan_fall/yucatan_fall-07.jpg){:.thumb}
+
+In the morning, we will travel to Hopelchén (2 hours drive), where we will meet with the local Mayan communities that have been leading an important resistance against GMOs and pollution from pork farms in the peninsula, creating an interspecies learning space with the help of native bees. After lunch, we will travel to Xpujil, where we will spend the night. 
+
+### Day 7. Thursday, September 28th. Calakmul
+
+Very early in the morning, we will enter the Reserve of the Biosphere Calakmul for a short hike where we will admire the abundance of life in the jungle. With luck, we will be able to spot guacamayas, tucans, wild turkeys, deers and many other species. After this, we will visit the archaeological site of Calakmul, one of the largest and most powerful ancient Mayan cities. We will spend the night in the area.
+
+### Day 8. Friday, September 29th. Xul Ha/Bacalar
+
+![](/assets/img/courses/yucatan_fall/yucatan_fall-14.jpg){:.thumb}
+
+We will drive for 2 hours to the lagoon of Xul Ha, home to the stromatolites, one of the most ancient forms of life on Earth, responsible for increasing the amount of oxygen in the primeval atmosphere through their continuing photosynthesis. They were the first known organisms to photosynthesize and produce free oxygen, changing radically the possibilities for life on our planet.  We will regroup in the evening in the lagoon of Bacalar for a group sharing.
+
+### Day 9. Saturday, September 30th. Bacalar
+
+![](/assets/img/courses/yucatan_fall/yucatan_fall-02.jpg){:.thumb}
+
+We will have a full day of rest and regeneration by the lagoon. Sailing, kayaking, cooking together, aqua therapy and temazcal are some of the optional activities for the day. 
+
+### Day 10. Sunday, October 1st. Banco Chinchorro
+
+![](/assets/img/courses/yucatan_fall/yucatan_fall-06.jpg){:.thumb}
+
+We will drive to Mahahual, where we will take a 1 hour boat ride to visit the Banco Chinchorro Biosphere Reserve, a mosaic of open water, seagrass beds, mangroves, sand beaches and coral reefs that is considered one of the most outstanding marine sites in the region. Banco Chinchorro is the biggest platform type reef complex system in Mexico, and the second longest reef in the world. We will have time to snorkel (scuba diving possible with an extra fee). After our return to Mahahual, we will have lunch and spend some time in the beach. In the evening, we will have some time for group process in our cabins, where we will have dinner and spend the night.
+
+### Day 11. Monday, October 2nd. Chemuyil
+
+![](/assets/img/courses/yucatan_fall/yucatan_fall-09.jpg){:.thumb}
+
+We will travel to Chemuyil, where we will allow space for a silent walk in the jungle, a silence to listen and be truly present to the web of life that wraps us and that we are. A trail will lead us to a cenote, with the invitation to look to the inner world of Earth and Earthlings. For dinner, we will enjoy a special dinner of traditional local food.
+
+### Day 12. Tuesday, October 3rd. Chemuyil
+
+![](/assets/img/courses/yucatan_fall/yucatan_fall-13.jpg){:.thumb}
+
+In our last day together, we will wrap up our journey, reflect on our un/learnings and do a closing ceremony. After lunch, we will throw a celebration. 
+
+### Day 13. Wednesday, October 4th. Departures. 
+
+We will drive back to Playa del Carmen, where we will help you to set up your transfer to the airport of Cancun.
 
 ## Itinerary at a glance:
 
@@ -237,10 +234,10 @@ More details coming soon.
 ## Learning Journey summary
 
 * We will take a maximum of 25 people
-* Registration start date -​ ​July 20th, 2022
-* Registration last date - August 30th, 2022
-* Dates of the learning journey - September 14-25,2022
-* No of days - 12 days.
+* Registration start date -​ ​October 21st, 2022
+* Registration last date - August 30th, 2023
+* Dates of the learning journey - September 22nd - October 4th, 2023
+* No of days - 13 days.
 * How will we be traveling - We​ ​will​ ​have​ ​pre-booked​ ​cars​ ​for​ ​the​ ​travel.
 * Total Kms - We​ ​will​ ​be​ ​traveling​ ​roughly​ ​1400​ ​kms (average 2h30min per day)
 

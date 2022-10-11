@@ -2,7 +2,9 @@
 layout: project
 title: 'Huasteca journey: embroidery, wise food and celebration of the dead'
 
-date: 1 May 2022
+date: 23 Oct 2023
+end_date: 4 Nov 2023
+
 image:
   path: /assets/img/courses/huaesteca.jpg
   srcset:
@@ -222,7 +224,7 @@ We adopt the three principles of permaculture: Care for the Earth, Care for the 
 
 **Carmen Ramos**.
 
-**Paciano Ramírez Juanita**, a wise Nahua man, who has cared for and loved Mother Earth, honoring the ancestral knowledge he learned from his predecessors. Fearless to innovate by integrating cinnamon into his agroforestry production system in which he conserves local species such as vanilla, capulines, soursops, jobos, etc. He has done so wit his family, Nana, his life partner and Gaby, his apprentice daughter, both accompanying women in the production of vanilla and cinnamon. 
+**Paciano Ramírez Juanita**, a wise Nahua man, who has cared for and loved Mother Earth, honoring the ancestral knowledge he learned from his predecessors. Fearless to innovate by integrating cinnamon into his agroforestry production system in which he conserves local species such as vanilla, capulines, soursops, jobos, etc. He has done so wit his family, Nana, his life partner and Gaby, his apprentice daughter, both accompanying women in the production of vanilla and cinnamon.
 
 **Gaby Ramírez González**, daughter of Don Paciano, she has grown up in the embrace of our Mother Earth. She lives as a caretaker of her agroforestry system where she keeps the wisdom of her father, grandparents and grandmothers, conserving local species and integrating cinnamon, pitahaya and other species that are integrated into the acahuales systems that are Nahua tradition.
 

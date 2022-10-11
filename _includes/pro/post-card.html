@@ -10,15 +10,15 @@
 
 {% assign sizes = '' %}
 {% if include.featured %}
-  {% capture sizes %}(min-width: {{ break_point_5 }}em) {{ content_width_5 | plus:2 }}rem, 
-                     (min-width: {{ break_point_2 }}em) {{ content_width_2 | plus:2 }}rem, 
-                     (min-width: {{ break_point_1 }}em) {{ content_width   | plus:2 }}rem, 
+  {% capture sizes %}(min-width: {{ break_point_5 }}em) {{ content_width_5 | plus:2 }}rem,
+                     (min-width: {{ break_point_2 }}em) {{ content_width_2 | plus:2 }}rem,
+                     (min-width: {{ break_point_1 }}em) {{ content_width   | plus:2 }}rem,
                                                         {{ content_width            }}rem
   {% endcapture %}
 {% else %}
-  {% capture sizes %}(min-width: {{ break_point_5 }}em) {{ content_width_5 | plus:2 | divided_by:2 | minus:0.5 }}rem, 
-                     (min-width: {{ break_point_2 }}em) {{ content_width_2 | plus:2 | divided_by:2 | minus:0.5 }}rem, 
-                     (min-width: {{ break_point_1 }}em) {{ content_width   | plus:2 | divided_by:2 | minus:0.5 }}rem, 
+  {% capture sizes %}(min-width: {{ break_point_5 }}em) {{ content_width_5 | plus:2 | divided_by:2 | minus:0.5 }}rem,
+                     (min-width: {{ break_point_2 }}em) {{ content_width_2 | plus:2 | divided_by:2 | minus:0.5 }}rem,
+                     (min-width: {{ break_point_1 }}em) {{ content_width   | plus:2 | divided_by:2 | minus:0.5 }}rem,
                                                         {{ content_width                                       }}rem
   {% endcapture %}
 {% endif %}
@@ -40,6 +40,10 @@
       {{ post.tagline | default:post.caption | default:post.description | markdownify | replace:'<p>','' | replace:'</p>','' }}
     </p>
   {% endif %}
+
+
+
+
   {% assign text = site.data.strings.continue_reading | default:"Continue reading <!--post_title-->" %}
   <a class="fill-card no-hover" href="{{ post.url | relative_url }}" tabindex="-1"><span class="sr-only">{{ text | replace:"<!--post_title-->", post.title }}</span></a>
 </article>

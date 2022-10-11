@@ -2,7 +2,9 @@
 layout: project
 title: 'Yucatán journey: extinctions, ocean, cenotes and time (Spring 2023 edition)'
 
-date: 1 Jun 2022
+date: 12 Mar 2023
+end_date: 23 Mar 2023
+
 image:
   path: /assets/img/courses/yucatan_fall.jpg
   srcset:
@@ -39,7 +41,7 @@ The Yucatan is home to an intercultural society facing very complex challenges. 
 
 This is an invitation to undoing tourism and development and a provocation to learn to be good visitors, setting aside the Western sense of neo-colonizing entitlement and focusing on the attuning of sensibilities, journeying together, holding the inevitable contradictions and caring for the nourishment of local communities, land and waters that will host us, as well as for the lands and waters where we travelers usually dwell.
 
-We want to do this by co-creating an intergenerational space, where families can travel together and children are explicitly welcomed as an essential part of the un/learning experience. 
+We want to do this by co-creating an intergenerational space, where families can travel together and children are explicitly welcomed as an essential part of the un/learning experience.
 ## Ecopedagogy and travelling
 
 The values, pedagogy and approach of the Enlivened Cooperative in this journey emphasize:
@@ -55,7 +57,7 @@ During the journey, we will have a combination of visits, group process, lecture
 
 ## Itinerary
 
-March 12th-23rd, 2023 
+March 12th-23rd, 2023
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-01.jpg){:.thumb}
 
@@ -80,7 +82,7 @@ Activity in the morning to be determined. After lunch, we will drive for 3:30 ho
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-06.jpg){:.thumb}
 
-We will take a 1 hour boat ride to visit the Banco Chinchorro Biosphere Reserve, a mosaic of open water, seagrass beds, mangroves, sand beaches and coral reefs that is considered one of the most outstanding marine sites in the region. Banco Chinchorro is the biggest platform type reef complex system in Mexico, and the second longest reef in the world. We will have time to snorkel (scuba diving possible with an extra fee). After our return to Mahahual, we will have dinner. 
+We will take a 1 hour boat ride to visit the Banco Chinchorro Biosphere Reserve, a mosaic of open water, seagrass beds, mangroves, sand beaches and coral reefs that is considered one of the most outstanding marine sites in the region. Banco Chinchorro is the biggest platform type reef complex system in Mexico, and the second longest reef in the world. We will have time to snorkel (scuba diving possible with an extra fee). After our return to Mahahual, we will have dinner.
 
 ### Day 5. Thursday, March 16. Xahuayxol-Calakmul
 
@@ -102,13 +104,13 @@ In the morning, we will drive for 1.5 hours to the lagoon of Xul Ha, home to the
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-02.jpg){:.thumb}
 
-We will have a full day of rest and regeneration by the lagoon. Sailing, kayaking, cooking together, aqua therapy and temazcal are some of the optional activities for the day. 
+We will have a full day of rest and regeneration by the lagoon. Sailing, kayaking, cooking together, aqua therapy and temazcal are some of the optional activities for the day.
 
 ### Day 9. Sunday, March 19. Cenote Xooch
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-11.jpg){:.thumb}
 
-After breakfast, we will drive for 4 hours to visit the Cenote Xooch, one of the most impressive cenotes in the region, with an underground pool diameter of approximately 60m, surrounded by exuberant, breathtaking nature. In this unparalleled location we will camp, play and learn about the Ring of Cenotes, a 180km-diameter semicircular band of abundant karst sinkholes which coincides with the concentric ring of the Chicxulub structure, caused by the impact of the asteroid, an event that reshaped the history of our planet and the majority of her species. 
+After breakfast, we will drive for 4 hours to visit the Cenote Xooch, one of the most impressive cenotes in the region, with an underground pool diameter of approximately 60m, surrounded by exuberant, breathtaking nature. In this unparalleled location we will camp, play and learn about the Ring of Cenotes, a 180km-diameter semicircular band of abundant karst sinkholes which coincides with the concentric ring of the Chicxulub structure, caused by the impact of the asteroid, an event that reshaped the history of our planet and the majority of her species.
 
 ### Day 10. Monday, March 20. Chichén Itzá
 
@@ -226,7 +228,7 @@ By participating in this journey, you support an effort to engage with equity an
 
 **Pedro Uc Be** is a poet and a defender of the Mayan territory in Yucatan. Born in Buctzotz, he is the author of several books and a recipient of different awards. For Pedro, poetry and the care for the land are the same, a deep root that is entangled to his relationship to the milpa. His proposal is to share Mayan philosophy, thought and emotion a a proposal of life, of survival, of joy and of health.
 
-**Haizel de la Cruz**, Born in Ticul and currently living in Buctzotz. A young photographer that documents the Mayan resistance and the vitality of an ethics of care for life. A ceiba tree, that represents life, time, space and community for Mayan was the first image that she captured with her cellphone. And her world moved. 
+**Haizel de la Cruz**, Born in Ticul and currently living in Buctzotz. A young photographer that documents the Mayan resistance and the vitality of an ethics of care for life. A ceiba tree, that represents life, time, space and community for Mayan was the first image that she captured with her cellphone. And her world moved.
 
 More details coming soon.
 

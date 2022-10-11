@@ -6,7 +6,7 @@ layout: base
 {% assign project = page %}
 {% assign separator = site.data.strings.separator | default:"|" %}
 {% assign nsd = site.hydejack.no_structured_data | default:site.no_structured_data %}
-{% assign proj_format = site.data.strings.date_formats.project | default:"%Y" %}
+{% assign proj_format = "%d/%m/%Y" %}
 {% assign from_to_separator = strings.from_to_separator | default:strings.resume.from_to_separator | default:"–" %}
 
 <article

@@ -51,3 +51,7 @@ gem 'wdm' if Gem.win_platform?
 gem "tzinfo-data" if Gem.win_platform?
 
 gem "webrick", "~> 1.7"
+
+gem "ffi", "~> 1.15"
+
+gem "addressable", "~> 2.8"

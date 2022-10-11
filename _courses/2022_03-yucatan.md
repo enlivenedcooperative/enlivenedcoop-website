@@ -2,7 +2,9 @@
 layout: project
 title: 'Yucatán journey: extinctions, ocean, cenotes and time (Spring edition)'
 
-date: 1 Jan 2022
+date: 26 Mar 2022
+end_date: 6 Apr 2022
+
 image:
   path: /assets/img/courses/yucatan.jpg
   srcset:
