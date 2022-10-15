@@ -6,11 +6,11 @@ date: 18 Apr 2023
 end_date: 30 Apr 2023
 
 image:
-  path: /assets/img/courses/yucatan_fall.jpg
+  path: /assets/img/courses/yucatan_fall/yucatan_fall-01.jpg
   srcset:
-    2560w: /assets/img/courses/yucatan_fall.jpg
-    1280w: /assets/img/courses/yucatan_fall.jpg
-    640w: /assets/img/courses/yucatan_fall.jpg
+    2560w: /assets/img/courses/yucatan_fall/yucatan_fall-01.jpg
+    1280w: /assets/img/courses/yucatan_fall/yucatan_fall-01.jpg
+    640w: /assets/img/courses/yucatan_fall/yucatan_fall-01.jpg
 
 links:
   - title: Apply to this course!
