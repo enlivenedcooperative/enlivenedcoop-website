@@ -42,18 +42,6 @@ The Yucatan is home to an intercultural society facing very complex challenges. 
 
 This is an invitation to undoing tourism and development and a provocation to learn to be good visitors, setting aside the Western sense of neo-colonizing entitlement and focusing on the attuning of sensibilities, journeying together, holding the inevitable contradictions and caring for the nourishment of local communities, land and waters that will host us, as well as for the lands and waters where we travelers usually dwell.
 
-## Ecopedagogy and travelling
-
-The values, pedagogy and approach of the Enlivened Cooperative in this journey emphasize:
-
-* _Relationality_ – learning by weaving relations between all learners (including faculty);
-* _Emplacement_ – nurturing inquiries, practices and attention towards place (and one´s own place) including the beyond human;
-* _Cosmopolitical learning_ - including many ways of being-knowing-doing-relating, towards human becoming and possible worlds, slowing down reasoning;
-* _Buen Vivir and Responsibility_ - for the common flourishing, alivelihoods and well-being of all beings, which calls for a reinvention of the human and the tending to new stories and practices, particularly of those directly participating in the shared learning experience.
-
-Before the journey, registered participants will get access to a platform with resources on different topics of the journey, such as: Mayan culture, the Chicxulub event, Deep Time perspective, anti-tourism and radical hospitality, marine life ecosystems, archeoastronomy and indigenous peoples resistance to extractivist models of development. These are materials and resources that learners can engage freely, at their own rhythm and with no expected outcome. Participants are invited to choose one topic of inquiry during their journey that is relevant and alive for them.
-
-During the journey, we will have a combination of visits, group process, lectures, practices and free time. Participants are invited to document their journey in the way that suits them better for their learning process.
 
 ## Itinerary
 
@@ -185,7 +173,6 @@ Temperatures in the region for the dates of the learning journey range between 8
 * insect repellent
 
 
-
 ## Reasons to participate
 
 You have an interest in:
@@ -208,6 +195,19 @@ Co-creating a space for deepening artistic explorations.
 
 Meeting fellow travelers with kindred interests and mutual inspiration .
 
+## Ecopedagogy and travelling
+
+The values, pedagogy and approach of the Enlivened Cooperative in this journey emphasize:
+
+* _Relationality_ – learning by weaving relations between all learners (including faculty);
+* _Emplacement_ – nurturing inquiries, practices and attention towards place (and one´s own place) including the beyond human;
+* _Cosmopolitical learning_ - including many ways of being-knowing-doing-relating, towards human becoming and possible worlds, slowing down reasoning;
+* _Buen Vivir and Responsibility_ - for the common flourishing, alivelihoods and well-being of all beings, which calls for a reinvention of the human and the tending to new stories and practices, particularly of those directly participating in the shared learning experience.
+
+Before the journey, registered participants will get access to a platform with resources on different topics of the journey, such as: Mayan culture, the Chicxulub event, Deep Time perspective, anti-tourism and radical hospitality, marine life ecosystems, archeoastronomy and indigenous peoples resistance to extractivist models of development. These are materials and resources that learners can engage freely, at their own rhythm and with no expected outcome. Participants are invited to choose one topic of inquiry during their journey that is relevant and alive for them.
+
+During the journey, we will have a combination of visits, group process, lectures, practices and free time. Participants are invited to document their journey in the way that suits them better for their learning process.
+
 ## Ethics and economy
 
 As a cooperative, we believe in offering programs that help you, your community and the world be enlivened again. We strive to co-create regenerative livelihoods for our families and for the planet. We refuse to engage in deadlihoods and we engage in initiatives that support alivelihoods, regenerating ourselves, the earth’s natural systems and local healthy families and communities.
@@ -221,13 +221,9 @@ By participating in this journey, you support an effort to engage with equity an
 
 **Gerardo López-Amaro**, co-founder of the Enlivened Cooperative, is currently walking com-passionately the path of autonomous education with the task of imagining spaces of encounter for thinking-feeling together about ways to strengthen the defense of life, memory and territory. He sees this as part of a planetary struggle for cognitive, relational and ontological justice. He is purposefully becoming entangled in a great “we” of people enacting the pluriverse, that “world where many worlds fit.” He has a profound interest in intercultural translation as a political practice with the horizon of weaving together an anti-imperial, decolonizing, joyful South that can resist the current capitalist storm and create stories, practices, and ideas that nurture life and dignity. Born and raised in San Luis Potosi, Mexico, he’s a pilgrim of viable spaces informed by politics of love and consciousness regarding the healing of land and territory, love and intimacy, and labor and livelihood. These topics constitute his field of inquiry for his doctoral dissertation research in Anthropology and Social Change at the California Institute of Integral Studies.
 
-**Udi Mandel** has 20 years of experience teaching social anthropology and sustainability in higher education and collaborating with communities in Europe, the Pacific, North and Latin America. Udi’s focus is on issues of social, ecological and epistemic justice with an emphasis on regenerative practices that can bring human and ecological flourishing. Udi’s work combines action research, writing, filmmaking and community collaborations in a range of settings,  including diverse indigenous communities, social and ecological movements from around the world. Udi received his PhD in social anthropology from Goldsmiths College (University of London), an MSc in international development from the University of Bristol, and an MFA from the University of Edinburgh. Udi has held faculty appointments at EARTH University (Costa Rica), the University of Bristol (UK), and the University of Oxford and other institutions in the UK and US. Udi co-founded with others the Enlivened Learning Project and the Ecoversities Alliance, an international alliance of learning places committed to social and ecological justice and regeneration. Udi is also a co-founder of the Enlivened Cooperative.
-
 ![](/assets/img/courses/yucatan_fall/bernardo.jpg){:.right.thumb width="250"}
 
 **Bernardo Sánchez Lapuente** is a Social Anthropologist, Theater Educator and Photographer. Beyond titles and credentials, Bernardo is an Artist, Dad of two awesome girls, traveler and world bridger. He develops his work within the framework of Art Education with kids and youth, as well as accompanying group processes. He feels fascinated with the idea of traveling throughout the planet that we inhabit while also journeying throughout the infinite geography that inhabits us. He will be in charge of generating spaces and moments to put into common ground the discoveries and questions of the journey.
-
-**Lupita de la Rosa**, President and Founder of Moce Yax Cuxtal, a local, women-led environmentalist organization dedicated to creating ecological programs in the urban area of Playa del Carmen and neighboring areas.
 
 **Pedro Uc Be** is a poet and a defender of the Mayan territory in Yucatan. Born in Buctzotz, he is the author of several books and a recipient of different awards. For Pedro, poetry and the care for the land are the same, a deep root that is entangled to his relationship to the milpa. His proposal is to share Mayan philosophy, thought and emotion a a proposal of life, of survival, of joy and of health.
 
@@ -239,11 +235,11 @@ More details coming soon.
 
 ## Learning Journey summary
 
-* We will take a maximum of 25 people
-* Registration start date -​ ​July 20th, 2022
-* Registration last date - August 30th, 2022
-* Dates of the learning journey - September 14-25,2022
-* No of days - 12 days.
+* We will take a maximum of 15 people
+* Registration start date -​ ​November 1st, 2022
+* Registration last date - March 25th, 2022
+* Dates of the learning journey - April 18th-30th, 2023
+* No of days - 13 days.
 * How will we be traveling - We​ ​will​ ​have​ ​pre-booked​ ​cars​ ​for​ ​the​ ​travel.
 * Total Kms - We​ ​will​ ​be​ ​traveling​ ​roughly​ ​1400​ ​kms (average 2h30min per day)
 
