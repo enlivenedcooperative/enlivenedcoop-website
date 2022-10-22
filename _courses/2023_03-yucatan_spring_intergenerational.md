@@ -33,27 +33,17 @@ accent_image:
 1. this ordered seed list will be replaced by the toc
 {:toc}
 
+The Interbeing Un/Learning Journeys are an invitation to travel otherwise. By interrupting the realm of the known and the familiar, participants benefit from a time that is crafted to engage with the land and the body. This experience sparks a collective conversation that expands sensibilities and practices in, against and beyond development and leadership. In doing so, we nurture the possibility of relating kindly to the Earth and the Earthlings.
+
+We want to do this by co-creating an intergenerational space, where families with kids can come, travel, play, look at the stars, wonder and reflect together. Children are explicitly welcomed as an essential part of this un/learning experience.  
+
 The Yucatán Peninsula in Mexico is a privileged witness of the last mass extinction event, caused by the impact of the Chicxulub asteroid. It shelters the mysteries of cosmic events sculpted as cenotes, windows to the underground. Jungles, lagoons and the ocean are home to vibrant and endangered communities of life. Similarly, it preserves the memories of ancient cities built by peoples who were and are some of the most prestigious observers of the stars and life cycles, the Mayans.
 
-Embraced by the Gulf of Mexico and the Caribbean, the Peninsula has a strong relationship with rich and threatened marine ecosystems, including the second largest coral reef in the world, the Banco Chinchorro.
+Embraced by the Gulf of Mexico and the Caribbean, the Peninsula has a strong relationship with rich and threatened marine ecosystems, including the second largest coral reef in the world, the Mesoamerican Barrier Reef.
 
 The Yucatan is home to an intercultural society facing very complex challenges. The economy is driven by extractivist tourism, attracting crowds enchanted by the beauties of the jungles, beaches, and villages of this region while overlooking the damage of a development model that is polluting on a vast scale, devastating mangroves and jungles, endangering species and ecosystems, and deepening social inequalities and injustice.
 
 This is an invitation to undoing tourism and development and a provocation to learn to be good visitors, setting aside the Western sense of neo-colonizing entitlement and focusing on the attuning of sensibilities, journeying together, holding the inevitable contradictions and caring for the nourishment of local communities, land and waters that will host us, as well as for the lands and waters where we travelers usually dwell.
-
-We want to do this by co-creating an intergenerational space, where families can travel together and children are explicitly welcomed as an essential part of the un/learning experience.
-## Ecopedagogy and travelling
-
-The values, pedagogy and approach of the Enlivened Cooperative in this journey emphasize:
-
-* _Relationality_ – learning by weaving relations between all learners (including faculty);
-* _Emplacement_ – nurturing inquiries, practices and attention towards place (and one´s own place) including the beyond human;
-* _Cosmopolitical learning_ - including many ways of being-knowing-doing-relating, towards human becoming and possible worlds, slowing down reasoning;
-* _Buen Vivir and Responsibility_ - for the common flourishing, alivelihoods and well-being of all beings, which calls for a reinvention of the human and the tending to new stories and practices, particularly of those directly participating in the shared learning experience.
-
-Before the journey, registered participants will get access to a platform with resources on different topics of the journey, such as: Mayan culture, the Chicxulub event, Deep Time perspective, anti-tourism and radical hospitality, marine life ecosystems, archeoastronomy and indigenous peoples resistance to extractivist models of development. These are materials and resources that learners can engage freely, at their own rhythm and with no expected outcome. Participants are invited to choose one topic of inquiry during their journey that is relevant and alive for them.
-
-During the journey, we will have a combination of visits, group process, lectures, practices and free time. Participants are invited to document their journey in the way that suits them better for their learning process.
 
 ## Itinerary
 
@@ -70,68 +60,62 @@ Arrive at Cancun International Airport. Pick up from Cancun bus station to our h
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-09.jpg){:.thumb}
 
-In the morning we will drive for 1h30min to Chemuyil, where we will do an opening ceremony in a geodesic dome in the jungle, sharing our intentions and grounding ourselves while getting to know each other and the intentions for our journey. We will allow space for a silent walk in the jungle, a silence to listen and be truly present to the web of life that wraps us and that we are. A trail will lead us to a cenote, with the invitation to look to the inner world of Earth and Earthlings. Back in Chemuyil we will enjoy a special dinner of traditional local food.
+Here we will do an opening ceremony in a geodesic dome in the jungle, sharing our intentions and grounding ourselves while getting to know each other and the intentions for our journey. We will allow space for a silent walk in the jungle, a silence to listen and be truly present to the web of life that wraps us and that we are. A trail will lead us to a cenote, with the invitation to look to the inner world of Earth. Back in Chemuyil we will enjoy a special dinner of traditional local food.
 
-### Day 3. Tuesday, March 14. Xahuayxol
+### Day 3. Tuesday, March 14. Chemuyil-Bacalar
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-13.jpg){:.thumb}
 
-Activity in the morning to be determined. After lunch, we will drive for 3:30 hours to Xahuayxol, a small fishermen town in the coast of the Caribbean, where we will have beach time in the evening. We will close the day with a lecture about coral reefs and marine life that will prepare us for the excursion next day. We will spend the night in the cabins by the beach.
+We will spend the morning by the Caribbean beach of Xcacel, a nature reserve and sanctuary of the turtle. After lunch, we will drive for 2:45 hours to the lagoon of Bacalar, with its gorgeous water with incredible shades of blue. 
 
-### Day 4. Wednesday, March 15. Banco Chinchorro
+### Day 4. Wednesday, March 15. Bacalar
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-06.jpg){:.thumb}
 
-We will take a 1 hour boat ride to visit the Banco Chinchorro Biosphere Reserve, a mosaic of open water, seagrass beds, mangroves, sand beaches and coral reefs that is considered one of the most outstanding marine sites in the region. Banco Chinchorro is the biggest platform type reef complex system in Mexico, and the second longest reef in the world. We will have time to snorkel (scuba diving possible with an extra fee). After our return to Mahahual, we will have dinner.
+We will have a full day of rest and regeneration by the lagoon. Sailing, becoming pirates, kayaking in the near mangroves, cooking together, aqua therapy and temazcal are some of the optional activities for the day.
 
-### Day 5. Thursday, March 16. Xahuayxol-Calakmul
+### Day 5. Thursday, March 16. Bacalar/Xul Ha
 
-Beach time in the morning with a group circle. After lunch, we will drive for 3:30 hours to get to Xpujil, where we will have dinner and spend the night.
+We will visit the nearby lagoon of Xul Ha, home to the stromatolites, one of the most ancient forms of life on Earth, responsible for increasing the amount of oxygen in the primeval atmosphere through their continuing photosynthesis. They were the first known organisms to photosynthesize and produce free oxygen, changing radically the possibilities for life on our planet.  We will regroup in the evening in the lagoon of Bacalar for a group sharing.
 
 
-### Day 6. Friday, March 17. Calakmul
+### Day 6. Friday, March 17. Bacalar/Calakmul
 
-Very early in the morning, we will enter the Reserve of the Biosphere Calakmul for a short hike where we will admire the abundance of life in the jungle. With luck, we will be able to spot guacamayas, tucans, wild turkeys, deers and many other species. After this, we will visit the archaeological site of Calakmul, one of the largest and most powerful ancient Mayan cities. We will spend the night in the area.
+We will spend our last morning in the lagoon and after lunch we will travel for 1h30 to the Reserve of the Biosphere Calakmul, where we will camp in the second largest jungle remnant in the American continent after the Amazon. 
 
-### Day 7. Saturday, March 18. Xul Ha/Lagoon of Bacalar
+### Day 7. Saturday, March 18. Calakmul
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-14.jpg){:.thumb}
 
-In the morning, we will drive for 1.5 hours to the lagoon of Xul Ha, home to the stromatolites, one of the most ancient forms of life on Earth, responsible for increasing the amount of oxygen in the primeval atmosphere through their continuing photosynthesis. They were the first known organisms to photosynthesize and produce free oxygen, changing radically the possibilities for life on our planet.  We will regroup in the evening in the lagoon of Bacalar for a group sharing.
+Very early in the morning, we will do a short hike where we will admire the abundance of life in the jungle. With luck, we will be able to spot guacamayas, tucans, wild turkeys, deers and many other species. After this, we will visit the archaeological site of Calakmul, one of the largest and most powerful ancient Mayan cities. We will spend the night in the area.
 
-
-### Day 8. Saturday, March 18. Lagoon of Bacalar
-
-![](/assets/img/courses/yucatan_fall/yucatan_fall-02.jpg){:.thumb}
-
-We will have a full day of rest and regeneration by the lagoon. Sailing, kayaking, cooking together, aqua therapy and temazcal are some of the optional activities for the day.
-
-### Day 9. Sunday, March 19. Cenote Xooch
+### Day 8. Sunday, March 19. Calakmul/Cenotillo
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-11.jpg){:.thumb}
 
-After breakfast, we will drive for 4 hours to visit the Cenote Xooch, one of the most impressive cenotes in the region, with an underground pool diameter of approximately 60m, surrounded by exuberant, breathtaking nature. In this unparalleled location we will camp, play and learn about the Ring of Cenotes, a 180km-diameter semicircular band of abundant karst sinkholes which coincides with the concentric ring of the Chicxulub structure, caused by the impact of the asteroid, an event that reshaped the history of our planet and the majority of her species.
+After lunch, we will travel for 6 hours to reach Cenote Xooch, one of the most impressive cenotes in the region, with an underground pool diameter of approximately 60m, surrounded by exuberant, breathtaking nature. In this unparalleled location we will camp, play and learn about the Ring of Cenotes, a 180km-diameter semicircular band of abundant karst sinkholes which coincides with the concentric ring of the Chicxulub structure, caused by the impact of the asteroid, an event that reshaped the history of our planet and the majority of her species.
 
-### Day 10. Monday, March 20. Chichén Itzá
+### Day 9. Monday, March 20. Cenote Xooch/Chichén Itzá
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-03.jpg){:.thumb}
 
-In the morning, we will have time to enjoy swimming in the Cenote Xooch and have lunch in the local town of Cenotillo. In the afternoon, we will visit Chichén Itzá, in time for the Spring equinox and the descent of the serpent in the Temple of Kukulkán. Chichén Itzá is considered the most important archaeological vestige of the Maya-Toltec civilization in Yucatan (10th-15th centuries). Its monuments are among the undisputed masterpieces of Mesoamerican architecture because of the beauty of their proportions, the refinement of their construction and the splendor of their sculpted decorations that have made it one of the Wonders of the World. We will visit this ancient city with the help of a local expert, learning about archeo-astronomy. We will spend the night in this area.
+In the morning, we will have time to enjoy swimming in the Cenote Xooch and have lunch in the local town of Cenotillo. In the afternoon, we will visit Chichén Itzá, in time for the Spring equinox and the descent of the serpent in the Temple of Kukulkán. Chichén Itzá is considered the most important archaeological vestige of the Maya-Toltec civilization in Yucatan (10th-15th centuries). Its monuments are among the undisputed masterpieces of Mesoamerican architecture because of the beauty of their proportions, the refinement of their construction and the splendor of their sculpted decorations that have made it one of the Wonders of the World. We will visit this ancient city with the help of a local expert, learning about archeo-astronomy. We will spend the night in Ek Balam.
 
-
-### Day 11. Tuesday, March 21. Buctzotz/Ría Lagartos
+### Day 10. Tuesday, March 21. Ek Balam
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-12.jpg){:.thumb}
 
-We will visit the Mayan town of Buctzotz (2 hours drive), where we will be hosted by members of the Asamblea Muuch Xiimbal. This will be an opportunity to engage in the Mayan philosophy and worldbeing, and we will learn about the current challenges faced in the peninsula of Yucatan. For the kids, we will have a drawing and photography workshop. After lunch, we will drive back for 1.5 hours to Ría Lagartos where we will be in time for the night tour in this Reserve of the Biosphe, that hosts a great diversity of environments such as: mangrove, semi-evergreen forest, low deciduous forest, coastal dune, petenes, savannah, grassland and reedbed.
+We will have a conversation with  members of the Asamblea Muuch Xiimbal. This will be an opportunity to engage in the Mayan philosophy and worldbeing, and we will learn about the current challenges faced in the peninsula of Yucatan and the Mayan ethics of joy and wellbeing. After lunch, we will have a circle to wrap up our journey and reflect on our un/learnings. We will do a closing ceremony and we will host a celebration.
 
-### Day 12. Wednesday, March 22. Integration and celebration.
+### Day 11. Wednesday, March 22. Ek Balam/Puerto Morelos
 
-We will have a day to wrap up our journey, reflect on our un/learnings, and do a closing ceremony. In the evening, we will host a celebration.
+We will have a free morning and after lunch, we will drive for 2h30 to Puerto Morelos where we will enjoy beach time in the nearby reef.
 
-### Day 13. Thursday, March 23. Departures
+### Day 12. Thursday, March 23. Departures
 
-We will help you to set up your transfer to the airport of Cancun.
+We will help you to set up your transfer to the airport of Cancun (25 minutes drive).
+
+
 
 ## Itinerary at a glance:
 
@@ -157,7 +141,7 @@ Partial grants available upon request after applying
 Your journey **does not** include:
 
 * flights to and from Cancún.
-* bus from or to Cancun airport.
+* bus from and to Cancun airport.
 * snacks.
 * optional activities (massage, snorkeling, scuba diving) and local tours in free time.
 * health and travel insurance
@@ -172,7 +156,7 @@ Terri
 
 ## What to bring
 
-Temperatures in the region for the dates of the learning journey range between 86F (30C) and 72F (22C). Expect sunny days with a chance of rain. You might want to bring:
+Temperatures in the region for the dates of the learning journey range between 86F (30C) and 72F (22C). Expect sunny days. You might want to bring:
 
 * eco-friendly sunscreen
 * long-sleeve, light tops
@@ -204,6 +188,19 @@ Unfolding a self and collective inquiry leading to the birth of new practices an
 Co-creating a space for deepening artistic explorations.
 
 Meeting fellow travelers with kindred interests and mutual inspiration .
+
+## Ecopedagogy and travelling
+
+The values, pedagogy and approach of the Enlivened Cooperative in this journey emphasize:
+
+* _Relationality_ – learning by weaving relations between all learners (including faculty);
+* _Emplacement_ – nurturing inquiries, practices and attention towards place (and one´s own place) including the beyond human;
+* _Cosmopolitical learning_ - including many ways of being-knowing-doing-relating, towards human becoming and possible worlds, slowing down reasoning;
+* _Buen Vivir and Responsibility_ - for the common flourishing, alivelihoods and well-being of all beings, which calls for a reinvention of the human and the tending to new stories and practices, particularly of those directly participating in the shared learning experience.
+
+Before the journey, registered participants will get access to a platform with resources on different topics of the journey, such as: Mayan culture, the Chicxulub event, Deep Time perspective, anti-tourism and radical hospitality, marine life ecosystems, archeoastronomy and indigenous peoples resistance to extractivist models of development. These are materials and resources that learners can engage freely, at their own rhythm and with no expected outcome. Participants are invited to choose one topic of inquiry during their journey that is relevant and alive for them.
+
+During the journey, we will have a combination of visits, group process, lectures, practices and free time. Participants are invited to document their journey in the way that suits them better for their learning process.
 
 ## Ethics and economy
 
