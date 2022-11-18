@@ -124,8 +124,8 @@ We will help you to set up your transfer to the airport of Cancun (25 minutes dr
 
 ## Cost
 
-2500 USD in double room
-2800 USD in private room
+2200 USD in double room
+2500 USD in private room
 Partial grants available upon request after applying
 
 ## Your journey includes:
@@ -221,7 +221,7 @@ By participating in this journey, you support an effort to engage with equity an
 
 **Bernardo Sánchez Lapuente** is a Social Anthropologist, Theater Educator and Photographer. Beyond titles and credentials, Bernardo is an Artist, Dad of two awesome girls, traveler and world bridger. He develops his work within the framework of Art Education with kids and youth, as well as accompanying group processes. He feels fascinated with the idea of traveling throughout the planet that we inhabit while also journeying throughout the infinite geography that inhabits us. He will be in charge of generating spaces and moments to put into common ground the discoveries and questions of the journey.
 
-**Stephan Martin is an astronomer, educator, and author who has taught astronomy, physics, and consciousness studies at colleges, universities, and learning centers across the US for over twenty-five years. Between 2003-2008 he studied directly with Brian Swimme and others at the California Institute of Integral Studies, out of which came his first book Cosmic Conversations, in which he held dialogues with scientists, spiritual teachers, and cultural creatives on the nature of the universe and our role in it. Since then he has led workshops on the New Cosmology at seminars and retreat centers across the US and Europe and has been active in exploring multidisciplinary approaches to exploring the universe. He is currently adjunct faculty in the Consciousness and Transformative Studies graduate program at John F Kennedy University where he teaches a course on “Cosmology and Consciousness.” Steve is also a co-director of the continuing care program at the Center for Spiritual Emergence in Asheville, NC where he assists clients in living more conscious lives from an expansive perspective.
+**Stephan Martin** is an astronomer, educator, and author who has taught astronomy, physics, and consciousness studies at colleges, universities, and learning centers across the US for over twenty-five years. Between 2003-2008 he studied directly with Brian Swimme and others at the California Institute of Integral Studies, out of which came his first book Cosmic Conversations, in which he held dialogues with scientists, spiritual teachers, and cultural creatives on the nature of the universe and our role in it. Since then he has led workshops on the New Cosmology at seminars and retreat centers across the US and Europe and has been active in exploring multidisciplinary approaches to exploring the universe. He is currently adjunct faculty in the Consciousness and Transformative Studies graduate program at John F Kennedy University where he teaches a course on “Cosmology and Consciousness.” Steve is also a co-director of the continuing care program at the Center for Spiritual Emergence in Asheville, NC where he assists clients in living more conscious lives from an expansive perspective.
 
 **Pedro Uc Be** is a poet and a defender of the Mayan territory in Yucatan. Born in Buctzotz, he is the author of several books and a recipient of different awards. For Pedro, poetry and the care for the land are the same, a deep root that is entangled to his relationship to the milpa. His proposal is to share Mayan philosophy, thought and emotion a a proposal of life, of survival, of joy and of health.
 
@@ -233,7 +233,7 @@ More details coming soon.
 
 * We will take a minimum of 10 and a maximum of 15 people
 * Registration start date -​ ​October 29, 2022
-* Registration last date - February 7, 2023
+* Registration last date - February 15, 2023
 * Dates of the learning journey - March 12-23rd, 2023
 * No of days - 13 days.
 * How will we be traveling - We​ ​will​ ​have​ ​pre-booked​ ​cars​ ​for​ ​the​ ​travel.
