@@ -131,8 +131,8 @@ We will help you to set up your transfer to the airport of Cancun.
 
 ## Cost
 
-2500 USD in double room
-2800 USD in private room
+2300 USD in double room
+2600 USD in private room
 Partial grants available upon request after applying
 
 ## Your journey includes:
@@ -150,7 +150,7 @@ Your journey **does not** include:
 * flights to and from Cancún.
 * bus from or to Cancun airport.
 * snacks.
-* optional activities (massage, snorkeling, scuba diving) and local tours in free time.
+* optional activities (massage, scuba diving)
 * health and travel insurance
 
 ## Testimonials
