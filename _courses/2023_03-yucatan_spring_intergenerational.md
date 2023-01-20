@@ -124,8 +124,37 @@ We will help you to set up your transfer to the airport of Cancun (25 minutes dr
 
 ## Cost
 
-2200 USD in double room
-2500 USD in private room
+Consider contributing MORE on the scale if you:
+
+have the ability to comfortably meet all of your basic needs
+belong to a sponsoring organization or are employed full-time
+have investments, retirement accounts, or inherited money
+travel recreationally
+have access to family money and resources in times of need
+work part-time by choice
+own the home you live in
+have a relatively high degree of earning power due to level of education (or gender and racial privilege, class background, etc.)
+
+Consider contributing LESS on the scale if you.
+
+have difficulty covering basic expenses
+are supporting children or have other dependents
+have significant debt
+have medical expenses not covered by insurance
+are an elder with limited financial support
+are an unpaid community organizer
+have unstable housing and/or limited access to reliable transportation
+have not taken a vacation or time off due to the financial burden
+
+(This is based on the ‘Green Bottle’ sliding scale model by Alexis J. Cunningfolk | www.wortsandcunning.com)
+
+If you select an amount at the higher end of the scale, you will make possible future offerings and support the good work of the speakers, facilitators, and organizers who are generously contributing their gifts to this event.
+
+Basic fee: 1800 USD in double room, 2000 USD in private room
+Regular fee: 2100 USD in double room, 2300 USD in private room
+Plus fee: 2500 USD
+
+Kids up to 2 years old are free of charge. 
 Partial grants available upon request after applying
 
 ## Your journey includes:
@@ -233,7 +262,7 @@ More details coming soon.
 
 * We will take a minimum of 10 and a maximum of 15 people
 * Registration start date -​ ​October 29, 2022
-* Registration last date - February 15, 2023
+* Registration last date - February 28, 2023
 * Dates of the learning journey - March 12-23rd, 2023
 * No of days - 13 days.
 * How will we be traveling - We​ ​will​ ​have​ ​pre-booked​ ​cars​ ​for​ ​the​ ​travel.
