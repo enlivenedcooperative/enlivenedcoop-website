@@ -2,8 +2,8 @@
 layout: project
 title: 'Yucatán journey: extinctions, ocean, cenotes and time (Spring 2023 edition)'
 
-date: 12 Mar 2023
-end_date: 23 Mar 2023
+date: 17 Apr 2023
+end_date: 28 Apr 2023
 
 image:
   path: /assets/img/courses/yucatan_fall.jpg
@@ -47,71 +47,71 @@ This is an invitation to undoing tourism and development and a provocation to le
 
 ## Itinerary
 
-March 12th-23rd, 2023
+April 17-28, 2023
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-01.jpg){:.thumb}
 
-### Day 1. Sunday, March 12. Arrivals
+### Day 1. Monday, April 17. Arrivals
 
 Arrive at Cancun International Airport. Pick up from Cancun bus station to our hotel. Meet your Learning Journey Team and fellow companions on the journey. Gather for a welcome talk, dinner, opening ceremony, and reception.
 
 
-### Day 2. Monday, March 13. Chemuyil
+### Day 2. Tuesday, April 18. Chemuyil
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-09.jpg){:.thumb}
 
 Here we will do an opening ceremony in a geodesic dome in the jungle, sharing our intentions and grounding ourselves while getting to know each other and the intentions for our journey. We will allow space for a silent walk in the jungle, a silence to listen and be truly present to the web of life that wraps us and that we are. A trail will lead us to a cenote, with the invitation to look to the inner world of Earth. Back in Chemuyil we will enjoy a special dinner of traditional local food.
 
-### Day 3. Tuesday, March 14. Chemuyil-Bacalar
+### Day 3. Wednesday, April 19. Chemuyil-Bacalar
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-13.jpg){:.thumb}
 
 We will spend the morning by the Caribbean beach of Xcacel, a nature reserve and sanctuary of the turtle. After lunch, we will drive for 2:45 hours to the lagoon of Bacalar, with its gorgeous water with incredible shades of blue. 
 
-### Day 4. Wednesday, March 15. Bacalar
+### Day 4. Thursday, April 20. Bacalar
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-06.jpg){:.thumb}
 
 We will have a full day of rest and regeneration by the lagoon. Sailing, becoming pirates, kayaking in the near mangroves, cooking together, aqua therapy and temazcal are some of the optional activities for the day.
 
-### Day 5. Thursday, March 16. Bacalar/Xul Ha
+### Day 5. Friday, April 21. Bacalar/Xul Ha
 
 We will visit the nearby lagoon of Xul Ha, home to the stromatolites, one of the most ancient forms of life on Earth, responsible for increasing the amount of oxygen in the primeval atmosphere through their continuing photosynthesis. They were the first known organisms to photosynthesize and produce free oxygen, changing radically the possibilities for life on our planet.  We will regroup in the evening in the lagoon of Bacalar for a group sharing.
 
 
-### Day 6. Friday, March 17. Bacalar/Calakmul
+### Day 6. Saturday, April 22. Bacalar/Calakmul
 
 We will spend our last morning in the lagoon and after lunch we will travel for 1h30 to the Reserve of the Biosphere Calakmul, where we will camp in the second largest jungle remnant in the American continent after the Amazon. 
 
-### Day 7. Saturday, March 18. Calakmul
+### Day 7. Sunday, April 23. Calakmul
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-14.jpg){:.thumb}
 
 Very early in the morning, we will do a short hike where we will admire the abundance of life in the jungle. With luck, we will be able to spot guacamayas, tucans, wild turkeys, deers and many other species. After this, we will visit the archaeological site of Calakmul, one of the largest and most powerful ancient Mayan cities. We will spend the night in the area.
 
-### Day 8. Sunday, March 19. Calakmul/Cenotillo
+### Day 8. Monday, April 24. Calakmul/Cenotillo
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-11.jpg){:.thumb}
 
 After lunch, we will travel for 6 hours to reach Cenote Xooch, one of the most impressive cenotes in the region, with an underground pool diameter of approximately 60m, surrounded by exuberant, breathtaking nature. In this unparalleled location we will camp, play and learn about the Ring of Cenotes, a 180km-diameter semicircular band of abundant karst sinkholes which coincides with the concentric ring of the Chicxulub structure, caused by the impact of the asteroid, an event that reshaped the history of our planet and the majority of her species.
 
-### Day 9. Monday, March 20. Cenote Xooch/Chichén Itzá
+### Day 9. Tuesday, April 25. Cenote Xooch/Chichén Itzá
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-03.jpg){:.thumb}
 
-In the morning, we will have time to enjoy swimming in the Cenote Xooch and have lunch in the local town of Cenotillo. In the afternoon, we will visit Chichén Itzá, in time for the Spring equinox and the descent of the serpent in the Temple of Kukulkán. Chichén Itzá is considered the most important archaeological vestige of the Maya-Toltec civilization in Yucatan (10th-15th centuries). Its monuments are among the undisputed masterpieces of Mesoamerican architecture because of the beauty of their proportions, the refinement of their construction and the splendor of their sculpted decorations that have made it one of the Wonders of the World. We will visit this ancient city with the help of a local expert, learning about archeo-astronomy. We will spend the night in Ek Balam.
+In the morning, we will have time to enjoy swimming in the Cenote Xooch and have lunch in the local town of Cenotillo. In the afternoon, we will visit Chichén Itzá. Chichén Itzá is considered the most important archaeological vestige of the Maya-Toltec civilization in Yucatan (10th-15th centuries). Its monuments are among the undisputed masterpieces of Mesoamerican architecture because of the beauty of their proportions, the refinement of their construction and the splendor of their sculpted decorations that have made it one of the Wonders of the World. We will visit this ancient city with the help of a local expert, learning about archeo-astronomy. We will spend the night in Ek Balam.
 
-### Day 10. Tuesday, March 21. Ek Balam
+### Day 10. Wednesday, April 26. Ek Balam
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-12.jpg){:.thumb}
 
 We will have a conversation with  members of the Asamblea Muuch Xiimbal. This will be an opportunity to engage in the Mayan philosophy and worldbeing, and we will learn about the current challenges faced in the peninsula of Yucatan and the Mayan ethics of joy and wellbeing. After lunch, we will have a circle to wrap up our journey and reflect on our un/learnings. We will do a closing ceremony and we will host a celebration.
 
-### Day 11. Wednesday, March 22. Ek Balam/Puerto Morelos
+### Day 11. Thursday, April 27. Ek Balam/Puerto Morelos
 
 We will have a free morning and after lunch, we will drive for 2h30 to Puerto Morelos where we will enjoy beach time in the nearby reef.
 
-### Day 12. Thursday, March 23. Departures
+### Day 12. Friday, April 28. Departures
 
 We will help you to set up your transfer to the airport of Cancun (25 minutes drive).
 
@@ -244,13 +244,9 @@ By participating in this journey, you support an effort to engage with equity an
 
 **Gerardo López-Amaro**, co-founder of the Enlivened Cooperative, is currently walking com-passionately the path of autonomous education with the task of imagining spaces of encounter for thinking-feeling together about ways to strengthen the defense of life, memory and territory. He sees this as part of a planetary struggle for cognitive, relational and ontological justice. He is purposefully becoming entangled in a great “we” of people enacting the pluriverse, that “world where many worlds fit.” He has a profound interest in intercultural translation as a political practice with the horizon of weaving together an anti-imperial, decolonizing, joyful South that can resist the current capitalist storm and create stories, practices, and ideas that nurture life and dignity. Born and raised in San Luis Potosi, Mexico, he’s a pilgrim of viable spaces informed by politics of love and consciousness regarding the healing of land and territory, love and intimacy, and labor and livelihood. These topics constitute his field of inquiry for his doctoral dissertation research in Anthropology and Social Change at the California Institute of Integral Studies.
 
-**Udi Mandel** has 20 years of experience teaching social anthropology and sustainability in higher education and collaborating with communities in Europe, the Pacific, North and Latin America. Udi’s focus is on issues of social, ecological and epistemic justice with an emphasis on regenerative practices that can bring human and ecological flourishing. Udi’s work combines action research, writing, filmmaking and community collaborations in a range of settings,  including diverse indigenous communities, social and ecological movements from around the world. Udi received his PhD in social anthropology from Goldsmiths College (University of London), an MSc in international development from the University of Bristol, and an MFA from the University of Edinburgh. Udi has held faculty appointments at EARTH University (Costa Rica), the University of Bristol (UK), and the University of Oxford and other institutions in the UK and US. Udi co-founded with others the Enlivened Learning Project and the Ecoversities Alliance, an international alliance of learning places committed to social and ecological justice and regeneration. Udi is also a co-founder of the Enlivened Cooperative.
-
 ![](/assets/img/courses/yucatan_fall/bernardo.jpg){:.right.thumb width="250"}
 
 **Bernardo Sánchez Lapuente** is a Social Anthropologist, Theater Educator and Photographer. Beyond titles and credentials, Bernardo is an Artist, Dad of two awesome girls, traveler and world bridger. He develops his work within the framework of Art Education with kids and youth, as well as accompanying group processes. He feels fascinated with the idea of traveling throughout the planet that we inhabit while also journeying throughout the infinite geography that inhabits us. He will be in charge of generating spaces and moments to put into common ground the discoveries and questions of the journey.
-
-**Stephan Martin** is an astronomer, educator, and author who has taught astronomy, physics, and consciousness studies at colleges, universities, and learning centers across the US for over twenty-five years. Between 2003-2008 he studied directly with Brian Swimme and others at the California Institute of Integral Studies, out of which came his first book Cosmic Conversations, in which he held dialogues with scientists, spiritual teachers, and cultural creatives on the nature of the universe and our role in it. Since then he has led workshops on the New Cosmology at seminars and retreat centers across the US and Europe and has been active in exploring multidisciplinary approaches to exploring the universe. He is currently adjunct faculty in the Consciousness and Transformative Studies graduate program at John F Kennedy University where he teaches a course on “Cosmology and Consciousness.” Steve is also a co-director of the continuing care program at the Center for Spiritual Emergence in Asheville, NC where he assists clients in living more conscious lives from an expansive perspective.
 
 **Pedro Uc Be** is a poet and a defender of the Mayan territory in Yucatan. Born in Buctzotz, he is the author of several books and a recipient of different awards. For Pedro, poetry and the care for the land are the same, a deep root that is entangled to his relationship to the milpa. His proposal is to share Mayan philosophy, thought and emotion a a proposal of life, of survival, of joy and of health.
 
@@ -263,8 +259,8 @@ More details coming soon.
 * We will take a minimum of 10 and a maximum of 15 people
 * Registration start date -​ ​October 29, 2022
 * Registration last date - February 28, 2023
-* Dates of the learning journey - March 12-23rd, 2023
-* No of days - 13 days.
+* Dates of the learning journey - April 17-28, 2023
+* No of days - 12 days.
 * How will we be traveling - We​ ​will​ ​have​ ​pre-booked​ ​cars​ ​for​ ​the​ ​travel.
 * Total Kms - We​ ​will​ ​be​ ​traveling​ ​roughly​ ​1400​ ​kms (average 2h30min per day)
 
