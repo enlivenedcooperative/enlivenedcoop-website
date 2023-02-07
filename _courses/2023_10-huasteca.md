@@ -126,7 +126,41 @@ After breakfast, we will help you set up your transfer, either to the cities of 
 
 ![](/assets/img/courses/huaesteca/huaesteca-16.jpg)
 
+## Cost
 
+As a cooperative, we are trying new approaches to make the journeys affordable for as many people as possible while covering the costs and paying our faculty and hosts. We are experimenting with a sliding scale in which you can choose the fee according to your life situation. 
+
+Consider contributing MORE on the scale if you:
+
+have the ability to comfortably meet all of your basic needs
+belong to a sponsoring organization or are employed full-time
+have investments, retirement accounts, or inherited money
+travel recreationally
+have access to family money and resources in times of need
+work part-time by choice
+own the home you live in
+have a relatively high degree of earning power due to level of education (or gender and racial privilege, class background, etc.)
+
+Consider contributing LESS on the scale if you.
+
+have difficulty covering basic expenses
+are supporting children or have other dependents
+have significant debt
+have medical expenses not covered by insurance
+are an elder with limited financial support
+are an unpaid community organizer
+have unstable housing and/or limited access to reliable transportation
+have not taken a vacation or time off due to the financial burden
+
+(This is based on the ‘Green Bottle’ sliding scale model by Alexis J. Cunningfolk | www.wortsandcunning.com)
+
+If you select an amount at the higher end of the scale, you will make possible future offerings and support the good work of the speakers, facilitators, and organizers who are generously contributing their gifts to this event.
+
+Basic fee: 1400 USD in camping. We provide the tent and mattress. Sleeping bags not included. Please note that you will be sharing the sleeping space with another person. 
+Regular fee: 1600 USD in double room, 1850 USD in private room
+Plus fee: 2500 USD
+
+Partial grants available upon request after applying
 ## What is included
 
 Your journey includes:
