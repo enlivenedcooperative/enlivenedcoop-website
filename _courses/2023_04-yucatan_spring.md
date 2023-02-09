@@ -66,11 +66,11 @@ In the morning we will drive for 2 hours to visit the ancient city of Ek Balam, 
 
 We will share the sunrise with spider monkeys and many birds before taking a bath in the pristine waters of the cenote and having breakfast. We will then drive for one hour to Buctzotz, a rural town where we will meet our hosts for the day, members of the Muuch Xiinbaal Assembly in defense of land and territory in the peninsula of Yucatán. We will share lunch, a hike and a conversation around the Maya ethics of health and joy, and we will learn about the many challenges that the region is facing. We will then co-create our reflection circle surrounded by the milpa, the policulture-based way of farming and living. 
 
-### Day 4. Thursday, April 20th. Celestún
+### Day 4. Thursday, April 20th. Chaksinkín
 
 ![](/assets/img/courses/yucatan_fall/yucatan_fall-06.jpg){:.thumb}
 
-After our breakfast, we will drive for two hours to a village near Celestún, where we will meet the Guardians of the Seeds, our hosts for the day. We will deepen our experience with the multiplicity of seeds and relationships happening in the local milpas, and the practice of unity, memory and knowledge that creates a collectivity where many seeds fit and blossom. Lunch will be an opportunity to embody the nurturing qualities of this collective practice. In the evening, we will visit the famous pink flamingos and have our reflection circle. 
+After our breakfast, we will drive for two hours to a village near Peto, where we will meet the Guardians of the Seeds, our hosts for the day. We will deepen our experience with the multiplicity of seeds and relationships happening in the local milpas, and the practice of unity, memory and knowledge that creates a collectivity where many seeds fit and blossom. Lunch will be an opportunity to embody the nurturing qualities of this collective practice. In the evening, we will have our reflection circle. 
 
 ### Day 5. Friday, April 21st. Hopelchén
 
@@ -157,11 +157,11 @@ have not taken a vacation or time off due to the financial burden
 
 If you select an amount at the higher end of the scale, you will make possible future offerings and support the good work of the speakers, facilitators, and organizers who are generously contributing their gifts to this event.
 
-Basic fee: 1500 USD in camping. We provide the tent and mattress. Sleeping bags not included. Please note that you will be sharing the sleeping space with another person. 
-Regular fee: 1750 USD in double room, 2100 USD in private room
-Plus fee: 2500 USD
+* Basic fee: 1500 USD in camping. We provide the tent and mattress. Sleeping bags not included. Please note that you will be sharing the sleeping space with another person. 
+* Regular fee: 1750 USD in double room, 2100 USD in private room.
+* Plus fee: 2500 USD.
 
-Partial grants available upon request after applying
+Partial grants available upon request after applying.
 
 ## Your journey includes:
 
@@ -245,21 +245,27 @@ By participating in this journey, you support an effort to engage with equity an
 
 ## Faculty and team:
 
-![](/assets/img/courses/yucatan_fall/amaro.jpg){:.right.thumb width="250"}
-
-**Gerardo López-Amaro**, co-founder of the Enlivened Cooperative, is currently walking com-passionately the path of autonomous education with the task of imagining spaces of encounter for thinking-feeling together about ways to strengthen the defense of life, memory and territory. He sees this as part of a planetary struggle for cognitive, relational and ontological justice. He is purposefully becoming entangled in a great “we” of people enacting the pluriverse, that “world where many worlds fit.” He has a profound interest in intercultural translation as a political practice with the horizon of weaving together an anti-imperial, decolonizing, joyful South that can resist the current capitalist storm and create stories, practices, and ideas that nurture life and dignity. Born and raised in San Luis Potosi, Mexico, he’s a pilgrim of viable spaces informed by politics of love and consciousness regarding the healing of land and territory, love and intimacy, and labor and livelihood. These topics constitute his field of inquiry for his doctoral dissertation research in Anthropology and Social Change at the California Institute of Integral Studies.
-
 ![](/assets/img/courses/yucatan_fall/bernardo.jpg){:.right.thumb width="250"}
 
 **Bernardo Sánchez Lapuente** is a Social Anthropologist, Theater Educator and Photographer. Beyond titles and credentials, Bernardo is an Artist, Dad of two awesome girls, traveler and world bridger. He develops his work within the framework of Art Education with kids and youth, as well as accompanying group processes. He feels fascinated with the idea of traveling throughout the planet that we inhabit while also journeying throughout the infinite geography that inhabits us. He will be in charge of generating spaces and moments to put into common ground the discoveries and questions of the journey.
 
-**Pedro Uc Be** is a poet and a defender of the Mayan territory in Yucatan. Born in Buctzotz, he is the author of several books and a recipient of different awards. For Pedro, poetry and the care for the land are the same, a deep root that is entangled to his relationship to the milpa. His proposal is to share Mayan philosophy, thought and emotion a a proposal of life, of survival, of joy and of health.
+**Commaya**, short for the Coordinadora de Mujeres Mayas de Quintana Roo, it is an intergenerational group of 19 Maya women that promote the rights of indigenous women through training, monitoring and accompaniment with a gender perspective, human rights and respect to the diversity of indigenous peoples.
+
+**Cooperativa Cenote Xooch** is a local, women-led organization based in Cenotillo, Yucatan. They take care of the cenote Xooch and promote responsible ecotourism while advocating for the conservation of cenotes in the region.
+
+![](/assets/img/courses/yucatan_fall/amaro.jpg){:.right.thumb width="250"}
+
+**Gerardo López-Amaro**, co-founder of the Enlivened Cooperative, is currently walking com-passionately the path of autonomous education with the task of imagining spaces of encounter for thinking-feeling together about ways to strengthen the defense of life, memory and territory. He sees this as part of a planetary struggle for cognitive, relational and ontological justice. He is purposefully becoming entangled in a great “we” of people enacting the pluriverse, that “world where many worlds fit.” He has a profound interest in intercultural translation as a political practice with the horizon of weaving together an anti-imperial, decolonizing, joyful South that can resist the current capitalist storm and create stories, practices, and ideas that nurture life and dignity. Born and raised in San Luis Potosi, Mexico, he’s a pilgrim of viable spaces informed by politics of love and consciousness regarding the healing of land and territory, love and intimacy, and labor and livelihood. These topics constitute his field of inquiry for his doctoral dissertation research in Anthropology and Social Change at the California Institute of Integral Studies.
+
+**Guardianes de las Semillas** promotes native seeds and local knowledge about agroecological cycles and practices for food sovereignty in the peninsula of Yucatan. The collective is formed by Maya women and men that work in the milpa and that are commited to conserving the biocultural legacy of the milpa, basis of their diet and cosmovision. 
 
 **Haizel de la Cruz**, Born in Ticul and currently living in Buctzotz. A young photographer that documents the Mayan resistance and the vitality of an ethics of care for life. A ceiba tree, that represents life, time, space and community for Mayan was the first image that she captured with her cellphone. And her world moved.
 
-**Bernardo Caamal Itzá** is a referent of the Mayan culture of Yucatan. Born in Peto, he left his hometown in 1989 to pursue an agronomy degree at the Universidad Autónoma de Chapingo. Upon completion of his studies, he came back home ‘as promised’, where his mother and the milpa were waiting for him. For the past 26 years, he has worked with pleasure positioning ‘our philosophy of life, between wind and tides’, collaborating with indigenous and peasant populations in the process of knowing better the milpa and developing the Xok K’iin, an agroecological calendar in times of climate emergency.
+**Mauro Barrientos** born and raised in the Calakmul Biosphere Reserve, he has been guiding archaeological and nature tours for 10 years. 
 
-More details coming soon.
+**Mon Fernández** Mon is a young activist specialized in a politics of care for life. From that space she moves, accompanies and promotes the rights of women and disidences, the conservation of the jungle biodiversity and the processes of free education for children, among other threads that weave her lifepath.
+
+**Pedro Uc Be** is a poet and a defender of the Mayan territory in Yucatan. Born in Buctzotz, he is the author of several books and a recipient of different awards. For Pedro, poetry and the care for the land are the same, a deep root that is entangled to his relationship to the milpa. His proposal is to share Mayan philosophy, thought and emotion a a proposal of life, of survival, of joy and of health.
 
 ## Learning Journey summary
 
