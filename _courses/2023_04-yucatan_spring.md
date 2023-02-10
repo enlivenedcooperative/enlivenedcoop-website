@@ -47,7 +47,7 @@ This is an invitation to undoing tourism and development and a provocation to le
 
 April 17th-29th, 2023
 
-![](/assets/img/courses/yucatan_fall/yucatan_fall-01.jpg){:.thumb}
+![](/assets/img/courses/yucatan_fall/day-1.jpg){:.thumb}
 
 ### Day 1. Monday, April 17th. Arrivals
 
@@ -56,65 +56,65 @@ Arrive at Cancun International Airport. Pick up from Cancun bus station and tran
 
 ### Day 2. Tuesday, April 18th. Ek Balam and Cenotillo
 
-![](/assets/img/courses/yucatan_fall/yucatan_fall-09.jpg){:.thumb}
+![](/assets/img/courses/yucatan_fall/day-2.jpeg){:.thumb}
 
 In the morning we will drive for 2 hours to visit the ancient city of Ek Balam, an archaeological jewel located in rural Yucatan, where we will be hosted by a local guide. After marveling at the spectacular architecture and design of this site, we will drive for one hour to get to Cenotillo, where we will be hosted by a local, women-led cooperative. We will have lunch, tasting the authentic flavors of the regional cuisine. After replenishing our energy, we will then drive through a jungle trail to get to a hidden cenote, of the most impressive in the region, with an underground pool diameter of approximately 60m, surrounded by exuberant, breathtaking nature. We will host our first reflection circle around a Yaxche (ceiba) tree, and will set up camp in this unique place. 
 
 ### Day 3. Wednesday, April 19th. Buctzotz
 
-![](/assets/img/courses/yucatan_fall/yucatan_fall-13.jpg){:.thumb}
+![](/assets/img/courses/yucatan_fall/day-3.jpg){:.thumb}
 
 We will share the sunrise with spider monkeys and many birds before taking a bath in the pristine waters of the cenote and having breakfast. We will then drive for one hour to Buctzotz, a rural town where we will meet our hosts for the day, members of the Muuch Xiinbaal Assembly in defense of land and territory in the peninsula of Yucatán. We will share lunch, a hike and a conversation around the Maya ethics of health and joy, and we will learn about the many challenges that the region is facing. We will then co-create our reflection circle surrounded by the milpa, the policulture-based way of farming and living. 
 
 ### Day 4. Thursday, April 20th. Chaksinkín
 
-![](/assets/img/courses/yucatan_fall/yucatan_fall-06.jpg){:.thumb}
+![](/assets/img/courses/yucatan_fall/day-4.jpg){:.thumb}
 
 After our breakfast, we will drive for two hours to a village near Peto, where we will meet the Guardians of the Seeds, our hosts for the day. We will deepen our experience with the multiplicity of seeds and relationships happening in the local milpas, and the practice of unity, memory and knowledge that creates a collectivity where many seeds fit and blossom. Lunch will be an opportunity to embody the nurturing qualities of this collective practice. In the evening, we will have our reflection circle. 
 
 ### Day 5. Friday, April 21st. Hopelchén
 
-![](/assets/img/courses/yucatan_fall/yucatan_fall-14.jpg){:.thumb}
+![](/assets/img/courses/yucatan_fall/day-5.jpg){:.thumb}
 
 We will start moving away from the waters of the Gulf of Mexico to explore the rural Maya lands in Campeche. After breakfast, we will drive South for three hours to reach the town of Hopelchén, in Campeche, where we will be met by a local collective that has inspired energy in the movement against GMOs, emphasizing the importance of native seeds and the presence of pollinators. This seemingly small community has defeated Monsanto and has strengthened their practices of care for the land and for the community. In the evening, we will co-create our reflection circle. 
 
 ### Day 6. Saturday, April 22nd. Calakmul
 
-![](/assets/img/courses/yucatan_fall/yucatan_fall-02.jpg){:.thumb}
+![](/assets/img/courses/yucatan_fall/day-6.png){:.thumb}
 
 After an energizing breakfast, we will drive for three hours to Calakmul, one of the largest natural reserves in the Americas. In this majestic setting of a green ocean of jungle we will generate ample space for being present. 
 
 ### Day 7. Sunday, April 23rd. Calakmul
 
-![](/assets/img/courses/yucatan_fall/yucatan_fall-07.jpg){:.thumb}
+![](/assets/img/courses/yucatan_fall/day-7.png){:.thumb}
 
 We will have a very early start of our morning to get in the depths of the jungle of Calakmul, where we will hike in trails learning about the ecology of this place and spotting the variety of birds and fauna of this region, with the help of a local guide, that will also present the rich history of the archeological site of Calakmul. We will then return to our camp to have lunch and have rest. 
 
 ### Day 8. Monday, April 24th. Bacalar
 
-![](/assets/img/courses/yucatan_fall/yucatan_fall-12.jpg){:.thumb}
+![](/assets/img/courses/yucatan_fall/day-8.jpg){:.thumb}
 
 After breakfast, we will drive for two hours and half to reach the lagoon of Bacalar. We will have lunch in the town and have time to explore the galleries, cafes and public events. We will host our reflection circle in the evening. 
 
 ### Day 9. Tuesday, April 25th. Bacalar 
 
-![](/assets/img/courses/yucatan_fall/yucatan_fall-03.jpg){:.thumb}
+![](/assets/img/courses/yucatan_fall/day-9.jpg){:.thumb}
 
 In this amazing lagoon, famous for its many tonalities of blue we will enjoy a full day of rest and relaxation. In the evening, we will have an optional temazcal.
 
 ### Day 10. Wednesday, April 26th. Carrillo Puerto
 
-![](/assets/img/courses/yucatan_fall/yucatan_fall-11.jpg){:.thumb}
-
 After a replenishing breakfast, we will head towards the city of Carrillo Puerto, a one hour 30 minutes drive, where we will have lunch and meet the Commaya, the Coordinadora de Mujeres Mayas, our hosts for the day. With them, we will listen to the deep lineage of women ancestors and the weaving of a tapestry of hopes, struggles and horizons of creativity for Maya women and their communities. In the evening, we will host our reflection circle. 
 
 ### Day 11. Thursday, April 27th. Paamul
 
-![](/assets/img/courses/yucatan_fall/yucatan_fall-10.jpg){:.thumb}
+![](/assets/img/courses/yucatan_fall/day-11.jpeg){:.thumb}
 
 After breakfast, we will continue our drive North for one hour and a half to get to the beach of Paamul, where we will spend some time by the Caribbean coastline before having lunch. In the evening, we will get ready to visit an impressive system of semi-flooded caves, guided by a team of conservation activists that will share the ecological and social relevance of the underworld in the peninsula. 
 
 ### Day 12. Friday, April 28th. Integration/celebration
+
+![](/assets/img/courses/yucatan_fall/day-12.jpg){:.thumb}
 
 We will dedicate this day to wrap up our journey, reflect together about our un/learnings, do a closing ceremony and host a celebration.
 
@@ -125,7 +125,7 @@ We will help you to set up your transfer to the airport of Cancun.
 ## Itinerary at a glance:
 
 
-![](/assets/img/courses/yucatan_fall/yucatan_fall-map.png){:.thumb}
+![](/assets/img/courses/yucatan_fall/itinerary.png){:.thumb}
 
 ## Cost
 
@@ -262,6 +262,8 @@ By participating in this journey, you support an effort to engage with equity an
 **Haizel de la Cruz**, Born in Ticul and currently living in Buctzotz. A young photographer that documents the Mayan resistance and the vitality of an ethics of care for life. A ceiba tree, that represents life, time, space and community for Mayan was the first image that she captured with her cellphone. And her world moved.
 
 **Mauro Barrientos** born and raised in the Calakmul Biosphere Reserve, he has been guiding archaeological and nature tours for 10 years. 
+
+![](/assets/img/courses/yucatan_fall/mon.jpeg){:.right.thumb width="250"}
 
 **Mon Fernández** Mon is a young activist specialized in a politics of care for life. From that space she moves, accompanies and promotes the rights of women and disidences, the conservation of the jungle biodiversity and the processes of free education for children, among other threads that weave her lifepath.
 
