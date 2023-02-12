@@ -39,16 +39,23 @@ Experience a transformative journey where you will delve into the Maya ethics an
 ## What is an un/learning journey?
 
 The raw material of an un/learning journey is time. With care, we curate, knead, craft and, sometimes, even co-create it. 
+
 They are an interruption, a slowing down, many openings. 
+
 They are brave passages to possibilities, invitations to go out of the familiar zone and expand our sensibilities to let ourselves be undone so that we can suspend the noise of the routine and be attuned to dreams, stories and practices that instigate a process of becoming guided by the calm whisper and the joyous dance of the Earth. 
+
 Unlike tourism, this is not about consuming experiences, places, or people. 
+
 It is about engaging with the land and her guardians (human, non-human, more-than-human). 
+
 It is about activating the memory that walks to the encounter of what is different -tastes, landscapes, textures, languages, rhythms, ways of knowing, modes of being- with curiosity and respect. 
+
 The journey is simultaneously a retreat, a ceremony and a ritual that embraces the unknown as a fertile soil for radicalizing imagination and a pathway to deepen the relations to self, life, consciousness and the many worlds that constitute the pluriverse. 
 
 ## Who is this for?
 
 The journeys are for those willing to participate in the co-creation of different stories, dreams and practices, for those searching to expand their horizons and attune their sensibilities and desires, for those daring to entertain an open mind and heart, holding contradictions with authenticity and making space for questions rather than answers. They are for those willing to explore who they really are and how to become present for the Earth in a mutually enhancing way.
+
 We strongly encourage to apply for the program to everyone who feels called to join, especially to people of all ages with a serious commitment to re-inventing their relationship to Earth and to self, activists, artists, scientists, students, unschoolers, therapists, educators, farmers, community organizers, magicians, dropouts, writers, workers, and everyone resonating with the invitation to be present with the other worlds that are possible and that are already here. 
 
 
