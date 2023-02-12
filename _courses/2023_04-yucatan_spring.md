@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Yucatán journey: extinctions, ocean, cenotes and time (Fall edition)'
+title: 'Yucatán journey: ethical practices of joy and health in an endangered paradise'
 
 date: 17 Apr 2023
 end_date: 29 Apr 2023
@@ -34,13 +34,22 @@ accent_image:
 1. this ordered seed list will be replaced by the toc
 {:toc}
 
-The Yucatán Peninsula in Mexico is a privileged witness of the last mass extinction event, caused by the impact of the Chicxulub asteroid. It shelters the mysteries of cosmic events sculpted as cenotes, windows to the underground. Jungles, lagoons and the ocean are home to vibrant and endangered communities of life. Similarly, it preserves the memories of ancient cities built by peoples who were and are some of the most prestigious observers of the stars and life cycles, the Mayans.
+Experience a transformative journey where you will delve into the Maya ethics and practice of joy and health for a world woven into multiple kinships. You will meet local leaders in the fields of environmental conservation, medicine, food, spirituality, native seeds, art and memory. As a group, we will let ourselves be entangled with the jungles, ancient cities, cenotes, caves and beaches, while deepening our understanding of our selves, journeying and un/learning. 
 
-Embraced by the Gulf of Mexico and the Caribbean, the Peninsula has a strong relationship with rich and threatened marine ecosystems, including the second largest coral reef in the world, the Banco Chinchorro.
+## What is an un/learning journey?
 
-The Yucatan is home to an intercultural society facing very complex challenges. The economy is driven by extractivist tourism, attracting crowds enchanted by the beauties of the jungles, beaches, and villages of this region while overlooking the damage of a development model that is polluting on a vast scale, devastating mangroves and jungles, endangering species and ecosystems, and deepening social inequalities and injustice.
+The raw material of an un/learning journey is time. With care, we curate, knead, craft and, sometimes, even co-create it. 
+They are an interruption, a slowing down, many openings. 
+They are brave passages to possibilities, invitations to go out of the familiar zone and expand our sensibilities to let ourselves be undone so that we can suspend the noise of the routine and be attuned to dreams, stories and practices that instigate a process of becoming guided by the calm whisper and the joyous dance of the Earth. 
+Unlike tourism, this is not about consuming experiences, places, or people. 
+It is about engaging with the land and her guardians (human, non-human, more-than-human). 
+It is about activating the memory that walks to the encounter of what is different -tastes, landscapes, textures, languages, rhythms, ways of knowing, modes of being- with curiosity and respect. 
+The journey is simultaneously a retreat, a ceremony and a ritual that embraces the unknown as a fertile soil for radicalizing imagination and a pathway to deepen the relations to self, life, consciousness and the many worlds that constitute the pluriverse. 
 
-This is an invitation to undoing tourism and development and a provocation to learn to be good visitors, setting aside the Western sense of neo-colonizing entitlement and focusing on the attuning of sensibilities, journeying together, holding the inevitable contradictions and caring for the nourishment of local communities, land and waters that will host us, as well as for the lands and waters where we travelers usually dwell.
+## Who is this for?
+
+The journeys are for those willing to participate in the co-creation of different stories, dreams and practices, for those searching to expand their horizons and attune their sensibilities and desires, for those daring to entertain an open mind and heart, holding contradictions with authenticity and making space for questions rather than answers. They are for those willing to explore who they really are and how to become present for the Earth in a mutually enhancing way.
+We strongly encourage to apply for the program to everyone who feels called to join, especially to people of all ages with a serious commitment to re-inventing their relationship to Earth and to self, activists, artists, scientists, students, unschoolers, therapists, educators, farmers, community organizers, magicians, dropouts, writers, workers, and everyone resonating with the invitation to be present with the other worlds that are possible and that are already here. 
 
 
 ## Itinerary
@@ -127,31 +136,39 @@ We will help you to set up your transfer to the airport of Cancun.
 
 ![](/assets/img/courses/yucatan_fall/itinerary.png){:.thumb}
 
+## Ecopedagogy and travelling
+
+Before, during and after the journey we exercise a cosmopolitical pedagogy of emergence (COPE). We understand cosmopolitics as an exercise of ‘slowing down reasoning’ (Stengers) that creates an opening for possible articulations between worlds. In this sense, it is a pedagogy of encounter, of sourcing inner wisdom, of dialogue between cultures and world-making practices, one that involves movement, story, dreams, inquiries, solidarities, boundaries and practices that allow for the uniqueness of the process of coming into being, of a becoming that invites a new relationship of the human within an entangled, endangered yet potent web of life. 
+
+Before the journey, registered participants will get access to a platform with resources on different topics of the journey, such as: Maya culture, the Chicxulub event, Deep Time perspective, anti-tourism and radical hospitality, marine life ecosystems, archeoastronomy and indigenous peoples resistance to extractivist models of development. These are materials and resources that learners can engage freely, at their own rhythm and with no expected outcome. Participants are invited to choose one topic of inquiry during their journey that is relevant and alive for them.
+
+During the journey, we will have a combination of visits, group process sessions, lectures, practices and free time. Participants are invited to document their journey in the way that suits them better for their learning process.
+
 ## Cost
 
 As a cooperative, we are trying new approaches to make the journeys affordable for as many people as possible while covering the costs and paying our faculty and hosts. We are experimenting with a sliding scale in which you can choose the fee according to your life situation. 
 
 Consider contributing MORE on the scale if you:
 
-have the ability to comfortably meet all of your basic needs
-belong to a sponsoring organization or are employed full-time
-have investments, retirement accounts, or inherited money
-travel recreationally
-have access to family money and resources in times of need
-work part-time by choice
-own the home you live in
-have a relatively high degree of earning power due to level of education (or gender and racial privilege, class background, etc.)
+- have the ability to comfortably meet all of your basic needs
+- belong to a sponsoring organization or are employed full-time
+- have investments, retirement accounts, or inherited money
+- travel recreationally
+- have access to family money and resources in times of need
+- work part-time by choice
+- own the home you live in
+- have a relatively high degree of earning power due to level of education (or gender and racial privilege, class background, etc.)
 
 Consider contributing LESS on the scale if you.
 
-have difficulty covering basic expenses
-are supporting children or have other dependents
-have significant debt
-have medical expenses not covered by insurance
-are an elder with limited financial support
-are an unpaid community organizer
-have unstable housing and/or limited access to reliable transportation
-have not taken a vacation or time off due to the financial burden
+- have difficulty covering basic expenses
+- are supporting children or have other dependents
+- have significant debt
+- have medical expenses not covered by insurance
+- are an elder with limited financial support
+- are an unpaid community organizer
+- have unstable housing and/or limited access to reliable transportation
+- have not taken a vacation or time off due to the financial burden
 
 (This is based on the ‘Green Bottle’ sliding scale model by Alexis J. Cunningfolk | www.wortsandcunning.com)
 
@@ -161,25 +178,24 @@ If you select an amount at the higher end of the scale, you will make possible f
 * Regular fee: 1750 USD in double room, 2100 USD in private room.
 * Plus fee: 2500 USD.
 
-Partial grants available upon request after applying.
+Partial grants might be available upon request after applying.
 
 ## Your journey includes:
 
-* A team of experts, professional tour leaders and educators and local community organizers.
+* A team of experts, professional tour leaders and educators, and local community organizers.
 * City-to-hotel transfers in small groups upon arrival to the bus station in Cancun.
 * All food and beverages (except alcohol).
-* Accommodations in shared room with all amenities.
+* Accommodations.
 * All logistics for tours and transportation as outlined in the itinerary.
 * All entrance fees for archaeological sites, nature preserves and other attractions except optional activities.
-* Complimentary WiFi access where available.
 
 Your journey **does not** include:
 
 * flights to and from Cancún.
 * bus from or to Cancun airport.
 * snacks.
-* optional activities (massage, scuba diving)
-* health and travel insurance
+* optional activities (massage, scuba diving).
+* health and travel insurance.
 
 ## Testimonials
 
@@ -189,31 +205,15 @@ Marianne
 "Each person we met, each environment we engaged, was more astonishing than the last, making deep impressions on my consciousness about other ways of being. I carry these precious astonishments with me as I go".
 Terri
 
-## What to bring
-
-Temperatures in the region for the dates of the learning journey range between 86F (30C) and 72F (22C). Expect sunny days with a chance of rain. You might want to bring:
-
-* eco-friendly sunscreen
-* long-sleeve, light tops
-* light pants
-* hat
-* swimsuit
-* insect repellent
-
-
 ## Reasons to participate
 
 You have an interest in:
 
-Learning to be a good visitor.
-
-Becoming aware of the individualistic, neo-colonizing, extractivist and consumerist logic of tourism, developing an approach that is sensible with the land, the people and the communities of life that host us as travelers.
-
 Becoming present for the Earth in a mutually beneficial way.
 
-Delving into indigenous and peasant wisdom and scientific breakthroughs, exercising presence and exploring old new ways of relating to the web of life, including but not limited to our selves.
+Delving into localized wisdom and scientific breakthroughs, exercising presence and exploring old new ways of relating to the web of life, including but not limited to our selves.
 
-Participating in localized, place-based, embodied, experiential learning that expands sensibilities and imagination.
+Participating in, place-based, embodied, experiential learning that expands sensibilities and imagination.
 
 Cultivating spaces for other ways of knowing and being -aside from mainstream, disembodied, fragmented knowledge- which are highly relevant for the current challenges of our time.
 
@@ -221,26 +221,13 @@ Unfolding a self and collective inquiry leading to the birth of new practices an
 
 Co-creating a space for deepening artistic explorations.
 
-Meeting fellow travelers with kindred interests and mutual inspiration .
+Meeting fellow travelers with similar interests and mutual inspiration .
 
-## Ecopedagogy and travelling
-
-The values, pedagogy and approach of the Enlivened Cooperative in this journey emphasize:
-
-* _Relationality_ – learning by weaving relations between all learners (including faculty);
-* _Emplacement_ – nurturing inquiries, practices and attention towards place (and one´s own place) including the beyond human;
-* _Cosmopolitical learning_ - including many ways of being-knowing-doing-relating, towards human becoming and possible worlds, slowing down reasoning;
-* _Buen Vivir and Responsibility_ - for the common flourishing, alivelihoods and well-being of all beings, which calls for a reinvention of the human and the tending to new stories and practices, particularly of those directly participating in the shared learning experience.
-
-Before the journey, registered participants will get access to a platform with resources on different topics of the journey, such as: Mayan culture, the Chicxulub event, Deep Time perspective, anti-tourism and radical hospitality, marine life ecosystems, archeoastronomy and indigenous peoples resistance to extractivist models of development. These are materials and resources that learners can engage freely, at their own rhythm and with no expected outcome. Participants are invited to choose one topic of inquiry during their journey that is relevant and alive for them.
-
-During the journey, we will have a combination of visits, group process, lectures, practices and free time. Participants are invited to document their journey in the way that suits them better for their learning process.
 
 ## Ethics and economy
 
 As a cooperative, we believe in offering programs that help you, your community and the world be enlivened again. We strive to co-create regenerative livelihoods for our families and for the planet. We refuse to engage in deadlihoods and we engage in initiatives that support alivelihoods, regenerating ourselves, the earth’s natural systems and local healthy families and communities.
 
-We adopt the three principles of permaculture: Care for the Earth, Care for the People and Fair Share. We embrace the idea of surplus being shared with everyone involved in making the journey possible. We assign 40% of the profits of the journey to the cooperative, 10% for a local project aligned with this vision, and 50% to be proportionally divided between the team that carried out the project.
 By participating in this journey, you support an effort to engage with equity and social and environmental justice, supporting localized circular economies, exploring more regenerative economic practices, helping a democratically run cooperative, and enhancing the practice of being a grateful guest of Earth.
 
 ## Faculty and team:
@@ -269,56 +256,6 @@ By participating in this journey, you support an effort to engage with equity an
 
 **Pedro Uc Be** is a poet and a defender of the Mayan territory in Yucatan. Born in Buctzotz, he is the author of several books and a recipient of different awards. For Pedro, poetry and the care for the land are the same, a deep root that is entangled to his relationship to the milpa. His proposal is to share Mayan philosophy, thought and emotion a a proposal of life, of survival, of joy and of health.
 
-## Learning Journey summary
 
-* We will take a maximum of 15 people
-* Registration start date -​ ​November 1st, 2022
-* Registration last date - April 2nd, 2023
-* Dates of the learning journey - April 17th-29th, 2023
-* No of days - 13 days.
-* How will we be traveling - We​ ​will​ ​have​ ​pre-booked​ ​cars​ ​for​ ​the​ ​travel.
-* Total Kms - We​ ​will​ ​be​ ​traveling​ ​roughly​ ​1400​ ​kms (average 2h30min per day)
 
-## Covid safety and considerations
 
-Mexico does not require at the moment PCR tests or proof of vaccination to enter the country. Wearing a face mask and social distancing is required. We encourage participants in the journey to make sure they comply with all requirements of in-transit countries and travel restrictions. In the event that the journey is not viable because of sanitary reasons, we will reschedule for the next possible date. During our commutes in the van, you will be required to wear a mask at all times.
-
-## About the Interbeing Learning Journeys series
-
-> "If you are a poet, you will see clearly that there is a cloud floating in this sheet of paper. Without a cloud, there will be
-> no rain; without rain, the trees cannot grow: and without trees, we cannot make paper. The cloud is essential for the paper to
-> exist. If the cloud is not here, the sheet of paper cannot be here either. So we can say that the cloud and the paper
->inter-are."
-
-_Thich Nhat Hahn, Clouds in Each Paper_
-
-We humans do not exist independently in an isolated triumphant alienated bubble. The Interbeing Learning Journeys are an
-opportunity to explore interconnected issues of non-anthropocentric time and ways of being, of self and consciousness, of
-ancient and modern knowledge, following the paths of stars, water, and peoples. In journeying from place to place we also travel
-within, re-creating new stories and tapping into unknown sensibilities, possibilities and purposes for each participant.
-
-The journeys are for those willing to participate in the co-creation of different stories, dreams and practices, for those
-searching to expand their horizons and attune their sensibilities and desires, for those daring to entertain an open mind and
-heart, holding contradictions with authenticity and making space for questions rather than answers. They are for those willing
-to explore who they really are and how to become present for the Earth in a mutually enhancing way.
-
-This is an invitation for travelers looking to go to the encounter of relations and “worlding practices”, complex interactions
-between human and non-human beings that constitute, care or disrupt the web of life. It is an opportunity to learn from stars,
-water, and from people in their vital territories. The main focus of inquiry of travel is to learn what kinds of worlds are
-enacted, through what practices, and with what consequences for what beings, both in the places we visit and also in the places
-where the travelers usually dwell.
-
-In times of multiple crises, contradictions and nonsense,
-
-it is important to slow down and take a pause to look at the stars and the messages that they hold about the evolution of the
-pluriverse, consciousness and life;
-
-it is important to slow down and take a pause to take care of water and the history, flows, and nourishment that she provides
-for the multiple threads of the web of life in our shared home, our planet;
-
-it is important to slow down and take a pause to listen to the wisdom of people who have cultivated a respectful relationship
-with the Earth -indigenous peoples, peasants, women, artists and environmentalists- in order to gain emplaced insights about our
-re-invention as human species; and
-
-it is important to slow down and take a pause to breathe and tap into the rhythms, movements and creations of interbeing, and
-experience embodied learnings about how to become present for the Earth with reciprocity and care.
