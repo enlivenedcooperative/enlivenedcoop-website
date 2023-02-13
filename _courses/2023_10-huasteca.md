@@ -38,6 +38,28 @@ The Huasteca is a bioregion of enormous socioecological diversity and significan
 Xantolo is a month-long series of celebrations leading to the Day of the Dead. Dances, food, songs, conversations, art and food are shared throughout this vast region that comprises seven different states. Ancestors are an essential part of the community of life and in this particular period of the year life and death are celebrated as an integral part of one cycle of renewal and disruption, of grief and celebration, of mystery and change.
 In this unique  journey we will have the opportunity to engage with local communities involved in the co-creation of initiatives related to agroecology, food sovereignty, art, solidarity economy and activism. We will have the extraordinary opportunity of being hosted mainly by a network of indigenous women that has been active for the past decade in the region.
 
+## What is an un/learning journey?
+
+The raw material of an un/learning journey is time. With care, we curate, knead, craft and, sometimes, even co-create it. 
+
+They are an interruption, a slowing down, many openings. 
+
+They are brave passages to possibilities, invitations to go out of the familiar zone and expand our sensibilities to let ourselves be undone so that we can suspend the noise of the routine and be attuned to dreams, stories and practices that instigate a process of becoming guided by the calm whisper and the joyous dance of the Earth. 
+
+Unlike tourism, this is not about consuming experiences, places, or people. 
+
+It is about engaging with the land and her guardians (human, non-human, more-than-human). 
+
+It is about activating the memory that walks to the encounter of what is different -tastes, landscapes, textures, languages, rhythms, ways of knowing, modes of being- with curiosity and respect. 
+
+The journey is simultaneously a retreat, a ceremony and a ritual that embraces the unknown as a fertile soil for radicalizing imagination and a pathway to deepen the relations to self, life, consciousness and the many worlds that constitute the pluriverse. 
+
+## Who is this for?
+
+The journeys are for those willing to participate in the co-creation of different stories, dreams and practices, for those searching to expand their horizons and attune their sensibilities and desires, for those daring to entertain an open mind and heart, holding contradictions with authenticity and making space for questions rather than answers. They are for those willing to explore who they really are and how to become present for the Earth in a mutually enhancing way.
+
+We strongly encourage to apply for the program to everyone who feels called to join, especially to people of all ages with a serious commitment to re-inventing their relationship to Earth and to self, activists, artists, scientists, students, unschoolers, therapists, educators, farmers, community organizers, magicians, dropouts, writers, workers, and everyone resonating with the invitation to be present with the other worlds that are possible and that are already here. 
+
 ![](/assets/img/courses/huaesteca/huaesteca-06.jpg)
 
 ## Itinerary
@@ -126,41 +148,50 @@ After breakfast, we will help you set up your transfer, either to the cities of 
 
 ![](/assets/img/courses/huaesteca/huaesteca-16.jpg)
 
+## Ecopedagogy and travelling
+
+Before, during and after the journey we exercise a cosmopolitical pedagogy of emergence (COPE). We understand cosmopolitics as an exercise of ‘slowing down reasoning’ (Stengers) that creates an opening for possible articulations between worlds. In this sense, it is a pedagogy of encounter, of sourcing inner wisdom, of dialogue between cultures and world-making practices, one that involves movement, story, dreams, inquiries, solidarities, boundaries and practices that allow for the uniqueness of the process of coming into being, of a becoming that invites a new relationship of the human within an entangled, endangered yet potent web of life. 
+
+Before the journey, registered participants will get access to a platform with resources on different topics of the journey, such as: Maya culture, the Chicxulub event, Deep Time perspective, anti-tourism and radical hospitality, marine life ecosystems, archeoastronomy and indigenous peoples resistance to extractivist models of development. These are materials and resources that learners can engage freely, at their own rhythm and with no expected outcome. Participants are invited to choose one topic of inquiry during their journey that is relevant and alive for them.
+
+During the journey, we will have a combination of visits, group process sessions, lectures, practices and free time. Participants are invited to document their journey in the way that suits them better for their learning process.
+
 ## Cost
 
 As a cooperative, we are trying new approaches to make the journeys affordable for as many people as possible while covering the costs and paying our faculty and hosts. We are experimenting with a sliding scale in which you can choose the fee according to your life situation. 
 
 Consider contributing MORE on the scale if you:
 
-have the ability to comfortably meet all of your basic needs
-belong to a sponsoring organization or are employed full-time
-have investments, retirement accounts, or inherited money
-travel recreationally
-have access to family money and resources in times of need
-work part-time by choice
-own the home you live in
-have a relatively high degree of earning power due to level of education (or gender and racial privilege, class background, etc.)
+- have the ability to comfortably meet all of your basic needs
+- belong to a sponsoring organization or are employed full-time
+- have investments, retirement accounts, or inherited money
+- travel recreationally
+- have access to family money and resources in times of need
+- work part-time by choice
+- own the home you live in
+- have a relatively high degree of earning power due to level of education (or gender and racial privilege, class background, etc.)
 
 Consider contributing LESS on the scale if you.
 
-have difficulty covering basic expenses
-are supporting children or have other dependents
-have significant debt
-have medical expenses not covered by insurance
-are an elder with limited financial support
-are an unpaid community organizer
-have unstable housing and/or limited access to reliable transportation
-have not taken a vacation or time off due to the financial burden
+- have difficulty covering basic expenses
+- are supporting children or have other dependents
+- have significant debt
+- have medical expenses not covered by insurance
+- are an elder with limited financial support
+- are an unpaid community organizer
+- have unstable housing and/or limited access to reliable transportation
+- have not taken a vacation or time off due to the financial burden
 
 (This is based on the ‘Green Bottle’ sliding scale model by Alexis J. Cunningfolk | www.wortsandcunning.com)
 
 If you select an amount at the higher end of the scale, you will make possible future offerings and support the good work of the speakers, facilitators, and organizers who are generously contributing their gifts to this event.
 
-Basic fee: 1400 USD in camping. We provide the tent and mattress. Sleeping bags not included. Please note that you will be sharing the sleeping space with another person. 
-Regular fee: 1600 USD in double room, 1850 USD in private room
-Plus fee: 2500 USD
+- Basic fee: 1400 USD in camping. We provide the tent and mattress. Sleeping bags not included. Please note that you will be sharing the sleeping space with another person. 
+- Regular fee: 1600 USD in double room, 1850 USD in private room
+- Plus fee: 2500 USD
 
-Partial grants available upon request after applying
+Partial grants might be available upon request after applying.
+
 ## What is included
 
 Your journey includes:
@@ -193,23 +224,6 @@ Your journey does not include:
 - health and travel insurance
 
 
-## Ecopedagogy and travelling
-
-The values, pedagogy and approach of the Enlivened Cooperative in this journey emphasize:
-
-- Relationality – learning by weaving relations between all learners (including faculty);
-
-- Emplacement – nurturing inquiries, practices and attention towards place (and one´s own place) including the beyond human;
-
-- Cosmopolitical learning \- including many ways of being-knowing-doing-relating, towards human becoming and possible worlds, slowing down reasoning;
-
-- Buen Vivir and Responsibility \- for the common flourishing, alivelihoods and well-being of all beings, which calls for a reinvention of the human and the tending to new stories and practices, particularly of those directly participating in the shared learning experience.
-
-
-Before the journey, registered participants will get access to a platform with resources on different topics of the journey, such as: Quechua and Aymara culture, history and philosophy, Deep Time perspective, anti-tourism and radical hospitality, Andean ecosystems, archeoastronomy and indigenous peoples resistance to extractivist models of development. These are materials and resources that learners can engage freely, at their own rhythm and with no expected outcome. Participants are invited to choose one topic of inquiry during their journey that is relevant and alive for them.
-
-During the journey, we will have a combination of visits, group process, lectures, practices and free time. Participants are invited to document their journey in the way that suits them better for their learning process.
-
 ## Testimonials of past participants
 
 "Our journey together was the most inspiring, fulfilling, satisfying, and enlivening trip I've ever taken... well, with the exception of being alive and somewhat conscious at this particular time in the Universe. Thank you for this extraordinary co-creation of Imagination, Possibility and Beyond"
@@ -222,25 +236,19 @@ Terri
 
 You have an interest in:
 
-Learning to be a good visitor.
-
-Becoming aware of the individualistic, neo-colonizing, extractivist and consumerist logic of tourism, developing an approach that is sensible with the land, the people and the communities of life that host us as travelers.
-
 Becoming present for the Earth in a mutually beneficial way.
 
-Delving into indigenous and peasant wisdom and scientific breakthroughs, exercising presence and exploring old new ways of relating to the web of life, including but not limited to our selves.
+Delving into localized wisdom and scientific breakthroughs, exercising presence and exploring old new ways of relating to the web of life, including but not limited to our selves.
 
-Participating in localized, place-based, embodied, experiential learning that expands sensibilities and imagination.
+Participating in, place-based, embodied, experiential learning that expands sensibilities and imagination.
 
 Cultivating spaces for other ways of knowing and being -aside from mainstream, disembodied, fragmented knowledge- which are highly relevant for the current challenges of our time.
 
 Unfolding a self and collective inquiry leading to the birth of new practices and stories.
 
-Co-creating a space for deepening undergoing artistic explorations and languages otherwise.
+Co-creating a space for deepening artistic explorations.
 
-Meeting fellow travelers with kindred interests and mutual inspiration .
-
-
+Meeting fellow travelers with similar interests and mutual inspiration .
 
 
 ## Ethics and economy
@@ -251,26 +259,27 @@ We adopt the three principles of permaculture: Care for the Earth, Care for the 
 
 ## Faculty and team:
 
+**Benigno Robles**, Guardian of the Teenek Ceremonial Center of Tamaletom, linguist who positions the ancestral knowledge that the grandparents and grandmothers have protected. Founder of a meeting space between the indigenous Teenek wisdom and the curiosity of the youth who find in their tradition a way of living the present and future well woven with their history.
+
+![](/assets/img/courses/huaesteca/retrato-carmen.jpg){:.right.thumb width="250"}
+
+**Carmen Ramos**
+
+**Felipa**, Master craftswoman Teenek, founder of the Women's Network, wisely guides her companions in the knowledge of the tradition, language, and symbology. Felipa leads other women in community organization, tradition, health care and love for Our Mother Earth.
+
+**Gaby Ramírez González**, daughter of Don Paciano, she has grown up in the embrace of our Mother Earth. She lives as a caretaker of her agroforestry system where she keeps the wisdom of her father, grandparents and grandmothers, conserving local species and integrating cinnamon, pitahaya and other species that are integrated into the acahuales systems that are Nahua tradition.
+
 ![](/assets/img/courses/huaesteca/gerardo.jpg){:.right.thumb width="250"}
 
 **Gerardo López-Amaro**, co-founder of the Enlivened Cooperative, is currently walking  the path of autonomous education with the task of imagining spaces of encounter for thinking-feeling together about ways to strengthen the defense of life, memory and territory. He sees this as part of a planetary struggle for cognitive, relational and ontological justice. He is purposefully becoming entangled in a great “we” of people enacting the pluriverse, that “world where many worlds fit.” Born and raised in San Luis Potosi, Mexico, he’s a pilgrim of viable spaces informed by politics of love and consciousness regarding the healing of land and territory, love and intimacy, and labor and livelihood.
 
-
-**Carmen Ramos**.
+**Hermelinda Vázquez**, a Nahua woman, defender of women's rights, literacy teacher and teacher of the word in Nahuatl. She is a sower, caretaker of the milpa and founder of the Indigenous Observatory of the Rights of the Peoples of the Huasteca potosina. She will accompany us to get to know the tradition of San Martín Chalchicuahutla in the preparation of the comparsas and the Xantolo festival.
 
 **Paciano Ramírez Juanita**, a wise Nahua man, who has cared for and loved Mother Earth, honoring the ancestral knowledge he learned from his predecessors. Fearless to innovate by integrating cinnamon into his agroforestry production system in which he conserves local species such as vanilla, capulines, soursops, jobos, etc. He has done so wit his family, Nana, his life partner and Gaby, his apprentice daughter, both accompanying women in the production of vanilla and cinnamon.
 
-**Gaby Ramírez González**, daughter of Don Paciano, she has grown up in the embrace of our Mother Earth. She lives as a caretaker of her agroforestry system where she keeps the wisdom of her father, grandparents and grandmothers, conserving local species and integrating cinnamon, pitahaya and other species that are integrated into the acahuales systems that are Nahua tradition.
-
-**Hermelinda Vázquez**, a Nahua woman, defender of women's rights, literacy teacher and teacher of the word in Nahuatl. She is a sower, caretaker of the milpa and founder of the Indigenous Observatory of the Rights of the Peoples of the Huasteca potosina. She will accompany us to get to know the tradition of San Martín Chalchicuahutla in the preparation of the comparsas and the Xantolo festival.
-
 **Saraleth Ramos**, Traditional Nahua cook. She makes the kitchen a space for empowering women to liberate themselves and sustain lives with justice and dignity. She vindicates the science that is kept in the indigenous wisdom that has been concentrated in traditional cuisine and that has been in force for many years to date. She is a vanilla producer and innovator in the use of revalued ancestral foods and founder of the Women's Network.
 
-**Benigno Robles**, Guardian of the Teenek Ceremonial Center of Tamaletom, linguist who positions the ancestral knowledge that the grandparents and grandmothers have protected. Founder of a meeting space between the indigenous Teenek wisdom and the curiosity of the youth who find in their tradition a way of living the present and future well woven with their history.
-
 **Soledad Guerrero**, Master craftswoman Teenek, part of the Women's Network, a sage woman that shares among women of different generations the wisdom that embroideries keep in their colors, cotton threads and symbology of the same history they capture. She teaches and integrates youth to the work of embroidery as a way to keep tradition, language, stories and the sustainability of daily life alive.
-
-**Felipa**, Master craftswoman Teenek, founder of the Women's Network, wisely guides her companions in the knowledge of the tradition, language, and symbology. Felipa leads other women in community organization, tradition, health care and love for Our Mother Earth.
 
 **Tomasa**, Teacher Teenek of the backstrap loom, keeps the tradition that was inherited from her mother and grandmother, she shares it with her daughters and the girls of the community so that the care of the cotton, natural colors and the loom continue, safeguarding the tradition.
 
@@ -286,38 +295,8 @@ We adopt the three principles of permaculture: Care for the Earth, Care for the 
 
 - No of days - 13 days
 
-- Cost - from $2,300 USD in shared accommodation and $2,600 in private accommodation (early bird until July 15, 2022). After that date, the cost is $2,800 and $3,100, respectively. We require a non-refundable $500 USD deposit to confirm a place.
+- Cost - from $1,400 USD to $2,500 USD (please refer to the cost section in this page). We require a non-refundable $500 USD deposit to confirm a place.
 
 - How will we be traveling - We​ ​will​ ​have​ ​pre-booked​ ​cars​ ​for​ ​the​ ​travel.
 
 - Total Kms - We​ ​will​ ​be​ ​traveling​ ​roughly​ ​1000​ ​kms (average 2h30min per day)
-
-
-## Covid safety and considerations
-
-Mexico does not require neither a covid vaccination certificate or PCR/antigen tests to enter the country. BWe encourage participants in the journey to make sure they comply with all requirements of in-transit countries and travel restrictions.
-
-## About the Interbeing Learning Journeys series
-
-> “If you are a poet, you will see clearly that there is a cloud floating in this sheet of paper. Without a cloud, there will be no rain; without rain, the trees cannot grow: and without trees, we cannot make paper. The cloud is essential for the paper to exist. If the cloud is not here, the sheet of paper cannot be here either. So we can say that the cloud and the paper inter-are.”
-{:.lead}
-
-**Thich Nhat Hahn, Clouds in Each Paper**
-
-----
-
-We humans do not exist independently in an isolated triumphant alienated bubble. The Interbeing Learning Journeys are an opportunity to explore interconnected issues of non-anthropocentric time and ways of being, of self and consciousness, of ancient and modern knowledge, following the paths of stars, water, and peoples. In journeying from place to place we also travel within, re-creating new stories and tapping into unknown sensibilities, possibilities and purposes for each participant.
-
-The journeys are for those willing to participate in the co-creation of different stories, dreams and practices, for those searching to expand their horizons and attune their sensibilities and desires, for those daring to entertain an open mind and heart, holding contradictions with authenticity and making space for questions rather than answers. They are for those willing to explore who they really are and how to become present for the Earth in a mutually enhancing way.
-
-This is an invitation for travelers looking to go to the encounter of relations and “worlding practices”, complex interactions between human and non-human beings that constitute, care or disrupt the web of life. It is an opportunity to learn from stars, water, and from people in their vital territories. The main focus of inquiry of travel is to learn what kinds of worlds are enacted, through what practices, and with what consequences for what beings, both in the places we visit and also in the places where the travelers usually dwell.
-
-In times of multiple crises, contradictions and nonsense,
-
-it is important to slow down and take a pause to look at the stars and the messages that they hold about the evolution of the pluriverse, consciousness and life;
-
-it is important to slow down and take a pause to take care of water and the history, flows, and nourishment that she provides for the multiple threads of the web of life in our shared home, our planet;
-
-it is important to slow down and take a pause to listen to the wisdom of people who have cultivated a respectful relationship with the Earth -indigenous peoples, peasants, women, artists and environmentalists- in order to gain emplaced insights about our re-invention as human species; and
-
-it is important to slow down and take a pause to breathe and tap into the rhythms, movements and creations of interbeing, and experience embodied learnings about how to become present for the Earth with reciprocity and care.
