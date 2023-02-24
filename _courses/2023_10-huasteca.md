@@ -263,7 +263,7 @@ We adopt the three principles of permaculture: Care for the Earth, Care for the 
 
 ![](/assets/img/courses/huaesteca/retrato-carmen.jpg){:.right.thumb width="250"}
 
-**Carmen Ramos**
+**Carmen Ramos**, Nahua woman that participates in learning communities advocating for ancestral culture, knowledge from elder women, and the ways in which they practice this in a changing and evolving day-to-day experience. She is a popular educator, a promotor of peace building and a weaver of alliances between women that do solid networks to walk together for a world sustained on a more just and solidarity economy. 
 
 **Felipa**, Master craftswoman Teenek, founder of the Women's Network, wisely guides her companions in the knowledge of the tradition, language, and symbology. Felipa leads other women in community organization, tradition, health care and love for Our Mother Earth.
 
