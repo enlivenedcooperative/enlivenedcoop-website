@@ -239,6 +239,13 @@ By participating in this journey, you support an effort to engage with equity an
 
 ## Faculty and team:
 
+![](/assets/img/courses/yucatan_fall/ana-portrait.jpg){:.right.thumb width="250"}
+
+**Ana Marica**, Romanian community weaver, facilitator and learning designer exploring the rich tapestry of cultures around the world. On a mission to understand how communities can change for the better when self-directed learning principles are introduced in the educational process, she has spent the last 8 years researching and connecting with projects and communities from around the world who actively contribute to reimagining learning paradigms.
+
+During this time, she has co-founded Digital Romads, a learning and organizational design consultancy whose purpose is to support communities and organizations explore transparent, open, self-managed, and co-created ways of collaborating and communicating. 
+Currently based in Bucharest, Romania - her basecamp in between travels and explorations of various territories (both at surface and underwater).  
+
 ![](/assets/img/courses/yucatan_fall/bernardo.jpg){:.right.thumb width="250"}
 
 **Bernardo Sánchez Lapuente** is a Social Anthropologist, Theater Educator and Photographer. Beyond titles and credentials, Bernardo is an Artist, Dad of two awesome girls, traveler and world bridger. He develops his work within the framework of Art Education with kids and youth, as well as accompanying group processes. He feels fascinated with the idea of traveling throughout the planet that we inhabit while also journeying throughout the infinite geography that inhabits us. He will be in charge of generating spaces and moments to put into common ground the discoveries and questions of the journey.
