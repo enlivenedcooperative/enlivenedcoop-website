@@ -259,6 +259,13 @@ We adopt the three principles of permaculture: Care for the Earth, Care for the 
 
 ## Faculty and team:
 
+![](/assets/img/courses/huaesteca/ana-portrait.jpg){:.right.thumb width="250"}
+
+**Ana Marica**, Romanian community weaver, facilitator and learning designer exploring the rich tapestry of cultures around the world. On a mission to understand how communities can change for the better when self-directed learning principles are introduced in the educational process, she has spent the last 8 years researching and connecting with projects and communities from around the world who actively contribute to reimagining learning paradigms.
+
+During this time, she has co-founded Digital Romads, a learning and organizational design consultancy whose purpose is to support communities and organizations explore transparent, open, self-managed, and co-created ways of collaborating and communicating. 
+Currently based in Bucharest, Romania - her basecamp in between travels and explorations of various territories (both at surface and underwater).  
+
 **Benigno Robles**, Guardian of the Teenek Ceremonial Center of Tamaletom, linguist who positions the ancestral knowledge that the grandparents and grandmothers have protected. Founder of a meeting space between the indigenous Teenek wisdom and the curiosity of the youth who find in their tradition a way of living the present and future well woven with their history.
 
 ![](/assets/img/courses/huaesteca/retrato-carmen.jpg){:.right.thumb width="250"}
