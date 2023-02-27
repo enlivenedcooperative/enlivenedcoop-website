@@ -244,10 +244,6 @@ By participating in this journey, you support an effort to engage with equity an
 During this time, she has co-founded Digital Romads, a learning and organizational design consultancy whose purpose is to support communities and organizations explore transparent, open, self-managed, and co-created ways of collaborating and communicating. 
 Currently based in Bucharest, Romania - her basecamp in between travels and explorations of various territories (both at surface and underwater).  
 
-![](/assets/img/courses/yucatan_fall/bernardo.jpg){:.right.thumb width="250"}
-
-**Bernardo Sánchez Lapuente** is a Social Anthropologist, Theater Educator and Photographer. Beyond titles and credentials, Bernardo is an Artist, Dad of two awesome girls, traveler and world bridger. He develops his work within the framework of Art Education with kids and youth, as well as accompanying group processes. He feels fascinated with the idea of traveling throughout the planet that we inhabit while also journeying throughout the infinite geography that inhabits us. He will be in charge of generating spaces and moments to put into common ground the discoveries and questions of the journey.
-
 **Commaya**, short for the Coordinadora de Mujeres Mayas de Quintana Roo, it is an intergenerational group of 19 Maya women that promote the rights of indigenous women through training, monitoring and accompaniment with a gender perspective, human rights and respect to the diversity of indigenous peoples.
 
 **Cooperativa Cenote Xooch** is a local, women-led organization based in Cenotillo, Yucatan. They take care of the cenote Xooch and promote responsible ecotourism while advocating for the conservation of cenotes in the region.
