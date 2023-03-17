@@ -1,7 +1,6 @@
 ---
 layout: project
 title: 'Total solar eclipse in the Pacific Coast: cosmic alignments and ocean symphonies'
-'
 
 date: 31 March 2024
 end_date: 10 April 2024
