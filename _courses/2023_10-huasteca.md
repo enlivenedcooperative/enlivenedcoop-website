@@ -34,8 +34,12 @@ accent_image:
 
 ## Introduction
 
-The Huasteca is a bioregion of enormous socioecological diversity and significance, home to the Teenek, Nahuat and Xi’oi cultures, nations that have dwelled in the rain forests, waterfalls, caves, mountains and valleys that configure its rich topography. Ancient cities like Tamtok are proof of the complex urbanization systems and the observation of astronomical cycles. The rich oral history and the colorful weaving and embroidery tell the stories of the time before time and the vibrancy of celebrations and rituals announce a respectful way of being in relationship with the land and her sentient beings.
+The Huasteca is a bioregion of enormous socioecological diversity and significance, home to the Teenek, Nahuat and Xi’oi cultures, nations that have dwelled in the rain forests, waterfalls, caves, mountains and valleys that configure its rich topography. 
+
+Ancient cities like Tamtok are proof of the complex urbanization systems and the observation of astronomical cycles. The rich oral history and the colorful weaving and embroidery tell the stories of the time before time and the vibrancy of celebrations and rituals announce a respectful way of being in relationship with the land and her sentient beings.
+
 Xantolo is a month-long series of celebrations leading to the Day of the Dead. Dances, food, songs, conversations, art and food are shared throughout this vast region that comprises seven different states. Ancestors are an essential part of the community of life and in this particular period of the year life and death are celebrated as an integral part of one cycle of renewal and disruption, of grief and celebration, of mystery and change.
+
 In this unique  journey we will have the opportunity to engage with local communities involved in the co-creation of initiatives related to agroecology, food sovereignty, art, solidarity economy and activism. We will have the extraordinary opportunity of being hosted mainly by a network of indigenous women that has been active for the past decade in the region.
 
 ## What is an un/learning journey?
