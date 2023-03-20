@@ -5,11 +5,11 @@ title: 'Total solar eclipse in the Pacific Coast: cosmic alignments and ocean sy
 date: 31 March 2024
 end_date: 10 April 2024
 image:
-  path: /assets/img/courses/andes.jpg
+  path: /assets/img/courses/day-9.jpeg
   srcset:
-    2560w: /assets/img/courses/andes.jpg
-    1280w: /assets/img/courses/andes.jpg
-    640w: /assets/img/courses/andes.jpg
+    2560w: /assets/img/courses/eclipse/day-9.jpeg
+    1280w: /assets/img/courses/eclipse/day-9.jpeg
+    640w: /assets/img/courses/eclipse/day-9.jpeg
 
 links:
   - title: Apply to this course!
@@ -18,9 +18,9 @@ links:
 
 accent_color: '#4fb1ba'
 accent_image:
-  background: 'url(/assets/img/courses/andes.jpg), linear-gradient(to bottom, #0a7b81 0%, #01636e 25%, #02505b 50%, #073a4a 75%, #082e39 100%)'
-  background: 'url(/assets/img/courses/andes.jpg), linear-gradient(to bottom, #7f7053 0%, #72654b 25%, #665a42 50%, #594e3a 75%, #4c4332 100% )'
-  background: 'url(/assets/img/courses/andes.jpg), linear-gradient(to bottom, #665a42 0%, #594e3a 25%, #4c4332 50%, #40382a 75%, #332d21 100% )'
+  background: 'url(/assets/img/courses/eclipse/day-9.jpeg), linear-gradient(to bottom, #0a7b81 0%, #01636e 25%, #02505b 50%, #073a4a 75%, #082e39 100%)'
+  background: 'url(/assets/img/courses/eclipse/day-9.jpeg), linear-gradient(to bottom, #7f7053 0%, #72654b 25%, #665a42 50%, #594e3a 75%, #4c4332 100% )'
+  background: 'url(/assets/img/courses/eclipse/day-9.jpeg), linear-gradient(to bottom, #665a42 0%, #594e3a 25%, #4c4332 50%, #40382a 75%, #332d21 100% )'
 
   overlay:    true
 featured: true
@@ -81,21 +81,19 @@ The journeys are for those willing to participate in the co-creation of differen
 
 We strongly encourage to apply for the program to everyone who feels called to join, especially to people of all ages with a serious commitment to re-inventing their relationship to Earth and to self, activists, artists, scientists, students, unschoolers, therapists, educators, farmers, community organizers, magicians, dropouts, writers, workers, and everyone resonating with the invitation to be present with the other worlds that are possible and that are already here. 
 
-![](/assets/img/courses/andes/000007.png)
-
 ## Itinerary
 
 Dates: March 31st-April 10th, 2024
 
 ### Day 1. Sunday, March 31st. Arrivals
 
-![](/assets/img/courses/andes/day-1.jpg)
+![](/assets/img/courses/eclipse/day-1.jpeg)
 
 Arrivals to La Paz International Airport (preferred, as Los Cabos is a 2h drive). Transfer to hotel and reception.
 
 ### Day 2. Monday, April 1st. La Paz
 
-![](/assets/img/courses/andes/day-2.jpg)
+![](/assets/img/courses/eclipse/day-2.jpeg)
 
 In the morning, we will dedicate time to get to know each other with a River of Life activity. After lunch, we will have time to get grounded in the
 local context and visit the Museum of the Whale and Playa Balandra, a stunning bay surrounded by pristine white sand dunes and waters exceptionally 
@@ -103,7 +101,7 @@ calm and clear. We will spend the night in La Paz.
 
 ### Day 3. Tuesday, April 2nd. Punta Gorda
 
-![](/assets/img/courses/andes/day-3.jpg)
+![](/assets/img/courses/eclipse/day-3.jpeg)
 
 After a delicious breakfast, we will drive for 45 minutes to Punta Gorda trail, where we will do a short contemplative hike along the coast (3.6 mi/5.6 km)
 It has magnificent views of the water, the mountains surrounding the coast and Ceralvo Island. In our way back, we will delight in a hot water source
@@ -111,7 +109,7 @@ right by the beach at Playa Aguas Termales. After a late lunch, we will drive fo
 
 ### Day 4. Wednesday, April 3rd. Bahía Magdalena
 
-![](/assets/img/courses/andes/day-4.jpg)
+![](/assets/img/courses/eclipse/day-4.jpeg)
 
 After an energizing breakfast, we will drive for 2 hours to Bahia Magdalena, the largest bay in the peninsula of Baja and a beautiful nature reserve.
 We will take a boat and search for an encounter with the second largest mammal in the world, the grey whale. They are present in the region for birthing
@@ -120,7 +118,7 @@ glamping in the island.
 
 ### Day 5. Thursday, April 4th. Bahía Magdalena
 
-![](/assets/img/courses/andes/day-5.jpg)
+![](/assets/img/courses/eclipse/day-5.jpeg)
 
 We will welcome the day in the island with a morning activation before having an enlivening breakfast before we set up for our second day of Whale-watching.
 This will also be an opportunity to encounter turtles, orcas, dolphins, sea lions and, with a little bit of luck, blue whales. We will return to the island
@@ -128,40 +126,38 @@ for our lunch and wil get time in the evening for our collective circle. At nigh
 
 #### Day 6. Friday, April 5th. Todos Santos
 
-![](/assets/img/courses/andes/day-6.jpg)
+![](/assets/img/courses/eclipse/day-6.jpeg)
 
 After breakfast, we will take the boat back to the mainland and drive for 3 hours to Todos Santos, a pastel-colored, coastal town known for its many
 galleries, the slow pace of life, and stunning beaches. We will have time to wander around the streets and discover the local gastronomy.
 
 ### Day 7. Saturday, April 6th. La Paz
 
-![](/assets/img/courses/andes/day-7.jpg)
+![](/assets/img/courses/eclipse/day-7.jpeg)
 
 We will have a slow morning in Todos Santos, hosting our reflection circle and having an extra time to enjoy the town before driving for 1 hour to La Paz,
 where we will have lunch and a couple of free hours before boarding the ferry at 6 pm that will take us in a 12-hour journey to Mazatlán.
 
 ### Day 8. Sunday, April 7th. Mazatlán
 
-![](/assets/img/courses/andes/day-8.jpg)
+![](/assets/img/courses/eclipse/day-8.jpeg)
 
 Arrival at 7 am to Mazatlán. We will stay in cozy cabins and it is an opportunity for the group to enjoy a free day, ideal for relaxing, co-creating
 activities or non-activities. In the evening, we will have a lecture about eclipses an their interpretations across cultures.
 
 ### Day 9. Monday, April 8th. Mazatlán
 
-![](/assets/img/courses/andes/day-9.jpg)
+![](/assets/img/courses/eclipse/day-9.jpeg)
 
 The day has come for the solar eclipse viewing in the morning (9:30 am - 12:30 pm). In the evening, we will host a reflection circle and debrief.
 
 ### Day 10. Tuesday, April 9th. Mazatlán
 
-![](/assets/img/courses/andes/day-10.png)
+![](/assets/img/courses/eclipse/day-10.jpeg)
 
 Integration and celebration. 
 
 ### Day 11. Wednesday, April 10th. Mazatlán
-
-![](/assets/img/courses/andes/day-11.png)
 
 Departures.
 
@@ -208,7 +204,7 @@ If you select an amount at the higher end of the scale, you will make possible f
 - Regular fee: $2,900 USD in shared accomodation and $3,200 in private accommodation. 
 - Plus fee: $3,500 USD
 
-We require a non-refundable deposit of $500 USD to book your spot. Please take into account that Inca Trail spots are limited and are often sold out months in advance. We cannot guarantee a spot in the Inca Trail and we encourage you to register as early as possible to have better chances of securing your permit.
+We require a non-refundable deposit of $500 USD to book your spot.
 
 ## What is included
 
