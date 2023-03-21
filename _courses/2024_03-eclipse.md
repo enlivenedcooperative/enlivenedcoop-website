@@ -271,18 +271,14 @@ By participating in this journey, you support an effort to engage with equity an
 ![](/assets/img/courses/andes/000012.jpg)
 
 
-## Faculty and team:
+## Faculty and team: 
 
-![](/assets/img/courses/andes/ana-portrait.jpg){:.right.thumb width="250"}
+**David Giménez**, explorer and marine naturalist, psychologist, ethologist, freediver. Passionate of the ocean, professional diver, and activist for the care of marine ecosystems.
 
-**Ana Marica**, Romanian community weaver, facilitator and learning designer exploring the rich tapestry of cultures around the world. On a mission to understand how communities can change for the better when self-directed learning principles are introduced in the educational process, she has spent the last 8 years researching and connecting with projects and communities from around the world who actively contribute to reimagining learning paradigms.
-
-During this time, she has co-founded Digital Romads, a learning and organizational design consultancy whose purpose is to support communities and organizations explore transparent, open, self-managed, and co-created ways of collaborating and communicating. 
-Currently based in Bucharest, Romania - her basecamp in between travels and explorations of various territories (both at surface and underwater).  
-
-![](/assets/img/courses/andes/000014.jpg){:.right.thumb width="210"}
+![](/assets/img/courses/andes/000004.jpg){:.right.thumb width="250"}
 
 **Gerardo López-Amaro**, co-founder of the Enlivened Cooperative, is currently walking  the path of autonomous education with the task of imagining spaces of encounter for thinking-feeling together about ways to strengthen the defense of life, memory and territory. He sees this as part of a planetary struggle for cognitive, relational and ontological justice. He is purposefully becoming entangled in a great “we” of people enacting the pluriverse, that “world where many worlds fit.” Born and raised in San Luis Potosi, Mexico, he’s a pilgrim of viable spaces informed by politics of love and consciousness regarding the healing of land and territory, love and intimacy, and labor and livelihood.
+
 
 
 
