@@ -273,12 +273,21 @@ By participating in this journey, you support an effort to engage with equity an
 
 ## Faculty and team: 
 
-**David Giménez**, explorer and marine naturalist, psychologist, ethologist, freediver. Passionate of the ocean, professional diver, and activist for the care of marine ecosystems.
+![](/assets/img/courses/eclipse/retrato-dei.jpeg)
+
+**Dei**, explorer and marine naturalist fascinated by the sea and all its life. A Psychologist currently focusing on Ethology of marine mammals, studying, researching and publishing about them. An underwater videographer, on his Instagram account @oceandei he gives a closer look and he shares about the ocean and its members.  
 
 ![](/assets/img/courses/andes/000004.jpg){:.right.thumb width="250"}
 
 **Gerardo López-Amaro**, co-founder of the Enlivened Cooperative, is currently walking  the path of autonomous education with the task of imagining spaces of encounter for thinking-feeling together about ways to strengthen the defense of life, memory and territory. He sees this as part of a planetary struggle for cognitive, relational and ontological justice. He is purposefully becoming entangled in a great “we” of people enacting the pluriverse, that “world where many worlds fit.” Born and raised in San Luis Potosi, Mexico, he’s a pilgrim of viable spaces informed by politics of love and consciousness regarding the healing of land and territory, love and intimacy, and labor and livelihood.
 
+![](/assets/img/courses/eclipse/retrato-marianne.png)
+
+**Marianne Rowe**, a Founding Teacher of Monterey Bay Meditation Studio, an Emergent Dialogue facilitator, an Ecotherapist, and a Licensed Marriage and Family Therapist in Pacific Grove, CA. Her teaching, therapeutic work and leadership focus on healing, transformation and evolution through awareness and relationship — developing Integral consciousness through the physiological, cognitive, emotional, relational and spiritual aspects of being. She is  dedicated to catalyzing and cultivating embodiment of a New Story for human beings (inspired by Charles Eisenstein) and playing a conscious role as part of the evolving Universe Story (inspired by Thomas Berry, Brian Swimme, Duane Elgin and Deeptime Network). My passions include inspiring reverence and reciprocity with Earth and Universe, spiritual activism, and conscious relationship with all beings.
+
+![](/assets/img/courses/eclipse/retrato-steve.jpeg)
+
+**Stephan Martin** is an astronomer, educator, and writer who has taught astronomy and physics at colleges and educational centers across the U.S. for over twenty-five years. Currently an adjunct instructor in the Consciousness and Transformative Studies program at John F Kennedy University, he is also a co-director of the continuing care program at the Center for Spiritual Emergence, where he supports those emerging from spiritual crises in living their new found realizations in daily life. He is also a lead teacher for the Deeptime Journey network where he has presented courses such as "Cosmos, Consciousness, and Birthing the Ecozoic" (2020) and "Applying the New Cosmology" (2021) to a global audience.
 
 
 
