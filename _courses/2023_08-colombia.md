@@ -5,11 +5,11 @@ title: 'Colombian Andes and Pacific Coast. Tending for life: minglings of Buen V
 date: 2 August 2023
 end_date: 15 August 2023
 image:
-  path: /assets/img/courses/day-9.jpeg
+  path: /assets/img/courses/colombia/day-1.jpeg
   srcset:
-    2560w: /assets/img/courses/eclipse/day-9.jpeg
-    1280w: /assets/img/courses/eclipse/day-9.jpeg
-    640w: /assets/img/courses/eclipse/day-9.jpeg
+    2560w: /assets/img/courses/colombia/day-1.jpeg
+    1280w: /assets/img/courses/colombia/day-1.jpeg
+    640w: /assets/img/courses/colombia/day-1.jpeg
 
 links:
   - title: Apply to this course!
@@ -97,13 +97,13 @@ Dates: August 2nd-15th, 2023
 
 ### Day 1. Wednesday, August 2. Arrivals
 
-![](/assets/img/courses/eclipse/day-1.jpeg)
+![](/assets/img/courses/colombia/day-1.jpeg)
 
 Arrivals to Cali. Transfer to our hotel. Meet your Learning Journey Team and fellow companions on the journey. Gather for a welcome talk, dinner and reception.
 
 ### Day 2. Thursday, August 3. Eco-neighborhood El Aguacatal and Andean dances
 
-![](/assets/img/courses/eclipse/day-2.jpeg)
+![](/assets/img/courses/colombia/day-2.jpeg)
 
 We will get grounded as a group of fellow co-travelers, opening the heart space and getting to know each other in a deeper manner. We will open the space
 with a ceremony and do a life-mapping session to share our life journeys and the questions that animate us in this moment.
@@ -117,7 +117,7 @@ in this urban spot near downtown and old Cali.
 
 ### Day 3. Friday, August 4. Kwet Wala, Nasa communities at Pradera
 
-![](/assets/img/courses/eclipse/day-3.jpeg)
+![](/assets/img/courses/colombia/day-3.jpg)
 
 We will drive to Kwet Wala´s community of La Fria, a Nasa community at the east side of the Cauca river valley at Pradera town, where we will meet with the
 sages of the “resguardo”, who will share about the work towards a peaceful relationship between humans and territory, politics and spiritual inquiries 
@@ -126,7 +126,7 @@ offering a ceremony of health and love. We will stay in the community overnight.
 
 ### Day 4. Wednesday, Saturday, August 5. Botanic Garden at Silvia.
 
-![](/assets/img/courses/eclipse/day-4.jpeg)
+![](/assets/img/courses/colombia/day-4.jpg)
 
 We will travel from Pradera to Silvia, driving up the cordilleras to this Andean town in the Cauca province´s North region, a primordial territory of the
 Misak-Guambiana culture amid-others (mostly Nasa), and a constant node of Colombia’s conflicts. 
@@ -139,7 +139,7 @@ starts from pregnancy.
 
 ### Day 5. Sunday, August 6. Living with the Misak
 
-![](/assets/img/courses/eclipse/day-5.jpeg)
+![](/assets/img/courses/colombia/day-5.jpg)
 
 We will connect and spend the day with the Misak community invited to work and experience with them their daily activities, as a “minga”. For example, 
 we will have the opportunity to milk, or a workshop on wool cutting and artisanal spinning process with Misak cosmovision design, vegetables gardening, 
@@ -147,7 +147,6 @@ local bioconstruction and from sunset to night a healing session with music, tra
 
 #### Day 6. Monday, August 7. Universidad Misak and Misak Health House.
 
-![](/assets/img/courses/eclipse/day-6.jpeg)
 
 We will walk around the Resguardo (Misak communities in the same territory) to discover two community achievements.
 The morning we will meet for dialogue with the learning community at Misak´s University house. We will participate in their learning fire circle and will have the opportunity to exchange experiences. We are invited to be Misak students.
@@ -156,7 +155,7 @@ In the afternoon we will have time to learn from the Misak Health House guides, 
 
 ### Day 7. Tuesday, August 8. Andean paths, Cauca's province high mountains
 
-![](/assets/img/courses/eclipse/day-7.jpeg)
+![](/assets/img/courses/colombia/day-7.jpg)
 
 We will have an optional walk to visit the sacred sites of the territory and there will be an offering ceremony with the accompaniment of the knowledgeable
 Misak himself. Sylvia's farewell.
@@ -165,8 +164,6 @@ We will move to the neighboring municipality of Cajibío where we will rest over
 
 ### Day 8. Wednesday, August 9. Atlántida ecovillage and Peace Dances
 
-![](/assets/img/courses/eclipse/day-8.jpeg)
-
 We will have a slow and resting journey with an afternoon meeting with the ecovillagers. The inhabitants of this intentional community have deepened their
 spirituality in a project that has evolved for decades in the midst of regional confrontations into a learning center of Colombian environmentalists and
 vanguard networks. The ecovillage has become lately a Peace Dance´s event center of international relevance.
@@ -174,15 +171,13 @@ vanguard networks. The ecovillage has become lately a Peace Dance´s event cente
 
 ### Day 9. Thursday, August 10. Caloto and Nasa community
 
-![](/assets/img/courses/eclipse/day-9.jpeg)
+![](/assets/img/courses/colombia/day-9.jpeg)
 
 We will drive to the Northern limit of the province to Caloto municipality where we will meet with the Guardia Indígena (Indigenous Guard) at one Nasa´s
 learning centers, a community for children, youth, men, women and elders that represent the resistance and communitary force for autonomous governance and 
 observation. We will stay in the community overnight.
 
 ### Day 10. Friday, August 11. Nasa ceremony for the Indigenous Guard
-
-![](/assets/img/courses/eclipse/day-10.jpeg)
 
 We will share the day with the Guardia Indígena´s former guides, having an accompanied journey with children and youth of Caloto community that decided to
 join the force to defend their Nasa culture.
@@ -191,12 +186,16 @@ At night we will join a ceremonial event to congrat achievements and discuss nov
 
 ### Day 11. Saturday, August 12. From high mountains to the ocean: Punta Soldado island.
 
+![](/assets/img/courses/colombia/day-11.jpeg)
+
+
 Andean cordillera's farewell. We will travel by land to Buenaventura, the most important port-city of the Pacific region. where we will take a fast boat to
 Punta Soldado, a neighboring Afro-Colombian community settled on a close island. We will be delighted as we take in the tropical abundance that Colombian
 geography can offer from its different altitudes. It will be just a few hours travel in a 2000 mt descent to sea level. We will stay on the island-community
 overnight.
 
 ### Day 12. Sunday, August 13. Living with Punta Soldado's people
+
 
 In this Afro-Colombian settlement we will share with locals at their own rhythm, through dances that they learned before first steps and music that elder’s
 voices perform to guide a family-collective system. We will listen to their African knowledge embedded within the port culture that brings the nation and
@@ -205,10 +204,16 @@ authentic resistance locality in the middle of an abused and violated paradise.
 
 ### Day 13. Monday, August 14. From Punta Soldado to Old Cali
 
+![](/assets/img/courses/colombia/day-13.jpeg)
+
+
 We will take the fast boat back to land and drive to Cali, where we will spend the evening and night walking through the old city and some cultural venues
 of this capital of cultures, salsa and artistic traditions.
 
 ### Day 14. Tuesday, August 15. Siloé neighborhood uprisings, memorials, museum and ceremonial closure dialogues. Salsa party and last unlearning journey dance
+
+![](/assets/img/courses/colombia/day-14.jpg)
+
 
 We will spend all day at the Popular Museum from Siloé and around the neighborhood, hosted by its founders. We will have a walk around the communitary space
 s born after the social uprising of 2021. These events have made this urban community a reference of Colombia’s present history and painful memories. 
@@ -340,8 +345,6 @@ As a cooperative, we believe in offering programs that help you, your community 
 
 By participating in this journey, you support an effort to engage with equity and social and environmental justice, supporting localized circular economies, exploring more regenerative economic practices, helping a democratically run cooperative, and enhancing the practice of being a grateful guest of Earth.
 
-![](/assets/img/courses/andes/000012.jpg)
-
 
 ## Faculty and team: 
 
@@ -371,5 +374,8 @@ More TBA
 - How will we be traveling - We​ ​will​ ​have​ ​pre-booked​ ​cars​ ​for​ ​the​ ​travel. Boats will also be used for some sections of the travel.
 
 - Total Kms - We​ ​will​ ​be​ ​traveling​ ​roughly​ ​700​ ​kms
+
+![](/assets/img/courses/colombia/itinerario-colombia.png)
+
 
 
