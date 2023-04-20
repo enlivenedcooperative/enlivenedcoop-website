@@ -32,6 +32,8 @@ featured: true
 1. this ordered seed list will be replaced by the toc
 {:toc}
 
+Para información del viaje en español, da click aquí: https://medium.com/@enlivenedcooperative/colombia-andes-y-costa-pacífica-3910a749b4cf
+
 ## Introduction
 
 The southwest of Colombia is a diverse region full of contrasts. Mountains, valleys and coasts are home to the Nasa and Misak nations, and to the 
