@@ -2,8 +2,8 @@
 layout: project
 title: 'Yucatán journey: extinctions, ocean, cenotes and time (Fall edition)'
 
-date: 22 Sep 2023
-end_date: 4 Oct 2023
+date: 4 Dec 2023
+end_date: 16 Dec 2023
 image:
   path: /assets/img/courses/yucatan_fall.jpg
   srcset:
@@ -59,80 +59,80 @@ We strongly encourage to apply for the program to everyone who feels called to j
 
 ## Itinerary
 
-September 23rd - October 4th, 2023
+December 4-16, 2023
 
 ![](/assets/img/courses/yucatan_fall/day-1.jpg){:.thumb}
 
-### Day 1. Friday, September 22. Arrivals
+### Day 1. Monday, December 4. Arrivals
 
 Arrive at Cancun International Airport. Pick up from Cancun bus station and transfer to our hotel. Meet your Learning Journey Team and fellow companions on the journey. Gather for a welcome talk, dinner, opening ceremony, and reception.
 
 
-### Day 2. Saturday, September 23. Ek Balam and Cenotillo
+### Day 2. Tuesday, December 5. Ek Balam and Cenotillo
 
 ![](/assets/img/courses/yucatan_fall/day-2.jpeg){:.thumb}
 
-In the morning we will drive for 2 hours to visit the ancient city of Ek Balam, an archaeological jewel located in rural Yucatan, where we will be hosted by a local guide. After marveling at the spectacular architecture and design of this site, we will drive for one hour to get to Cenotillo, where we will be hosted by a local, women-led cooperative. We will have lunch, tasting the authentic flavors of the regional cuisine. After replenishing our energy, we will then drive through a jungle trail to get to a hidden cenote, of the most impressive in the region, with an underground pool diameter of approximately 60m, surrounded by exuberant, breathtaking nature. We will host our first reflection circle around a Yaxche (ceiba) tree, and will set up camp in this unique place. 
+In the morning we will drive for 2 hours to visit the ancient city of Ek Balam, an archaeological jewel located in rural Yucatan, where we will be hosted by a local guide. After marveling at the spectacular architecture and design of this site, we will drive for one hour to get to Cenotillo, where we will be hosted by a local, women-led cooperative that will share about their organizing process in taking care of the cenotes in the region. Cenotillo is a municipality with more than a hundred cenotes and they have advocated for them, to keep them healthy. We will have lunch, tasting the authentic flavors of the regional cuisine. After replenishing our energy, we will then drive through a jungle trail to get to a hidden cenote, in charge of the cooperative, of the most impressive in the region, with an underground pool diameter of approximately 60m, surrounded by exuberant, breathtaking nature. We will host our first reflection circle around a Yaxche (ceiba) tree, and will set up camp in this unique place. 
 
-### Day 3. Sunday, September 24. Buctzotz
+### Day 3. Wednesday, December 6. Buctzotz
 
 ![](/assets/img/courses/yucatan_fall/day-3.jpg){:.thumb}
 
 We will share the sunrise with spider monkeys and many birds before taking a bath in the pristine waters of the cenote and having breakfast. We will then drive for one hour to Buctzotz, a rural town where we will meet our hosts for the day, members of the Muuch Xiinbaal Assembly in defense of land and territory in the peninsula of Yucatán. We will share lunch, a hike and a conversation around the Maya ethics of health and joy, and we will learn about the many challenges that the region is facing. We will then co-create our reflection circle surrounded by the milpa, the policulture-based way of farming and living. 
 
-### Day 4. Monday, September 25. Chaksinkín
+### Day 4. Thursday, December 7. Chaksinkín
 
 ![](/assets/img/courses/yucatan_fall/day-4.jpg){:.thumb}
 
 After our breakfast, we will drive for two hours to a village near Peto, where we will meet the Guardians of the Seeds, our hosts for the day. We will deepen our experience with the multiplicity of seeds and relationships happening in the local milpas, and the practice of unity, memory and knowledge that creates a collectivity where many seeds fit and blossom. Lunch will be an opportunity to embody the nurturing qualities of this collective practice. In the evening, we will have our reflection circle. 
 
-### Day 5. Tuesday, September 26. Hopelchén
+### Day 5. Friday, December 8. Hopelchén
 
 ![](/assets/img/courses/yucatan_fall/day-5.jpg){:.thumb}
 
 We will start moving away from the waters of the Gulf of Mexico to explore the rural Maya lands in Campeche. After breakfast, we will drive South for three hours to reach the town of Hopelchén, in Campeche, where we will be met by a local collective that has inspired energy in the movement against GMOs, emphasizing the importance of native seeds and the presence of pollinators. This seemingly small community has defeated Monsanto and has strengthened their practices of care for the land and for the community. In the evening, we will co-create our reflection circle. 
 
-### Day 6. Wednesday, September 27. Calakmul
+### Day 6. Saturday, December 9. Calakmul
 
 ![](/assets/img/courses/yucatan_fall/day-6.png){:.thumb}
 
 After an energizing breakfast, we will drive for three hours to Calakmul, one of the largest natural reserves in the Americas. In this majestic setting of a green ocean of jungle we will generate ample space for being present. 
 
-### Day 7. Thursday, September 28. Calakmul
+### Day 7. Sunday, Decemeber 10. Calakmul
 
 ![](/assets/img/courses/yucatan_fall/day-7.png){:.thumb}
 
 We will have a very early start of our morning to get in the depths of the jungle of Calakmul, where we will hike in trails learning about the ecology of this place and spotting the variety of birds and fauna of this region, with the help of a local guide, that will also present the rich history of the archeological site of Calakmul. We will then return to our camp to have lunch and have rest. 
 
-### Day 8. Friday, September 29. Bacalar
+### Day 8. Monday, December 11. Bacalar
 
 ![](/assets/img/courses/yucatan_fall/day-8.jpg){:.thumb}
 
 After breakfast, we will drive for two hours and half to reach the lagoon of Bacalar. We will have lunch in the town and have time to explore the galleries, cafes and public events. We will host our reflection circle in the evening. 
 
-### Day 9. Saturday, September 30. Bacalar 
+### Day 9. Tuesday, December 12. Bacalar 
 
 ![](/assets/img/courses/yucatan_fall/day-9.jpg){:.thumb}
 
 In this amazing lagoon, famous for its many tonalities of blue we will enjoy a full day of rest and relaxation. In the evening, we will have an optional temazcal.
 
-### Day 10. Sunday, October 1. Carrillo Puerto
+### Day 10. Wednesday, December 13. Carrillo Puerto
 
 After a replenishing breakfast, we will head towards the city of Carrillo Puerto, a one hour 30 minutes drive, where we will have lunch and meet the Commaya, the Coordinadora de Mujeres Mayas, our hosts for the day. With them, we will listen to the deep lineage of women ancestors and the weaving of a tapestry of hopes, struggles and horizons of creativity for Maya women and their communities. In the evening, we will host our reflection circle. 
 
-### Day 11. Monday, October 2. Paamul
+### Day 11. Thursday, December 14. Paamul
 
 ![](/assets/img/courses/yucatan_fall/day-11.jpeg){:.thumb}
 
 After breakfast, we will continue our drive North for one hour and a half to get to the beach of Paamul, where we will spend some time by the Caribbean coastline before having lunch. In the evening, we will get ready to visit an impressive system of semi-flooded caves, guided by a team of conservation activists that will share the ecological and social relevance of the underworld in the peninsula. 
 
-### Day 12. Tuesday, October 3. Integration/celebration
+### Day 12. Friday, December 15. Integration/celebration
 
 ![](/assets/img/courses/yucatan_fall/day-12.jpg){:.thumb}
 
 We will dedicate this day to wrap up our journey, reflect together about our un/learnings, do a closing ceremony and host a celebration.
 
-### Day 13. Wednesday, October 4. Departures
+### Day 13. Saturday, December 16. Departures
 
 We will help you to set up your transfer to the airport of Cancun.
 
@@ -179,7 +179,7 @@ Consider contributing LESS on the scale if you.
 
 If you select an amount at the higher end of the scale, you will make possible future offerings and support the good work of the speakers, facilitators, and organizers who are generously contributing their gifts to this event.
 
-* Partial grant fee: 1,100 USD in camping. We provide the tent and mattress. Sleeping bags not included. Please note that you will be sharing the sleeping space in the tent with another person. 
+* Partial grant fee: 1,250 USD in camping. We provide the tent and mattress. Sleeping bags not included. Please note that you will be sharing the sleeping space in the tent with another person. 
 * Regular fee: 1700 USD in double room, 2100 USD in private room.
 * Plus fee: 2500 USD.
 
