@@ -51,10 +51,6 @@ As a society we are unlearning in circles, in dialogue. In circles of dances and
 Join us on this journey to explore this motley celebration, dance in salsotecas and walk the Andes alongside the Nasa indigenous Guard. Meet with 
 local communities, talk in circles with fire as the main listener. Join us to unlearn violence while we learn to Care for Life.
 
-links:
-  - title: Apply to this course!
-    url: https://forms.gle/1jeYKwYDFWuw6mwC9
-    target: _blank
     
 ## Highlights
 
