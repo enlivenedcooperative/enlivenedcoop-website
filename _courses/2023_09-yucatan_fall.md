@@ -179,7 +179,7 @@ Consider contributing LESS on the scale if you.
 
 If you select an amount at the higher end of the scale, you will make possible future offerings and support the good work of the speakers, facilitators, and organizers who are generously contributing their gifts to this event.
 
-* Basic fee: 1400 USD in camping. We provide the tent and mattress. Sleeping bags not included. Please note that you will be sharing the sleeping space with another person. 
+* Partial grant fee: 1,100 USD in camping. We provide the tent and mattress. Sleeping bags not included. Please note that you will be sharing the sleeping space in the tent with another person. 
 * Regular fee: 1700 USD in double room, 2100 USD in private room.
 * Plus fee: 2500 USD.
 
