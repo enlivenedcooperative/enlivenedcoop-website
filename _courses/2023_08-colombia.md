@@ -51,7 +51,11 @@ As a society we are unlearning in circles, in dialogue. In circles of dances and
 Join us on this journey to explore this motley celebration, dance in salsotecas and walk the Andes alongside the Nasa indigenous Guard. Meet with 
 local communities, talk in circles with fire as the main listener. Join us to unlearn violence while we learn to Care for Life.
 
-
+links:
+  - title: Apply to this course!
+    url: https://forms.gle/1jeYKwYDFWuw6mwC9
+    target: _blank
+    
 ## Highlights
 
 - Meet with Indigenous and Black communities leading processes of peace and reconciliation in the region and creating conditions to care for life in their territories and bodies.
@@ -275,7 +279,7 @@ Consider contributing LESS on the scale if you.
 
 If you select an amount at the higher end of the scale, you will make possible future offerings and support the good work of the speakers, facilitators, and organizers who are generously contributing their gifts to this event.
 
-- Basic fee: $ 1,100 USD in shared accommodation.
+- Partial grant fee: $ 1,100 USD in shared accommodation.
 - Regular fee: $1,500 USD in shared accomodation. 
 - Plus fee: $2,000 USD.
 
