@@ -33,6 +33,7 @@ featured: true
 {:toc}
 
 Para información del viaje en español, da click aquí: https://medium.com/@enlivenedcooperative/colombia-andes-y-costa-pacífica-3910a749b4cf
+Pour information du voyage en français, cliquez ici: https://medium.com/@enlivenedcooperative/andes-colombiennes-et-côte-pacifique-efc7d2c92600
 
 ## Introduction
 
