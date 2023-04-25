@@ -5,11 +5,11 @@ title: 'Colombian Andes and Pacific Coast. Tending for life: minglings of Buen V
 date: 2 August 2023
 end_date: 15 August 2023
 image:
-  path: /assets/img/courses/colombia/day-1.jpeg
+  path: /assets/img/courses/colombia/colombia-stamp.png
   srcset:
-    2560w: /assets/img/courses/colombia/day-1.jpeg
-    1280w: /assets/img/courses/colombia/day-1.jpeg
-    640w: /assets/img/courses/colombia/day-1.jpeg
+    2560w: /assets/img/courses/colombia/colombia-stamp.png
+    1280w: /assets/img/courses/colombia/colombia-stamp.png
+    640w: /assets/img/courses/colombia/colombia-stamp.png
 
 links:
   - title: Apply to this course!
