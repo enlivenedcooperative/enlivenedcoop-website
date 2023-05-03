@@ -18,9 +18,9 @@ links:
 
 accent_color: '#4fb1ba'
 accent_image:
-  background: 'url(/assets/img/courses/colombia/day-1.jpeg), linear-gradient(to bottom, #0a7b81 0%, #01636e 25%, #02505b 50%, #073a4a 75%, #082e39 100%)'
-  background: 'url(/assets/img/courses/colombia/day-1.jpeg), linear-gradient(to bottom, #7f7053 0%, #72654b 25%, #665a42 50%, #594e3a 75%, #4c4332 100% )'
-  background: 'url(/assets/img/courses/colombia/day-1.jpeg), linear-gradient(to bottom, #665a42 0%, #594e3a 25%, #4c4332 50%, #40382a 75%, #332d21 100% )'
+  background: 'url(/assets/img/courses/colombia/day-7.jpeg), linear-gradient(to bottom, #0a7b81 0%, #01636e 25%, #02505b 50%, #073a4a 75%, #082e39 100%)'
+  background: 'url(/assets/img/courses/colombia/day-7.jpeg), linear-gradient(to bottom, #7f7053 0%, #72654b 25%, #665a42 50%, #594e3a 75%, #4c4332 100% )'
+  background: 'url(/assets/img/courses/colombia/day-7.jpeg), linear-gradient(to bottom, #665a42 0%, #594e3a 25%, #4c4332 50%, #40382a 75%, #332d21 100% )'
 
   overlay:    true
 featured: true
