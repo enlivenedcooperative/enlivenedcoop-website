@@ -1,0 +1,312 @@
+---
+layout: project
+title: 'A pilgrimage of becoming in the Andes: the walking memory of Buen Vivir and mutual upbringing.'
+
+date: 28 July 2024
+end_date: 8 August 2024
+image:
+  path: /assets/img/courses/day-9.jpeg
+  srcset:
+    2560w: /assets/img/courses/eclipse/day-9.jpeg
+    1280w: /assets/img/courses/eclipse/day-9.jpeg
+    640w: /assets/img/courses/eclipse/day-9.jpeg
+
+links:
+  - title: Apply to this course!
+    url: https://forms.gle/AWLaEKRQC5cnGmhk6
+    target: _blank
+
+accent_color: '#4fb1ba'
+accent_image:
+  background: 'url(/assets/img/courses/eclipse/day-9.jpeg), linear-gradient(to bottom, #0a7b81 0%, #01636e 25%, #02505b 50%, #073a4a 75%, #082e39 100%)'
+  background: 'url(/assets/img/courses/eclipse/day-9.jpeg), linear-gradient(to bottom, #7f7053 0%, #72654b 25%, #665a42 50%, #594e3a 75%, #4c4332 100% )'
+  background: 'url(/assets/img/courses/eclipse/day-9.jpeg), linear-gradient(to bottom, #665a42 0%, #594e3a 25%, #4c4332 50%, #40382a 75%, #332d21 100% )'
+
+  overlay:    true
+featured: true
+
+---
+
+# A pilgrimage of becoming in the Andes: the walking memory of Buen Vivir and mutual upbringing.
+
+1. this ordered seed list will be replaced by the toc
+{:toc}
+
+## Introduction
+
+This is a call to participate on a pilgrimage of deepening and encounter in the central Andes of Peru, where the ancestral ceremonial center of Chavin de Huantar is located. 
+Chavin (chawpin: ‘the center’) has been a point of encounter (‘tinkuy’) since 3000 years ago, where people from different places and paths would prepare and walk to reach this space of initiation, un/learning, exchange and transformation. The temple and its fascinating architecture is designed as a labyrinth palace dedicated to memory and interconnection of life forms and beings. 
+This year, 2024, we will be re-activating the walking memory of this path, accompanied by the hirkakuna (guardian mountains), making offerings to the wankakuna (memory monoliths) and the vital bodies of water: rahukuna (‘snow capped mountains), mayukuna (rivers), quchakuna (lagoons) and to the tamya (rain). 
+We will be weaving our force and breath, walking on the footsteps of the ancestors of inner visions dedicated to take care of life in the Andean-Amazonian ethical principle of ‘raise and be raised by’, conducting our bodies and essences in a naani (path) composed by infinite arrivals and departures, connecting to a deep, teluric and cosmic mystery.
+This is an invitation to be present in an initiatic journey to meet the tsatsakuna (‘elders’) that dwell in the most intimate of our blood and bones, recognizing ourselves as part of one community of humans and non-humans, holding the responsibility, joy and wisdom of Buen Vivir, impregnated by the colors, textures and smells of the lands where we come from and those where we dwell. 
+
+
+## Highlights
+
+- Contemplative hike (pilgrimage) in the Central Andes of Peru, from Huaraz to the ancient temple of Chavin de Huantar. This
+  includes visits and offerings to stunning lagoons, sacred caves and passes across the renowned Coordillera Blanca.
+
+- Engage with the Andean wisdom of local communities that are cultivating ways of being rooted in a cosmovision of mutual upbringin,
+  'raising and being raised by' the intimate conversation of life.
+
+- Dive into your inner landscape and a journey of self-inquiry in a ceremony with the sacred plant of wachuma. 
+
+- Be nourished by seasonal, local, natural and revitalizing food and participate in a profoundly transformative embodied practices. 
+
+
+## What is an un/learning journey?
+
+The raw material of an un/learning journey is time. With care, we curate, knead, craft and, sometimes, even co-create it. 
+
+They are an interruption, a slowing down, many openings. 
+
+They are brave passages to possibilities, invitations to go out of the familiar zone and expand our sensibilities to let ourselves be undone so that we can suspend the noise of the routine and be attuned to dreams, stories and practices that instigate a process of becoming guided by the calm whisper and the joyous dance of the Earth. 
+
+Unlike tourism, this is not about consuming experiences, places, or people. 
+
+It is about engaging with the land and her guardians (human, non-human, more-than-human). 
+
+It is about activating the memory that walks to the encounter of what is different -tastes, landscapes, textures, languages, rhythms, ways of knowing, modes of being- with curiosity and respect. 
+
+The journey is simultaneously a retreat, a ceremony and a ritual that embraces the unknown as a fertile soil for radicalizing imagination and a pathway to deepen the relations to self, life, consciousness and the many worlds that constitute the pluriverse. 
+
+## Who is this for?
+
+The journeys are for those willing to participate in the co-creation of different stories, dreams and practices, for those searching to expand their horizons and attune their sensibilities and desires, for those daring to entertain an open mind and heart, holding contradictions with authenticity and making space for questions rather than answers. They are for those willing to explore who they really are and how to become present for the Earth in a mutually enhancing way.
+
+We strongly encourage to apply for the program to everyone who feels called to join, especially to people of all ages with a serious commitment to re-inventing their relationship to Earth and to self, activists, artists, scientists, students, unschoolers, therapists, educators, farmers, community organizers, magicians, dropouts, writers, workers, and everyone resonating with the invitation to be present with the other worlds that are possible and that are already here. 
+
+## Itinerary
+
+Dates: July 28-August 8, 2024
+
+### Day 1. Sunday, July 28. Arrivals
+
+![](/assets/img/courses/eclipse/day-1.jpeg)
+
+Arrivals to Huaraz. Reception of participants. Welcome circle and presentation. Introduction to the program and festival of
+Andean cosmovisions.
+
+### Day 2. Monday, July 29. Arrivals in Huaraz
+
+![](/assets/img/courses/eclipse/day-2.jpeg)
+
+In the morning, we will go to a light acclimatization hike around Huaraz. In the afternoon, we will do a breathwork re-birthing
+  session.
+
+### Day 3. Tuesday, July 30. Huaraz
+
+![](/assets/img/courses/eclipse/day-3.jpeg)
+
+Time for a moderate acclimatization hike to one of the special places around Huaraz, where we will have a picnic before returning
+to town for a group process session. 
+
+### Day 4. Wednesday, July 31. Huaraz-Sacracancha
+
+![](/assets/img/courses/eclipse/day-4.jpeg)
+
+We are ready to begin with our pilgrimage. After doing an offering, we start with our ascent in a 12 kilometer (7.5 mi) to the
+place of Sacrancha, where we will host a body practice session and set up camp for the night. 
+
+### Day 5. Thursday, August 1. Sacracancha
+
+![](/assets/img/courses/eclipse/day-5.jpeg)
+
+After an energizing morning in this off-the-beaten-path spot, we will walk to the nearby Huanca and visit the Collotacocha lagoon.
+  In the evening we will be going back to our campsite. 
+
+#### Day 6. Friday, August 2. Shonqu
+
+![](/assets/img/courses/eclipse/day-6.jpeg)
+
+This is the day where we hike to the highest point in our pilgrimage, the Yanashallash pass at 4700 mts (15400 ft)
+  and we will be arriving to Shonqu camp located at 4088 mts (13400 ft). We will walk for around 14 km, stopping at some water
+altars to do some offerings. 
+
+### Day 7. Saturday, August 3. Chavin
+
+![](/assets/img/courses/eclipse/day-7.jpeg)
+
+The day of our arrival to the temple of Chavin. In the morning, we walk for 4 km (2.5 mi) to Chichucancha, where we will be 
+picked up by car to arrive to Chavin, where we will host a group circle in the evening reflecting on our pilgrimage.
+
+### Day 8. Sunday, August 4. Visit to the temple and first ceremony with wachuma
+
+![](/assets/img/courses/eclipse/day-8.jpeg)
+
+We prepare for our first ceremony with the sacred medicine of wachuma. We go for a ceremonial visit at the temple of Chavin and
+we will be hosting a new moon sharing circle around the bonfire.
+
+### Day 9. Monday, August 5. Integration
+
+![](/assets/img/courses/eclipse/day-9.jpeg)
+
+This day is dedicated to creating an integration space and we will have time to visit the Chavin National Museum and some
+free time.
+
+### Day 10. Tuesday, August 6. Cave, hot springs and c.
+
+![](/assets/img/courses/eclipse/day-10.jpeg)
+
+In the morning we do a short walk to the Yuraqmachay cave. Afterwards, we make a visit to the artisans and engage in a conversation
+around this profoundly symbolic practice. We will be back to our accommodation for a circle of word to prepare for our second
+cremony. 
+
+### Day 11. Wednesday, August 7. Second sacred plant ceremony
+
+In the context of a ceremonial visit to the temple of Chavin, we host another encounter with the sacred medicine of wachuma. 
+
+### Day 11. Thursday, August 8. Integration and departures
+
+  In the morning we host an integration circle and a closing ceremony. 
+
+
+# Ecopedagogy and travelling
+
+Before, during and after the journey we exercise a cosmopolitical pedagogy of emergence (COPE). We understand cosmopolitics as an exercise of ‘slowing down reasoning’ (Stengers) that creates an opening for possible articulations between worlds. In this sense, it is a pedagogy of encounter, of sourcing inner wisdom, of dialogue between cultures and world-making practices, one that involves movement, story, dreams, inquiries, solidarities, boundaries and practices that allow for the uniqueness of the process of coming into being, of a becoming that invites a new relationship of the human within an entangled, endangered yet potent web of life. 
+
+Before the journey, registered participants will get access to a platform with resources on different topics of the journey, such as: Maya culture, the Chicxulub event, Deep Time perspective, anti-tourism and radical hospitality, marine life ecosystems, archeoastronomy and indigenous peoples resistance to extractivist models of development. These are materials and resources that learners can engage freely, at their own rhythm and with no expected outcome. Participants are invited to choose one topic of inquiry during their journey that is relevant and alive for them.
+
+During the journey, we will have a combination of visits, group process sessions, lectures, practices and free time. Participants are invited to document their journey in the way that suits them better for their learning process.
+
+## Cost
+
+As a cooperative, we are trying new approaches to make the journeys affordable for as many people as possible while covering the costs and paying our faculty and hosts. We are experimenting with a sliding scale in which you can choose the fee according to your life situation. 
+
+Consider contributing MORE on the scale if you:
+
+- have the ability to comfortably meet all of your basic needs
+- belong to a sponsoring organization or are employed full-time
+- have investments, retirement accounts, or inherited money
+- travel recreationally
+- have access to family money and resources in times of need
+- work part-time by choice
+- own the home you live in
+- have a relatively high degree of earning power due to level of education (or gender and racial privilege, class background, etc.)
+
+Consider contributing LESS on the scale if you.
+
+- have difficulty covering basic expenses
+- are supporting children or have other dependents
+- have significant debt
+- have medical expenses not covered by insurance
+- are an elder with limited financial support
+- are an unpaid community organizer
+- have unstable housing and/or limited access to reliable transportation
+- have not taken a vacation or time off due to the financial burden
+
+(This is based on the ‘Green Bottle’ sliding scale model by Alexis J. Cunningfolk | www.wortsandcunning.com)
+
+If you select an amount at the higher end of the scale, you will make possible future offerings and support the good work of the speakers, facilitators, and organizers who are generously contributing their gifts to this event.
+
+- Basic fee: $2,600 USD in shared accommodation and $2,900 in private accommodation. 
+- Plus fee: $2,900 USD in shared accomodation and $3,200 in private accommodation. 
+
+We require a non-refundable deposit of $500 USD to book your spot.
+
+## What is included
+
+Your journey includes:
+
+- A team of experts, professional tour leaders and educators and local community organizers.
+
+- All food (except snacks) and beverages.
+
+- Accommodations in shared or private room with all amenities
+
+- All logistics for tours and transportation as outlined in the itinerary.
+
+- All entrance fees for nature preserves and other attractions except optional activities.
+
+
+Your journey does not include:
+
+- international flights and domestic transfer to Huaraz
+
+- snacks
+
+- health and travel insurance
+
+
+## Testimonials of past participants
+
+"Our journey together was the most inspiring, fulfilling, satisfying, and enlivening trip I've ever taken... well, with the exception of being alive and somewhat conscious at this particular time in the Universe. Thank you for this extraordinary co-creation of Imagination, Possibility and Beyond"
+Marianne
+
+"Each person we met, each environment we engaged, was more astonishing than the last, making deep impressions on my consciousness about other ways of being. I carry these precious astonishments with me as I go".
+Terri
+
+## Reasons to participate
+
+You have an interest in:
+
+Becoming present for the Earth in a mutually beneficial way.
+
+Delving into localized wisdom and scientific breakthroughs, exercising presence and exploring old new ways of relating to the web of life, including but not limited to our selves.
+
+Participating in, place-based, embodied, experiential learning that expands sensibilities and imagination.
+
+Cultivating spaces for other ways of knowing and being -aside from mainstream, disembodied, fragmented knowledge- which are highly relevant for the current challenges of our time.
+
+Unfolding a self and collective inquiry leading to the birth of new practices and stories.
+
+Co-creating a space for deepening artistic explorations.
+
+Meeting fellow travelers with similar interests and mutual inspiration .
+
+## Ethics and economy
+
+As a cooperative, we believe in offering programs that help you, your community and the world be enlivened again. We strive to co-create regenerative livelihoods for our families and for the planet. We refuse to engage in deadlihoods and we engage in initiatives that support alivelihoods, regenerating ourselves, the earth’s natural systems and local healthy families and communities.
+
+By participating in this journey, you support an effort to engage with equity and social and environmental justice, supporting localized circular economies, exploring more regenerative economic practices, helping a democratically run cooperative, and enhancing the practice of being a grateful guest of Earth.
+
+![](/assets/img/courses/andes/000012.jpg)
+
+
+## Faculty and team: 
+
+![](/assets/img/courses/eclipse/retrato-dei.jpeg){:.right.thumb width="250"}
+
+**Ana Marica**. Romanian community weaver, facilitator and learning designer exploring the rich tapestry of cultures around the world. On a mission to understand how communities can change for the better when self-directed learning principles are introduced in the educational process, she has spent the last 8 years researching and connecting with projects and communities from around the world who actively contribute to reimagining learning paradigms.
+During this time, she has co-founded Digital Romads, a learning and organizational design consultancy whose purpose is to support communities and organizations explore transparent, open, self-managed, and co-created ways of collaborating and communicating. Currently based in Bucharest, Romania - her basecamp in between travels and explorations of various territories (both at surface and underwater)
+
+![](/assets/img/courses/andes/000004.jpg){:.right.thumb width="250"}
+
+**Carlo Brescia**. He was born in Lima and has lived in the city of Huaraz for more than 24 years. He is a filmmaker, writer, researcher, teacher, communicator and independent consultant. He directs and is a founding member of the non-profit cultural association Vasos Comunicantes since June 2004, an institution dedicated to the design and implementation of intercultural and educational projects for sustainability based on respect for the ancestral, the natural and human dignity. He also conducts inter- and transdisciplinary research on the ceremonial center of Chavín de Huántar.
+
+He was coordinator of the First International Symposium of Anadenanthera in the city of Cusco in 2013, of the Andean Festival of Visionary Art and Sustainability in Huaraz in 2014 and co-organizer of the Festival of Culture, Consciousness and Sustainability in Huaraz in 2016. He directed the bilingual magazine Culturas Sustentables desde la Peripheria since 2005 having published 15 editions. He has produced more than 15 audiovisual projects exploring the Andean world, body consciousness and paradigm shift. In 2015 he presented a conference on the ethnobotany of the Chavín de Huántar culture at the VIII Colombian Congress of Botany in Manizales and in 2016 at the XIX National Congress of Argentine Archaeology in Tucumán. He has written and published in 2017 a book of short stories about the Chavín de Huántar cosmovision. He has participated and co-organized events related to Ancash Andean culture in Argentina, Colombia, Chile, Belgium, Brazil, Spain, Mexico and Panama.
+
+In February 2020 he published a book on the Medicinal Plants of the Cordillera Blanca. In addition to her work in Vasos Comunicantes, she is co-leader of the WikiAcción Peru project that seeks to close encyclopedic content gaps and diversify epistemological approaches to knowledge related to ecology, gender and culture on Wikimedia platforms.
+
+![](/assets/img/courses/eclipse/retrato-marianne.png){:.right.thumb width="250"}
+
+**Cecilia Paniagua**. Grandmother Cecilia Paniagua is a native of Conchucos in Ancash, in the same territory as the Chavín de Huántar ceremonial center. She is a hiker and a contemporary guardian of the temple and of the traditional and ancestral knowledge of this part of the Andes. She will be in charge of leading us through the sacred cactus, from a feminine and local Quechua roots, towards the open plazas, complementary rivers Wacheqsa and Mosna, and the depth, silence and darkness of Chavín's subway enclosures: in essence, an encounter with its own depth.
+
+**Elena Pardo**. Educator, cultural manager and promoter of intra and intercultural education in urban and rural areas in the Cusco Region, Peru. She is the director of CEPROSI and a speaker at conferences, forums and events at the regional, national and international levels. She promotes the Watunakuy (international seed event) that has been held for 15 years at the Raqchi Ceremonial Center, an international meeting for the exchange of collective healing and the exchange of seeds. She is a member of the Watunakuy Ayllu Network and the Ecoversities Network.
+![](/assets/img/courses/eclipse/retrato-steve.jpg){:.right.thumb width="250"}
+
+**Gerardo Lopez-Amaro**. Co-founder of the Enlivened Cooperative, is currently walking  the path of autonomous education with the task of imagining spaces of encounter for thinking-feeling together about ways to strengthen the defense of life, memory and territory. He sees this as part of a planetary struggle for cognitive, relational and ontological justice. He is purposefully becoming entangled in a great “we” of people enacting the pluriverse, that “world where many worlds fit.” Born and raised in San Luis Potosi, Mexico, he’s a pilgrim of viable spaces informed by politics of love and consciousness regarding the healing of land and territory, love and intimacy, and labor and livelihood.
+
+**Gladys Jiménez**. She is from Yungay/Peru, a village in the foothills of Huascaran (Peru's highest mountain). Gladys acquired her deep appreciation for nature from her grandmother. She is one of the leading professional trekking guides in the Cordillera Blanca and in Peru. She participates in the production of audiovisual and community projects. She enjoys biology and running in the mountains, including running in the Himalayas. Together with his partner Jim they organize birding tours through Lost City Bird Guides.
+
+**Renata Borges**. Renata was born in São Paulo (Brazil) and is a therapist and body artist, investigating processes of refinement of perception and expansion of consciousness through breathing, movement, touch and sensitive communication practices with the beings of nature. She has been working as a body therapist since 2011, accompanying processes of self-knowledge and integration with the vital force manifested in nature through connected, conscious and integrative breathing (Rebirthing), Taoist Internal Alchemy and Traditional Oriental and Amazonian Medicine. Apprentice and practitioner of ancestral ceremonies, Danzante de la Luna, connected deeply with the curanderismo of the Peruvian Amazon, where she is still in the process of development, deconstruction and learning through plant diets with healers and healers of mestizo and native traditions.
+
+Since 2011 she maintains workshops and groups of deepening in conscious breathing and body movement, some of them in alliance with sound and visual artists, sharing them in Brazil, Peru and Chile. She is part of the team of therapists and trainers of the Escola de Renascimento e Terapias Integradas and conducts workshops that move between the artistic, creative and therapeutic universe.
+
+## Learning Journey summary
+
+- As we seek to provide a personalized accompaniment, we only have space for the participation of 10 people from this call.
+
+
+During the hike from Olleros to Chavin, we will be accompanied by 5 people specialized in expeditions in the Cordillera Blanca: guide, cook and muleteers.
+
+
+- Registration start date -​ 
+
+- Registration last date - 
+
+- Dates of the learning journey - 
+
+- No of days - 
+
+- How will we be traveling - We​ ​will​ ​have​ ​pre-booked​ ​cars​ ​for​ ​the​ ​travel.
