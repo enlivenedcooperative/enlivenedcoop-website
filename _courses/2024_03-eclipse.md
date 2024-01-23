@@ -13,7 +13,7 @@ image:
 
 links:
   - title: Apply to this course!
-    url: https://forms.gle/AWLaEKRQC5cnGmhk6
+    url: 
     target: _blank
 
 accent_color: '#4fb1ba'
@@ -31,6 +31,10 @@ featured: true
 
 1. this ordered seed list will be replaced by the toc
 {:toc}
+
+## SOLD OUT
+
+Thank you for your interest in joining this journey. For this year, we still have spots available for our ceremonial hike across the Coordillera Blanca in Peru. 
 
 ## Introduction
 
