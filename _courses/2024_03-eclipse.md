@@ -27,7 +27,7 @@ featured: true
 
 ---
 
-# Total solar eclipse in the Pacific Coast: cosmic alignments and ocean symphonies
+# SOLD OUT! Total solar eclipse in the Pacific Coast: cosmic alignments and ocean symphonies
 
 1. this ordered seed list will be replaced by the toc
 {:toc}
