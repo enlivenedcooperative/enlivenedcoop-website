@@ -23,7 +23,7 @@ accent_image:
   background: 'url(/assets/img/courses/colombia/day-7.jpeg), linear-gradient(to bottom, #665a42 0%, #594e3a 25%, #4c4332 50%, #40382a 75%, #332d21 100% )'
 
   overlay:    true
-featured: true
+published: false
 
 ---
 
