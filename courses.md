@@ -16,6 +16,6 @@ The Enlivened Cooperative offers courses, workshops, and seminars (online in the
 
 The courses (of varying length) are facilitated by faculty from diverse backgrounds, representing an intentional range of diverse knowledge systems and experiences and involve workshops, presentations, storytelling, sharing practices, tools and methods which encourage learners to try out exercises and pursue inquiries in their own time and place.
 
-In the following sectio you will find our upcoming courses and also the past ones:
+Find below information about all our upcoming courses as well as the ones we facilitates in past years. 
 
 <br/>
