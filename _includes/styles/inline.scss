@@ -18,11 +18,11 @@
 @import "my-variables";
 @import "mixins";
 
-{% if site.hydejack.dark_mode.dynamic %}
-  @import "pro/dark-mode-dynamic";
-{% else %}
-  @import "pro/dark-mode";
-{% endif %}
+// {% if site.hydejack.dark_mode.dynamic %}
+//   @import "pro/dark-mode-dynamic";
+// {% else %}
+//   @import "pro/dark-mode";
+// {% endif %}
 
 @import "html";
 
