@@ -14,7 +14,7 @@ image:
 
 links:
   - title: Apply to this course!
-    url: https://forms.gle/qi51e777rCStxVfh7
+    url: https://docs.google.com/forms/d/e/1FAIpQLScVG4YObNB2e6h2c7OeQCEqdCyRvmUTKhDhoBtMMVqqkrCpCg/viewform?usp=preview 
     target: _blank
 
 accent_color: '#4fb1ba'
@@ -134,6 +134,11 @@ Your journey does not include:
 - optional activities  and local tours in free time.
 
 - health and travel insurance
+
+## Important considerations
+
+* Accommodation will be provided in comfortable shared rooms, as the journey will happen in a remote area of Mexico with limited accomodation capacity.  
+* Participants will be responsible with their own visa arrangements. An invitation letter will be provided for any participant who will require it for their visa application.
 
 
 ## Testimonials of past participants
