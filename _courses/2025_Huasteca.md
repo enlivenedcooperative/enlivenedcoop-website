@@ -27,7 +27,7 @@ accent_image:
 
 ---
 
-# Huasteca journey: embroidery, wise food and celebration of the dead
+# Borderlands: Celebrating Life and Honoring the Dead in Huasteca, Mexico
 
 1. this ordered seed list will be replaced by the toc
 {:toc}
