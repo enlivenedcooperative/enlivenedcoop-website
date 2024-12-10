@@ -51,11 +51,12 @@ This is a transformative experience focused on attuning the senses to possibilit
 
 ## Who is this for?
 
+![](/assets/img/courses/huaesteca/Huasteca_group_walking1.jpg){:.right.thumb width="250"}
+
 The journeys are for those willing to participate in the co-creation of different stories, dreams and practices, for those searching to expand their horizons and attune their sensibilities and desires, for those daring to entertain an open mind and heart, holding contradictions with authenticity and making space for questions rather than answers. They are for those willing to explore who they really are and how to become present for the Earth in a mutually enhancing way.
 
 We strongly encourage to apply for the program to everyone who feels called to join, especially to people of all ages with a serious commitment to re-inventing their relationship to Earth and to self, activists, artists, scientists, students, unschoolers, therapists, educators, farmers, community organizers, magicians, dropouts, writers, workers, and everyone resonating with the invitation to be present with the other worlds that are possible and that are already here. 
 
-![](/assets/img/courses/huaesteca/huaesteca-06.jpg)
 
 ## Itinerary
 
@@ -63,11 +64,13 @@ Dates: October 23rd-November 4th, 2025
 
 More specific details about the itinerary will be shared soon. 
 
+
 ## Ecopedagogy and travelling
 
 Before, during and after the journey we exercise a cosmopolitical pedagogy of emergence (COPE). We understand cosmopolitics as an exercise of ‘slowing down reasoning’ (Stengers) that creates an opening for possible articulations between worlds. In this sense, it is a pedagogy of encounter, of sourcing inner wisdom, of dialogue between cultures and world-making practices, one that involves movement, story, dreams, inquiries, solidarities, boundaries and practices that allow for the uniqueness of the process of coming into being, of a becoming that invites a new relationship of the human within an entangled, endangered yet potent web of life. 
 
 During the journey, we will have a combination of visits, group process sessions, lectures, practices and free time. Participants are invited to document their journey in the way that suits them better for their learning process.
+
 
 ## Cost
 
