@@ -51,7 +51,7 @@ This is a transformative experience focused on attuning the senses to possibilit
 
 ## Who is this for?
 
-![](/assets/img/courses/huaesteca/Huasteca_group_walking1.jpg){:.right.thumb width="250"}
+![](/assets/img/courses/huaesteca/Huasteca_group_walking1.jpg){:.right.thumb width="270"}
 
 The journeys are for those willing to participate in the co-creation of different stories, dreams and practices, for those searching to expand their horizons and attune their sensibilities and desires, for those daring to entertain an open mind and heart, holding contradictions with authenticity and making space for questions rather than answers. They are for those willing to explore who they really are and how to become present for the Earth in a mutually enhancing way.
 
