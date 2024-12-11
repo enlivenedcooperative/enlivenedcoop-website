@@ -13,7 +13,7 @@ image:
     640w: assets/img/courses/Morocco_dunes2.jpg
 links:
   - title: Apply to this course!
-    url: https://docs.google.com/forms/d/e/1FAIpQLScVG4YObNB2e6h2c7OeQCEqdCyRvmUTKhDhoBtMMVqqkrCpCg/viewform?usp=preview 
+    url: https://forms.gle/aqTXALiYA5wp7RMa9 
     target: _blank
 
 accent_color: '#4fb1ba'
