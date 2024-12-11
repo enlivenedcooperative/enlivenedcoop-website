@@ -6,12 +6,11 @@ date: 18 June 2025
 end_date: 30 June 2025
 
 image:
-  path: assets/img/courses/huaesteca/xantolo_real_de_catorce.jpg
+  path: assets/img/courses/Morocco_marrakesh_horizon.jpg
   srcset:
-    2560w: assets/img/courses/huaesteca/xantolo_real_de_catorce.jpg
-    1280w: assets/img/courses/huaesteca/xantolo_real_de_catorce.jpg
-    640w: assets/img/courses/huaesteca/xantolo_real_de_catorce.jpg
-
+    2560w: assets/img/courses/Morocco_marrakesh_horizon.jpg
+    1280w: assets/img/courses/Morocco_marrakesh_horizon.jpg
+    640w: assets/img/courses/Morocco_marrakesh_horizon.jpg
 links:
   - title: Apply to this course!
     url: https://docs.google.com/forms/d/e/1FAIpQLScVG4YObNB2e6h2c7OeQCEqdCyRvmUTKhDhoBtMMVqqkrCpCg/viewform?usp=preview 
@@ -19,9 +18,9 @@ links:
 
 accent_color: '#4fb1ba'
 accent_image:
-  background: 'url(/assets/img/courses/huaesteca/xantolo_real_de_catorce.jpg), linear-gradient(to bottom, #0a7b81 0%, #01636e 25%, #02505b 50%, #073a4a 75%, #082e39 100%)'
-  background: 'url(/assets/img/courses/huaesteca/xantolo_real_de_catorce.jpg), linear-gradient(to bottom, #7f7053 0%, #72654b 25%, #665a42 50%, #594e3a 75%, #4c4332 100% )'
-  background: 'url(/assets/img/courses/huaesteca/xantolo_real_de_catorce.jpg), linear-gradient(to bottom, #665a42 0%, #594e3a 25%, #4c4332 50%, #40382a 75%, #332d21 100% )'
+  background: 'url(/assets/img/courses/Morocco_marrakesh_horizon.jpg), linear-gradient(to bottom, #0a7b81 0%, #01636e 25%, #02505b 50%, #073a4a 75%, #082e39 100%)'
+  background: 'url(/assets/img/courses/Morocco_marrakesh_horizon.jpg), linear-gradient(to bottom, #7f7053 0%, #72654b 25%, #665a42 50%, #594e3a 75%, #4c4332 100% )'
+  background: 'url(/assets/img/courses/Morocco_marrakesh_horizon.jpg), linear-gradient(to bottom, #665a42 0%, #594e3a 25%, #4c4332 50%, #40382a 75%, #332d21 100% )'
 
   overlay:    true
 
@@ -58,7 +57,7 @@ We strongly encourage to apply for the program to everyone who feels called to j
 
 ## Itinerary
 
-Dates: October 23rd-November 4th, 2025
+Dates: June 18 - 30, 2025
 
 More specific details about the itinerary will be shared soon. 
 
@@ -183,8 +182,6 @@ We adopt the three principles of permaculture: Care for the Earth, Care for the 
 
 During this time, she has co-founded Digital Romads, a learning and organizational design consultancy whose purpose is to support communities and organizations explore transparent, open, self-managed, and co-created ways of collaborating and communicating. 
 Currently based in Bucharest, Romania - her basecamp in between travels and explorations of various territories (both at surface and underwater).  
-
-**Benigno Robles**, Guardian of the Teenek Ceremonial Center of Tamaletom, linguist who positions the ancestral knowledge that the grandparents and grandmothers have protected. Founder of a meeting space between the indigenous Teenek wisdom and the curiosity of the youth who find in their tradition a way of living the present and future well woven with their history.
 
 
 ![](/assets/img/courses/huaesteca/gerardo.jpg){:.right.thumb width="250"}
