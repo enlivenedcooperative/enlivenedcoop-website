@@ -6,11 +6,11 @@ date: 18 June 2025
 end_date: 30 June 2025
 
 image:
-  path: assets/img/courses/Morocco_marrakesh_horizon.jpg
+  path: assets/img/courses/Morocco_dunes2.jpg
   srcset:
-    2560w: assets/img/courses/Morocco_marrakesh_horizon.jpg
-    1280w: assets/img/courses/Morocco_marrakesh_horizon.jpg
-    640w: assets/img/courses/Morocco_marrakesh_horizon.jpg
+    2560w: assets/img/courses/Morocco_dunes2.jpg
+    1280w: assets/img/courses/Morocco_dunes2.jpg
+    640w: assets/img/courses/Morocco_dunes2.jpg
 links:
   - title: Apply to this course!
     url: https://docs.google.com/forms/d/e/1FAIpQLScVG4YObNB2e6h2c7OeQCEqdCyRvmUTKhDhoBtMMVqqkrCpCg/viewform?usp=preview 
@@ -110,7 +110,7 @@ Your journey includes:
 
 - A team of experts, professional tour leaders and educators and local community organizers.
 
-- City-to-hotel transfers in small groups upon arrival to the city of San Luis Potosi.
+- City-to-hotel transfers in small groups upon arrival to the city of Marrakesh.
 
 - All food and beverages (except alcohol) throughout the journey.
 
@@ -125,7 +125,7 @@ Your journey includes:
 
 Your journey does not include:
 
-- flights to and from Mexico
+- flights to and from Morocco
 
 - domestic transportation to the starting point of the journey and return
 
@@ -137,7 +137,7 @@ Your journey does not include:
 
 ## Important considerations
 
-* Accommodation will be provided in comfortable shared rooms, as the journey will happen in a remote area of Mexico with limited accomodation capacity.  
+* Accommodation will be provided in comfortable shared rooms  
 * Participants will be responsible with their own visa arrangements. An invitation letter will be provided for any participant who will require it for their visa application.
 
 
@@ -167,12 +167,6 @@ Co-creating a space for deepening artistic explorations.
 
 Meeting fellow travelers with similar interests and mutual inspiration .
 
-
-## Ethics and economy
-
-As a cooperative, we believe in offering programs that help you, your community and the world be enlivened again. We strive to co-create regenerative livelihoods for our families and for the planet. We refuse to engage in deadlihoods and we engage in initiatives that support alivelihoods, regenerating ourselves, the earth’s natural systems and local healthy families and communities.
-
-We adopt the three principles of permaculture: Care for the Earth, Care for the People and Fair Share. We embrace the idea of surplus being shared with everyone involved in making the journey possible. We assign 40% of the profits of the journey to the cooperative, 10% for a local project aligned with this vision, and 50% to be proportionally divided between the team that carried out the project. By participating in this journey, you support an effort to engage with equity and social and environmental justice, supporting localized circular economies, exploring more regenerative economic practices, helping a democratically run cooperative, and enhancing the practice of being a grateful guest of Earth.
 
 ## Faculty and team:
 
