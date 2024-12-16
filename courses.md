@@ -18,16 +18,5 @@ The journeys (of varying length) are facilitated by practitioners from diverse b
 
 Explore our upcoming experiences and highlights from past journeys below. Join us in this evolving ecosystem of collective renewal and regeneration. 
 
----
-layout: default
-title: Contact Us
----
-
-<h1>Contact Us</h1>
-<p>We'd love to hear from you! Please fill out the form below:</p>
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScL60D08G1Nfo5cBTPU3PLvC5fzqYImOojAD_Dw6ebXgFw4Bw/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-<p>Alternatively, you can reach us at <a href="mailto:info@enlivenedcooperative.org">info@enlivenedcooperative.org</a></p>
 
 <br/>
