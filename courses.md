@@ -2,7 +2,7 @@
 layout: projects
 title: Courses & Events
 show_collection: courses
-In a nutshell:>
+In a nutshell>
   The Enlivened Cooperative weaves transformative experiences of un/learning, where connection blossoms, place-based wisdom awakens, and diverse ways of knowing and being come together. The Enlivened Cooperative offers un/learning journeys, courses, workshops, and seminars
 no_groups: false
 ---
