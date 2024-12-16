@@ -16,6 +16,6 @@ Through the art of storytelling, hands-on workshops, and soul-nurturing tools, o
 
 The journeys (of varying length) are facilitated by practitioners from diverse backgrounds, representing an intentional range of diverse knowledge systems and experiences and involve workshops, presentations, storytelling, sharing practices, tools and methods which encourage learners to try out exercises and pursue inquiries in their own time and place.
 
-Find below information about all upcoming experiences we are planning as well as the ones we facilitates in past years. 
+Explore our upcoming experiences and highlights from past journeys below. Join us in this evolving ecosystem of collective cosmopolitical learning.
 
 <br/>
