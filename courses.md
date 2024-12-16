@@ -21,7 +21,7 @@ Explore our upcoming experiences and highlights from past journeys below. Join u
 <form method="POST" action="https://docs.google.com/forms/d/e/1FAIpQLScL60D08G1Nfo5cBTPU3PLvC5fzqYImOojAD_Dw6ebXgFw4Bw/formResponse">
   <input type="email" name="email" placeholder="Your email">
   <input type="text" name="name" placeholder="Your name">
-  <textarea name="message" placeholder="Your message" rows="3">
+  <textarea name="message" placeholder="Your message" rows="4">
   </textarea>
   <button type="submit">Send Message</button>
 </form>
