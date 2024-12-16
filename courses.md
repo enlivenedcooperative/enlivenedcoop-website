@@ -24,5 +24,17 @@ Explore our upcoming experiences and highlights from past journeys below. Join u
   <textarea name="message" placeholder="Your message" rows="1">
   </textarea>
   <button type="submit">Send Message</button>
+  <input[type="text"], input[type="email"], input[type="search"], input[type="submit"], button, textarea { 
+  padding: 1em 1.5em; 
+  border: 1px solid #e5e5e5; 
+  border-radius: 300px; 
+  margin-bottom: 1em; 
+  font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", 
+                "Roboto", "Oxygen", "Ubuntu", "Cantarell", 
+                "Fira Sans", "Droid Sans", "Helvetica Neue", 
+                Arial, sans-serif; 
+}
+  
+textarea { width: 73%;  resize: none; }
 </form>
 <br/>
