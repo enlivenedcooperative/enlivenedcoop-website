@@ -16,5 +16,14 @@ Through the art of storytelling, hands-on workshops, and soul-nurturing tools, o
 
 The journeys (of varying length) are facilitated by practitioners from diverse backgrounds, representing an intentional range of diverse knowledge systems and experiences and involve workshops, presentations, storytelling, sharing practices, tools and methods which encourage learners to try out exercises and pursue inquiries in their own time and place.
 
-Explore our upcoming experiences and highlights from past journeys below. Join us in this evolving ecosystem of collective renewal and regeneration
+Explore our upcoming experiences and highlights from past journeys below. Join us in this evolving ecosystem of collective renewal and regeneration. 
+
+<form method="POST" action="https://forms.gle/rkLqAkoNRrWcuBoK6/<YOUR_EMAIL_HERE>">
+  <input type="email" name="email" placeholder="Your email">
+  <input type="text" name="name" placeholder="Your name">
+  <textarea name="message" placeholder="Your message" rows="3">
+  </textarea>
+  <button type="submit">Send Message</button>
+</form>
+
 <br/>
