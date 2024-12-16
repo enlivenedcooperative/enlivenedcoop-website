@@ -18,7 +18,7 @@ The journeys (of varying length) are facilitated by practitioners from diverse b
 
 Explore our upcoming experiences and highlights from past journeys below. Join us in this evolving ecosystem of collective renewal and regeneration. 
 
-<form method="POST" action="https://docs.google.com/forms/d/e/1FAIpQLScL60D08G1Nfo5cBTPU3PLvC5fzqYImOojAD_Dw6ebXgFw4Bw/viewform?embedded=true">
+<form method="POST" action="https://docs.google.com/forms/d/e/1FAIpQLScL60D08G1Nfo5cBTPU3PLvC5fzqYImOojAD_Dw6ebXgFw4Bw/formResponse">
   <input type="email" name="email" placeholder="Your email">
   <input type="text" name="name" placeholder="Your name">
   <textarea name="message" placeholder="Your message" rows="3">
