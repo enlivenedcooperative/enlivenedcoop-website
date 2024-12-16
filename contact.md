@@ -3,24 +3,11 @@ layout: page
 title: Contact us
 image: /assets/img/blog/coop-01.png
 description: >
-  We would love know about your ideas and feedback. Contact us!
+  Do you have any questions or suggestions about our upcoming programs? Contact us!
 ---
 
-You can reach us writing to _[info@enlivenedcooperative.org](mailto:info@enlivenedcooperative.org)_.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScL60D08G1Nfo5cBTPU3PLvC5fzqYImOojAD_Dw6ebXgFw4Bw/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-<!-- <form>
-  <div class="form-group">
-    <label for="exampleInputName1">Name</label>
-    <input type="text" class="form-control" id="exampleName1" placeholder="Your name">
-  </div>
-  <div class="form-group">
-    <label for="exampleInputEmail1">Email address</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-  </div>
-  <div class="form-group">
-    <label for="exampleFormControlTextarea1">Your message</label>
-    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-  </div>
-  <button type="submit" class="btn btn-primary">Submit</button>
-</form> -->
+<p>Alternatively, you can reach us at <a href="mailto:info@enlivenedcooperative.org">info@enlivenedcooperative.org</a></p>
+
+Alternatively, find us at _[info@enlivenedcooperative.org](mailto:info@enlivenedcooperative.org)_.
