@@ -106,9 +106,9 @@ Driving to Matlapa, we arrive in time for the cambio de fiscal in Axtla, a ritua
 
 #### Saturday, November 1: Faces of the Spirit
 
-In Chapulhuacanito, we meet an artist who crafts the faces of the unseen. As evening falls, we return to create our altar, a space to honor those who have passed and those who remain.
-
 ![](/assets/img/courses/huaesteca/Huasteca-masks.jpg){:.right.thumb width="250"} 
+
+In Chapulhuacanito, we meet an artist who crafts the faces of the unseen. As evening falls, we return to create our altar, a space to honor those who have passed and those who remain.
 
 #### Sunday, November 2: The Veil’s Lifting
 
@@ -120,7 +120,7 @@ On the Day of the Dead, we step into a world where the living and the departed m
 
 The day unfolds in integration and joy, celebrating the richness of life and the lessons of death. Memories, celebration and gratitude fill the air, closing the circle we began in Carretas.
 
-![](/assets/img/courses/huaesteca/Huasteca-village-decorations.jpg){:.right.thumb width="250"} 
+![](/assets/img/courses/huaesteca/Huasteca-village-decorations.jpg){:.left.thumb width="250"} 
 
 #### Tuesday, November 4: Carrying the journey home
 
