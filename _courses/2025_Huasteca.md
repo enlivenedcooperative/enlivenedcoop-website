@@ -119,7 +119,7 @@ Driving to Matlapa, we arrive in time for the cambio de fiscal in Axtla, a ritua
 
 #### Saturday, November 1: Faces of the Spirit
 
-![](/assets/img/courses/huaesteca/Huasteca-masks-horizontal.jpg) {:.right.thumb width="250"} 
+![](/assets/img/courses/huaesteca/Huasteca-masks-horizontal.jpg){:.right.thumb width="250"} 
 
 In Chapulhuacanito, we meet an artist who crafts the faces of the unseen. As evening falls, we return to create our altar, a space to honor those who have passed and those who remain.
 
