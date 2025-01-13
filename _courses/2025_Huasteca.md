@@ -200,8 +200,7 @@ We require a non-refundable deposit of $500 USD to book your spot. Payment infor
 
 ### Application process
 
-**To apply for this journey, please fill in this form: https://bit.ly/borderlandsjourney 
-**
+To apply for this journey, please fill in this form: https://bit.ly/borderlandsjourney. 
 Upon application, we will get back to you via e-mail with additional questions and/or information. 
 
 We have a limited number of places available. We recommend applying as early as possible to increase your chances of being accepted into this journey's cohort. 
