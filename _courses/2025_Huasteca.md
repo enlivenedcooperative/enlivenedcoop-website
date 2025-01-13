@@ -95,9 +95,9 @@ The river becomes our guide as we row to the majestic Tamul waterfall. Its casca
 
 #### Wednesday, October 29: A dance of life and sky
 
-In Tamaleton, we witness the Danza del Gavilan, a ritual that speaks of survival, strength, and balance. Conversations with the dancers and weavers deepen our understanding before we end the day at the Sotano de las Golondrinas, watching swallows circle in the twilight.
+![](/assets/img/courses/huaesteca/Danza-gavilan.png){:.left.thumb width="250"} 
 
-![](/assets/img/courses/huaesteca/Danza-gavilan.png){:.right.thumb width="250"} 
+In Tamaleton, we witness the Danza del Gavilan, a ritual that speaks of survival, strength, and balance. Conversations with the dancers and weavers deepen our understanding before we end the day at the Sotano de las Golondrinas, watching swallows circle in the twilight. 
 
 
 
