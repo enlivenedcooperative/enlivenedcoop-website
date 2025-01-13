@@ -87,7 +87,7 @@ A morning of stillness and rest. In the afternoon, we meet an elder holding the 
 
 #### Tuesday, October 28: Flowing into Wonder
 
-![](/assets/img/courses/huaesteca/Tamul-river-boat-rowing-horizontal.jpg){:.right.thumb width="250"} 
+![](/assets/img/courses/huaesteca/Tamul-river-boat-rowing-horizontal.jpg){:.right.thumb width="290"} 
 
 The river becomes our guide as we navigate the Tampaón River, where we will embark on a panga - a small boat - to row as a collective and visit the massive, 350-ft waterfall of Tamul. Its cascading power reminds us of life’s relentless force, carving paths through stone and time. After a refreshing swim, we will enjoy a meal before heading back to our accommodation for rest.
 
@@ -98,9 +98,11 @@ The river becomes our guide as we navigate the Tampaón River, where we will emb
 
 #### Wednesday, October 29: A dance of life and sky
 
-![](/assets/img/courses/huaesteca/Danza-gavilan.png){:.left.thumb width="250"} 
+{:.left.thumb width="250"} ![](/assets/img/courses/huaesteca/Danza-gavilan.png)
+
 
 This day we will visit the contemporary Ceremonial Site of Tamaletom, where a collective of elders, women and youth are dedicating their efforts to make the Teenek ways blossom. We will witness the astonishing Danza del Gavilán, a ritual that speaks of survival, strength, and balance. We will also learn about the stories embroidered in the pieces of art created by the women and engage in a conversation with local indigenous leaders before we end the day at the Sotano de las Golondrinas, watching swallows circle in the twilight.
+
 
 
 
