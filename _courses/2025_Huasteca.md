@@ -98,7 +98,7 @@ The river becomes our guide as we navigate the Tampaón River, where we will emb
 
 #### Wednesday, October 29: A dance of life and sky
 
-{:.left.thumb width="250"} ![](/assets/img/courses/huaesteca/Danza-gavilan.png)
+![](/assets/img/courses/huaesteca/Danza-gavilan.png){:.right.thumb width="250"} 
 
 
 This day we will visit the contemporary Ceremonial Site of Tamaletom, where a collective of elders, women and youth are dedicating their efforts to make the Teenek ways blossom. We will witness the astonishing Danza del Gavilán, a ritual that speaks of survival, strength, and balance. We will also learn about the stories embroidered in the pieces of art created by the women and engage in a conversation with local indigenous leaders before we end the day at the Sotano de las Golondrinas, watching swallows circle in the twilight.
@@ -119,16 +119,17 @@ Driving to Matlapa, we arrive in time for the cambio de fiscal in Axtla, a ritua
 
 #### Saturday, November 1: Faces of the Spirit
 
-![](/assets/img/courses/huaesteca/Huasteca-masks-horizontal.jpg){:.left.thumb width="250"} 
+![](/assets/img/courses/huaesteca/Huasteca-masks-horizontal.jpg) {:.right.thumb width="250"} 
 
 In Chapulhuacanito, we meet an artist who crafts the faces of the unseen. As evening falls, we return to create our altar, a space to honor those who have passed and those who remain.
 
 
 #### Sunday, November 2: The Veil’s Lifting
 
+![](/assets/img/courses/huaesteca/Huasteca-altar.jpg){:.right.thumb width="250"} 
+
 On the Day of the Dead, we step into a world where the living and the departed meet. Through group process and shared reflection, we honor this sacred communion and the stories it reveals.
 
-![](/assets/img/courses/huaesteca/Huasteca-altar.jpg){:.right.thumb width="250"} 
 
 #### Monday, November 3: A Celebration of Cycles
 
@@ -148,12 +149,14 @@ Before, during and after the journey we exercise a cosmopolitical pedagogy of em
 During the journey, we will have a combination of visits, group process sessions, lectures, practices and free time. Participants are invited to document their journey in the way that suits them better for their learning process.
 
 
-## Cost
+### Cost
+
+We believe in offering programs that help you, our communities and the world be enlivened again. We strive to co-create regenerative livelihoods for our families and for the planet. We engage in initiatives that support alivelihoods, regenerating ourselves, the earth’s natural systems and local healthy families and communities.
 
 As a cooperative, we are exploring new approaches to make the journeys accessible for as many people as possible while covering the logistical costs involved and honouring the contributions of our faculty, the projects hosting us and the team. 
 To support this, we have adopted a sliding scale model - inviting you to choose a fee that reflects your life possibilities. 
 
-**The suggested contribution for this yatra is based on a sliding scale from USD 2000 to USD 3000.**
+**The suggested contribution for this yatra is based on a sliding scale from USD 1600 to USD 3000.**
 
 Consider contributing MORE on the scale if you:
 
@@ -181,17 +184,23 @@ Consider contributing LESS on the scale if you.
 
 If you select an amount at the higher end of the scale, you will make possible future offerings and support the good work of the speakers, facilitators, and organizers who are generously contributing their gifts to this event. You will also be contributing to the partial grants fund for those needing financial support.
 
-We require a non-refundable deposit of $500 USD to book your spot.
+We require a non-refundable deposit of $500 USD to book your spot. Payment information will be provided by our team after we will confirm your registration. 
 
-## What is included
+### Application process
+
+**To apply for this journey, please fill in this form: https://bit.ly/borderlandsjourney 
+**
+Upon application, we will get back to you via e-mail with additional questions and/or information. 
+
+We have a limited number of places available. We recommend applying as early as possible to increase your chances of being accepted into this journey's cohort. 
+
+### What is included
 
 Your journey includes:
 
-- A team of experts, professional tour leaders and educators and local community organizers.
+- A team of expert facilitators, professional tour leaders, educators rooted in the wisdom of the land and local community organizers.
 
 - City-to-hotel transfers in small groups upon arrival to the city of San Luis Potosi.
-
-- All food and beverages (except alcohol) throughout the journey.
 
 - Accommodations in shared room with all amenities.
 
@@ -206,21 +215,21 @@ Your journey does not include:
 
 - flights to and from Mexico
 
-- domestic transportation to the starting point of the journey and return
+- domestic transportation to the starting point of the journey (San Luis Potosi) and return
 
-- snacks
+- food & snacks throughout the journey (except otherwise mentioned)
 
 - optional activities  and local tours in free time.
 
 - health and travel insurance
 
-## Important considerations
+### Important considerations
 
-* Accommodation will be provided in comfortable shared rooms, as the journey will happen in a remote area of Mexico with limited accomodation capacity.  
+* All accommodation will be provided in comfortable shared rooms, as the journey will happen in a remote area of Mexico with limited accomodation capacity.  
 * Participants will be responsible with their own visa arrangements. An invitation letter will be provided for any participant who will require it for their visa application.
 
 
-## Testimonials of past participants
+### Testimonials of past participants
 
 "Our journey together was the most inspiring, fulfilling, satisfying, and enlivening trip I've ever taken... well, with the exception of being alive and somewhat conscious at this particular time in the Universe. Thank you for this extraordinary co-creation of Imagination, Possibility and Beyond"
 Marianne
@@ -228,7 +237,7 @@ Marianne
 "Each person we met, each environment we engaged, was more astonishing than the last, making deep impressions on my consciousness about other ways of being. I carry these precious astonishments with me as I go".
 Terri
 
-## Reasons to participate
+### Reasons to participate
 
 You have an interest in:
 
@@ -247,13 +256,7 @@ Co-creating a space for deepening artistic explorations.
 Meeting fellow travelers with similar interests and mutual inspiration .
 
 
-## Ethics and economy
-
-As a cooperative, we believe in offering programs that help you, your community and the world be enlivened again. We strive to co-create regenerative livelihoods for our families and for the planet. We refuse to engage in deadlihoods and we engage in initiatives that support alivelihoods, regenerating ourselves, the earth’s natural systems and local healthy families and communities.
-
-We adopt the three principles of permaculture: Care for the Earth, Care for the People and Fair Share. We embrace the idea of surplus being shared with everyone involved in making the journey possible. We assign 40% of the profits of the journey to the cooperative, 10% for a local project aligned with this vision, and 50% to be proportionally divided between the team that carried out the project. By participating in this journey, you support an effort to engage with equity and social and environmental justice, supporting localized circular economies, exploring more regenerative economic practices, helping a democratically run cooperative, and enhancing the practice of being a grateful guest of Earth.
-
-## Faculty and team:
+### Faculty and team:
 
 ![](/assets/img/courses/huaesteca/ana-portrait.jpg){:.right.thumb width="250"}
 
