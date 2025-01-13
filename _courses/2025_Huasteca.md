@@ -70,11 +70,11 @@ Meeting in the city of San Luis Potosí by noon, we leave behind the familiar an
 
 In the quiet embrace of Carretas, we open our circle, a space to honor the journey ahead. Through ceremony and intention, we plant the seeds of re-imagination, inviting the desert to guide us.
 
+![](/assets/img/courses/huaesteca/Desert-tall-tree-vertical.png){:.right.thumb width="270"} 
+
 #### Saturday, October 25: Where the Sky Meets the Land
 
 We make our way to Real de Catorce, where we walk in pilgrimage to Cerro del Quemado, a sacred mountain whispered to be the heart of Wirikuta. Here, in ceremony, the mountain listens as we offer our prayers, our questions, and our quiet resolve. 
-
-![](/assets/img/courses/huaesteca/Desert-tall-tree-vertical.png){:.right.thumb width="270"} 
 
 #### Sunday, October 26: The Path of Renewal
 
@@ -86,15 +86,21 @@ A day of stillness and rest by the river. In the afternoon, we meet an elder hol
 
 #### Tuesday, October 28: Flowing into Wonder
 
+![](/assets/img/courses/huaesteca/Tamul-river-boat.jpg){:.right.thumb width="250"} 
+
 The river becomes our guide as we row to the majestic Tamul waterfall. Its cascading power reminds us of life’s relentless force, carving paths through stone and time.
 
-![](/assets/img/courses/huaesteca/Tamul-river-boat.jpg){:.right.thumb width="250"} 
+
+
 
 #### Wednesday, October 29: A dance of life and sky
 
 In Tamaleton, we witness the Danza del Gavilan, a ritual that speaks of survival, strength, and balance. Conversations with the dancers and weavers deepen our understanding before we end the day at the Sotano de las Golondrinas, watching swallows circle in the twilight.
 
 ![](/assets/img/courses/huaesteca/Danza-gavilan.png){:.right.thumb width="250"} 
+
+
+
 
 #### Thursday, October 30: Echoes of the Underworld
 
@@ -106,7 +112,7 @@ Driving to Matlapa, we arrive in time for the cambio de fiscal in Axtla, a ritua
 
 #### Saturday, November 1: Faces of the Spirit
 
-![](/assets/img/courses/huaesteca/Huasteca-masks.jpg){:.right.thumb width="250"} 
+![](/assets/img/courses/huaesteca/Huasteca-masks.jpg){:.left.thumb width="250"} 
 
 In Chapulhuacanito, we meet an artist who crafts the faces of the unseen. As evening falls, we return to create our altar, a space to honor those who have passed and those who remain.
 
@@ -120,7 +126,7 @@ On the Day of the Dead, we step into a world where the living and the departed m
 
 The day unfolds in integration and joy, celebrating the richness of life and the lessons of death. Memories, celebration and gratitude fill the air, closing the circle we began in Carretas.
 
-![](/assets/img/courses/huaesteca/Huasteca-village-decorations.jpg){:.left.thumb width="250"} 
+![](/assets/img/courses/huaesteca/Huasteca-village-decorations.jpg){:.right.thumb width="250"} 
 
 #### Tuesday, November 4: Carrying the journey home
 
