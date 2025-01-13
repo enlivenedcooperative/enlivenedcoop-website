@@ -59,7 +59,59 @@ We strongly encourage to apply for the program to everyone who feels called to j
 
 Dates: June 18 - 30, 2025
 
-More specific details about the itinerary will be shared soon. 
+### Wednesday, June 18: Echoes of arrival
+
+In Marrakesh, we arrive from different paths, converging as strangers and companions. This is a day to settle, to meet one another, and to begin weaving the threads of connection that will guide our journey ahead.
+
+### Thursday, June 19: The Caravan’s Murmur
+
+On the road to Skoura, the desert begins to hum its ancient tune. In the afternoon, we gather for the first time as a circle - hearts opening, ears attuned—to hear the collective voice of our journey. Here, we pause to settle into the rhythm of the journey, listening to the whispers of arrival. 
+
+### Friday, June 20: The Solstice’s Embrace
+
+Morning brings a gentle walk through Skoura’s verdant palmeraie or the winding paths of the Dadès Gorge, where the land murmurs its timeless stories. By afternoon, we journey to Merzouga, tracing the routes of the Amazigh caravans under the Solstice sun. In the evening we will take a moment to honor the sun's peak and the balance between light and shadow, guiding us into deeper attunement with cosmic cycles. 
+
+### Saturday, June 21: The Song of the Dunes
+
+The day unfolds in Merzouga, where we engage in the timeless crafts of the Amazigh people - pottery, and weaving - practices that echo their deep bond with the land. 
+At sunset, we venture into the dunes on camelback, setting camp in the desert. Beneath the sky, stories and silence intertwine and will let stars and stories sing us to sleep.
+
+### Sunday, June 22: Sunrise Reverie
+
+We rise with the desert sun, its warmth mirroring the Amazigh spirit of resilience. Returning to Merzouga, we travel onward to Tamnougalt, where history is etched in every Kasbah wall. Visiting the Berber Museum, we listen to the echoes of a culture that has lived in harmony with this land for centuries, their music a vibrant thread in the fabric of time.
+
+### Monday, June 23: Pathways of Resonance
+
+Morning in Tamnougalt invites us to savor its serenity before the road leads us to Ouirgane. 
+Crossing the landscapes of the Atlas, we are guided by the enduring presence of the Amazigh people, whose intimate knowledge of these mountains teaches us to walk gently and listen deeply.
+
+### Tuesday, June 24: Restful Harmonics
+
+A day of stillness in Ouirgane, where hammams cleanse, treks beckon, and the land reminds us of the balance between movement and pause—a rest note in the song of travel.
+
+### Wednesday, June 25: Threads of Connection
+
+Back to Marrakesh, the city’s vibrant energy stirs us. It’s a brief interlude before diving into the layers of art, activism, and ancestral wisdom awaiting us.
+
+### Thursday, June 26: The Weave of Voices
+
+The Queens Collective and Musée de la Femme invite us to listen to the power of creativity as a vessel for change. Project Soar echoes a call for empowerment, a reminder of the human voice’s strength.
+
+### Friday, June 27: Rhythms of the Ocean
+
+The journey flows to Essaouira, where the Gnaoua & World Music Festival greets us with its powerful harmonies—ancient beats blending with modern crescendos.
+
+### Saturday, June 28: Resonant Frequencies
+
+Immersed in the festival’s second day, we feel music’s ability to connect and heal, a universal language weaving through time and place.
+
+### Sunday, June 29: The Closing Note
+
+A day for reflection and integration in Essaouira. As the waves whisper their eternal rhythm, we honor the land and the journey with a closing ceremony, letting gratitude rise like the tide.
+
+### Monday, June 30: Farewell Cadence
+
+Departures carry the echoes of all we’ve heard, felt, and seen. As we part, the land’s wisdom lingers—a melody we now carry within.
 
 
 ## Ecopedagogy and travelling
