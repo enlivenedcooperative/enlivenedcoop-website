@@ -117,11 +117,15 @@ The sacred caves of Huasteca region call us into their depths. Within their dark
 Driving to Matlapa, we arrive in time for the cambio de fiscal in Axtla, a ritual marking the passing of responsibility from one community leader, or fiscal, to another — a sacred act rooted in continuity and collective care. The air is alive with celebration and reverence, a vivid tapestry of tradition that bridges generations. 
 
 
+
 ### Saturday, November 1: Faces of the Spirit
 
 ![](/assets/img/courses/huaesteca/Huasteca-masks-horizontal.jpg){:.right.thumb width="250"} 
 
+
+
 In Chapulhuacanito, we meet an artist who crafts the faces of the unseen. As evening falls, we return to participate in the elaboration of ritual food and collecting the materials for our collective altar, which we will then proceed to co-create, weaving a space to honor those who have passed and those who remain. 
+
 
 
 
