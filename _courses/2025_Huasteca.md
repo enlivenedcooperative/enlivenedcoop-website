@@ -34,6 +34,8 @@ accent_image:
 
 ## The invitation
 
+![](assets/img/courses/huaesteca/Tamtok-group-talking.jpg)
+
 In the geographic center of Mexico there is an area where diverse realities converge, showcasing the richness of borders and margins—spaces brimming with creativity, portals to other landscapes, realities, and forms of consciousness. At this intersection, bridges are built, perspectives shift, transitions are experienced, rigid predefinitions of reality are questioned, and one steps into an active world in the process of becoming. This journey is a pilgrimage to that membrane of the borderlands.
 
 This two-week pilgrimage takes us to inhabit several of these edges, moving between the mystical desert of Wirikuta and the humid mystery of the cloud forest, being reborn in the swollen belly of the temazcal and in sacred caves—the very entrails of Mother Earth. We will reinvigorate the body with ritual fasting and celebrate the abundance of the harvest in family and community banquets. We will weave the cosmos with the ethereal dance of the hawk or renew our pact with life in communion with the master plant of the desert. We will move through the solemnity of mourning, and the colorful joy of cemeteries and homes as we celebrate the return of our loved ones during the Day of the Dead.
@@ -64,11 +66,13 @@ Dates: October 23rd-November 4th, 2025
 
 ### Thursday, October 23: Crossing the Threshold
 
+![](/assets/img/courses/huaesteca/Desert-panorama-landscape.jpg)
+
 Meeting in the city of San Luis Potosí by noon, we leave behind the familiar and journey into the Wirikuta desert, a sacred land where life and death intertwine in the eternal dance of creation.
 
 ### Friday, October 24: Planting Dreams in the Desert
 
-In the quiet embrace of Carretas, we open our circle, a space to honor the journey ahead. Through ceremony and intention, we plant the seeds of re-imagination, inviting the desert to guide us.
+In the quiet embrace of Santa Cruz de Carretas, we meet the desert and open our collective circle, a space to honor the journey ahead. Through ceremony and intention, we plant the seeds of re-imagination, inviting the desert to guide us.
 
 ![](/assets/img/courses/huaesteca/Desert-tall-tree-vertical.png){:.right.thumb width="270"} 
 
@@ -143,11 +147,12 @@ On the Day of the Dead, we step into a world where the living and the departed m
 
 The day unfolds in integration and joy, celebrating the richness of life and the lessons of death. Memories, celebration and gratitude fill the air, closing the circle we began in Carretas.
 
-![](/assets/img/courses/huaesteca/Huasteca-village-decorations.jpg){:.right.thumb width="250"} 
 
 ### Tuesday, November 4: Carrying the journey home
 
 As we part ways from Matlapa, the land’s wisdom stays with us—a quiet voice urging us to walk gently, to live deeply, and to hold life and death as one.
+
+![](/assets/img/courses/huaesteca/Huasteca-village-decorations.jpg){:.right.thumb width="250"} 
 
 
 ## Ecopedagogy and travelling
