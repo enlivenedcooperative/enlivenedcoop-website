@@ -62,7 +62,69 @@ We strongly encourage to apply for the program to everyone who feels called to j
 
 Dates: October 23rd-November 4th, 2025
 
-More specific details about the itinerary will be shared soon. 
+#### Thursday, October 23: Crossing the Threshold
+
+Meeting in the city of San Luis Potosí by noon, we leave behind the familiar and journey into the Wirikuta desert, a sacred land where life and death intertwine in the eternal dance of creation.
+
+#### Friday, October 24: Planting Dreams in the Desert
+
+In the quiet embrace of Carretas, we open our circle, a space to honor the journey ahead. Through ceremony and intention, we plant the seeds of re-imagination, inviting the desert to guide us.
+
+#### Saturday, October 25: Where the Sky Meets the Land
+
+We make our way to Real de Catorce, where we walk in pilgrimage to Cerro del Quemado, a sacred mountain whispered to be the heart of Wirikuta. Here, in ceremony, the mountain listens as we offer our prayers, our questions, and our quiet resolve. 
+
+![](/assets/img/courses/huaesteca/Desert-tall-tree-vertical.png){:.right.thumb width="270"} 
+
+#### Sunday, October 26: The Path of Renewal
+
+In the morning, through the heat of a temazcal ceremony, we cleanse our bodies and spirits, renewing layers. In the afternoon we make our way from the desert’s expanse to the lush embrace of the Huasteca jungle, which will be our host for the rest of our journey. 
+
+#### Monday, October 27: Roots of Wisdom
+
+A day of stillness and rest by the river. In the afternoon, we meet an elder holding the deep wisdom of the Teenek people. His stories, like ancient roots, offer insights into the connection between life, land, and spirit, grounding us in the heart of this journey. 
+
+#### Tuesday, October 28: Flowing into Wonder
+
+The river becomes our guide as we row to the majestic Tamul waterfall. Its cascading power reminds us of life’s relentless force, carving paths through stone and time.
+
+![](/assets/img/courses/huaesteca/Tamul-river-boat.jpg){:.right.thumb width="250"} 
+
+#### Wednesday, October 29: A dance of life and sky
+
+In Tamaleton, we witness the Danza del Gavilan, a ritual that speaks of survival, strength, and balance. Conversations with the dancers and weavers deepen our understanding before we end the day at the Sotano de las Golondrinas, watching swallows circle in the twilight.
+
+![](/assets/img/courses/huaesteca/Danza-gavilan.png){:.right.thumb width="250"} 
+
+#### Thursday, October 30: Echoes of the Underworld
+
+The sacred caves of Huasteca region call us into their depths. Within their dark embrace, we will be guided to listen to the earth’s heartbeat, a reminder of the mysteries that cradle life and death.
+
+#### Friday, October 31: Shifting Guardians
+
+Driving to Matlapa, we arrive in time for the cambio de fiscal in Axtla, a ritual marking the passing of responsibility from one community leader, or fiscal, to another — a sacred act rooted in continuity and collective care. The air is alive with celebration and reverence, a vivid tapestry of tradition that bridges generations. 
+
+#### Saturday, November 1: Faces of the Spirit
+
+In Chapulhuacanito, we meet an artist who crafts the faces of the unseen. As evening falls, we return to create our altar, a space to honor those who have passed and those who remain.
+
+![](/assets/img/courses/huaesteca/Huasteca-masks.jpg){:.right.thumb width="250"} 
+
+#### Sunday, November 2: The Veil’s Lifting
+
+On the Day of the Dead, we step into a world where the living and the departed meet. Through group process and shared reflection, we honor this sacred communion and the stories it reveals.
+
+![](/assets/img/courses/huaesteca/Huasteca-altar.jpg){:.right.thumb width="250"} 
+
+#### Monday, November 3: A Celebration of Cycles
+
+The day unfolds in integration and joy, celebrating the richness of life and the lessons of death. Memories, celebration and gratitude fill the air, closing the circle we began in Carretas.
+
+![](/assets/img/courses/huaesteca/Huasteca-village-decorations.jpg){:.right.thumb width="250"} 
+
+#### Tuesday, November 4: Carrying the journey home
+
+As we part ways from Matlapa, the land’s wisdom stays with us—a quiet voice urging us to walk gently, to live deeply, and to hold life and death as one.
 
 
 ## Ecopedagogy and travelling
