@@ -152,7 +152,7 @@ The day unfolds in integration and joy, celebrating the richness of life and the
 
 As we part ways from Matlapa, the land’s wisdom stays with us—a quiet voice urging us to walk gently, to live deeply, and to hold life and death as one.
 
-![](/assets/img/courses/huaesteca/Tamtok-group-walking.jpg)
+![](/assets/img/courses/huaesteca/Huasteca-village5.jpg)
 
 ## Ecopedagogy and travelling
 
