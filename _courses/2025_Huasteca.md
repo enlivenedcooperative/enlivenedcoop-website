@@ -121,7 +121,9 @@ Driving to Matlapa, we arrive in time for the cambio de fiscal in Axtla, a ritua
 
 ![](/assets/img/courses/huaesteca/Huasteca-masks-horizontal.jpg){:.right.thumb width="250"} 
 
-In Chapulhuacanito, we meet an artist who crafts the faces of the unseen. As evening falls, we return to create our altar, a space to honor those who have passed and those who remain.
+In Chapulhuacanito, we meet an artist who crafts the faces of the unseen. As evening falls, we return to participate in the elaboration of ritual food and collecting the materials for our collective altar, which we will then proceed to co-create, weaving a space to honor those who have passed and those who remain. 
+
+
 
 
 ### Sunday, November 2: The Veil’s Lifting
@@ -129,6 +131,8 @@ In Chapulhuacanito, we meet an artist who crafts the faces of the unseen. As eve
 ![](/assets/img/courses/huaesteca/Huasteca-altar.jpg){:.right.thumb width="250"} 
 
 On the Day of the Dead, we step into a world where the living and the departed meet. Through group process and shared reflection, we honor this sacred communion and the stories it reveals.
+
+
 
 
 ### Monday, November 3: A Celebration of Cycles
