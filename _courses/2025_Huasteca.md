@@ -82,14 +82,14 @@ In the morning, through the heat of a temazcal ceremony, we cleanse our bodies a
 
 #### Monday, October 27: Roots of Wisdom
 
-A day of stillness and rest by the river. In the afternoon, we meet an elder holding the deep wisdom of the Teenek people. His stories, like ancient roots, offer insights into the connection between life, land, and spirit, grounding us in the heart of this journey. 
+A morning of stillness and rest. In the afternoon, we meet an elder holding the deep wisdom of the Teenek people. His stories, like ancient roots, offer insights into the connection between life, land, and spirit, grounding us in the heart of this journey. 
+
 
 #### Tuesday, October 28: Flowing into Wonder
 
 ![](/assets/img/courses/huaesteca/Tamul-river-boat.jpg){:.right.thumb width="250"} 
 
-The river becomes our guide as we row to the majestic Tamul waterfall. Its cascading power reminds us of life’s relentless force, carving paths through stone and time.
-
+The river becomes our guide as we navigate the Tampaón River, where we will embark on a panga - a small boat - to row as a collective and visit the massive, 350-ft waterfall of Tamul. Its cascading power reminds us of life’s relentless force, carving paths through stone and time. After a refreshing swim, we will enjoy a meal before heading back to our accommodation for rest.
 
 
 
@@ -97,7 +97,7 @@ The river becomes our guide as we row to the majestic Tamul waterfall. Its casca
 
 ![](/assets/img/courses/huaesteca/Danza-gavilan.png){:.left.thumb width="250"} 
 
-In Tamaleton, we witness the Danza del Gavilan, a ritual that speaks of survival, strength, and balance. Conversations with the dancers and weavers deepen our understanding before we end the day at the Sotano de las Golondrinas, watching swallows circle in the twilight. 
+This day we will visit the contemporary Ceremonial Site of Tamaletom, where a collective of elders, women and youth are dedicating their efforts to make the Teenek ways blossom. We will witness the astonishing Danza del Gavilán, a ritual that speaks of survival, strength, and balance. We will also learn about the stories embroidered in the pieces of art created by the women and engage in a conversation with local indigenous leaders before we end the day at the Sotano de las Golondrinas, watching swallows circle in the twilight.
 
 
 
@@ -106,15 +106,18 @@ In Tamaleton, we witness the Danza del Gavilan, a ritual that speaks of survival
 
 The sacred caves of Huasteca region call us into their depths. Within their dark embrace, we will be guided to listen to the earth’s heartbeat, a reminder of the mysteries that cradle life and death.
 
+
 #### Friday, October 31: Shifting Guardians
 
 Driving to Matlapa, we arrive in time for the cambio de fiscal in Axtla, a ritual marking the passing of responsibility from one community leader, or fiscal, to another — a sacred act rooted in continuity and collective care. The air is alive with celebration and reverence, a vivid tapestry of tradition that bridges generations. 
+
 
 #### Saturday, November 1: Faces of the Spirit
 
 ![](/assets/img/courses/huaesteca/Huasteca-masks.jpg){:.left.thumb width="250"} 
 
 In Chapulhuacanito, we meet an artist who crafts the faces of the unseen. As evening falls, we return to create our altar, a space to honor those who have passed and those who remain.
+
 
 #### Sunday, November 2: The Veil’s Lifting
 
