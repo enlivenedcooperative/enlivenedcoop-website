@@ -34,8 +34,6 @@ accent_image:
 
 ## The invitation
 
-![](assets/img/courses/huaesteca/Tamtok-group-talking.jpg)
-
 In the geographic center of Mexico there is an area where diverse realities converge, showcasing the richness of borders and margins—spaces brimming with creativity, portals to other landscapes, realities, and forms of consciousness. At this intersection, bridges are built, perspectives shift, transitions are experienced, rigid predefinitions of reality are questioned, and one steps into an active world in the process of becoming. This journey is a pilgrimage to that membrane of the borderlands.
 
 This two-week pilgrimage takes us to inhabit several of these edges, moving between the mystical desert of Wirikuta and the humid mystery of the cloud forest, being reborn in the swollen belly of the temazcal and in sacred caves—the very entrails of Mother Earth. We will reinvigorate the body with ritual fasting and celebrate the abundance of the harvest in family and community banquets. We will weave the cosmos with the ethereal dance of the hawk or renew our pact with life in communion with the master plant of the desert. We will move through the solemnity of mourning, and the colorful joy of cemeteries and homes as we celebrate the return of our loved ones during the Day of the Dead.
@@ -43,6 +41,8 @@ This two-week pilgrimage takes us to inhabit several of these edges, moving betw
 On this pilgrimage, we will be welcomed by indigenous Wixárika, Téenek, and Náhuatl teachers, as well as local leaders engaged in processes of memory, identity affirmation, food sovereignty, and biological and cultural diversity. Ancient cities like Tamtok are proof of the complex urbanization systems and the observation of astronomical cycles. The rich oral history and the colorful weaving and embroidery tell the stories of the time before time and the vibrancy of celebrations and rituals announce a respectful way of being in relationship with the land and her sentient beings.
 
 The host team will accompany the integration of the journey through external and internal landscapes, guiding us in a co-creative process of dialogue, word circles, somatic practices, games, meditations, collective altar building, and music.
+
+![](/assets/img/courses/huaesteca/Tamtok-group-talking.jpg)
 
 
 ## What is an un/learning journey?
@@ -74,7 +74,7 @@ Meeting in the city of San Luis Potosí by noon, we leave behind the familiar an
 
 In the quiet embrace of Santa Cruz de Carretas, we meet the desert and open our collective circle, a space to honor the journey ahead. Through ceremony and intention, we plant the seeds of re-imagination, inviting the desert to guide us.
 
-![](/assets/img/courses/huaesteca/Desert-tall-tree-vertical.png){:.right.thumb width="270"} 
+![](/assets/img/courses/huaesteca/Cerro-del-quemado-group.png){:.right.thumb width="270"} 
 
 ### Saturday, October 25: Where the Sky Meets the Land
 
@@ -152,8 +152,7 @@ The day unfolds in integration and joy, celebrating the richness of life and the
 
 As we part ways from Matlapa, the land’s wisdom stays with us—a quiet voice urging us to walk gently, to live deeply, and to hold life and death as one.
 
-![](/assets/img/courses/huaesteca/Huasteca-village-decorations.jpg){:.right.thumb width="250"} 
-
+![](/assets/img/courses/huaesteca/Tamtok-group-walking.jpg)
 
 ## Ecopedagogy and travelling
 
