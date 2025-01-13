@@ -87,9 +87,12 @@ A morning of stillness and rest. In the afternoon, we meet an elder holding the 
 
 #### Tuesday, October 28: Flowing into Wonder
 
-![](/assets/img/courses/huaesteca/Tamul-river-boat.jpg){:.right.thumb width="250"} 
+![](/assets/img/courses/huaesteca/Tamul-river-boat-rowing-horizontal.jpg){:.right.thumb width="250"} 
 
 The river becomes our guide as we navigate the Tampaón River, where we will embark on a panga - a small boat - to row as a collective and visit the massive, 350-ft waterfall of Tamul. Its cascading power reminds us of life’s relentless force, carving paths through stone and time. After a refreshing swim, we will enjoy a meal before heading back to our accommodation for rest.
+
+
+
 
 
 
@@ -114,7 +117,7 @@ Driving to Matlapa, we arrive in time for the cambio de fiscal in Axtla, a ritua
 
 #### Saturday, November 1: Faces of the Spirit
 
-![](/assets/img/courses/huaesteca/Huasteca-masks.jpg){:.left.thumb width="250"} 
+![](/assets/img/courses/huaesteca/Huasteca-masks-horizontal.jpg){:.left.thumb width="250"} 
 
 In Chapulhuacanito, we meet an artist who crafts the faces of the unseen. As evening falls, we return to create our altar, a space to honor those who have passed and those who remain.
 
