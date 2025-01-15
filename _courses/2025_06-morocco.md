@@ -40,6 +40,8 @@ On this pilgrimage to the heart of sound, we will explore different inner landsc
 
 ## What is an un/learning journey?
 
+![](/assets/img/courses/General journeys photos/Horizontal-Peru-panorama-terraces-group.jpg)
+
 The raw material of an un/learning journey is time. With care, we curate, knead, craft and co-create it. 
 
 This is a transformative experience focused on attuning the senses to possibilities and engaging deeply with new perspectives. It invites participants to release assumptions, connect with the land and her guardians and activate the memory that walks to the encounter of what is different (tastes, landscapes, textures, languages, rhythms, ways of knowing, modes of being) through curiosity and respect. It is an invitation to immerse oneself in a shared process of becoming—nurturing imagination, self-awareness, and meaningful connections with the world. 
