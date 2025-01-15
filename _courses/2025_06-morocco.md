@@ -143,7 +143,7 @@ A day for reflection and integration in Essaouira. As the waves whisper their et
 
 Departures carry the echoes of all we’ve heard, felt, and seen. As we part, the land’s wisdom lingers—a melody we now carry within.
 
-![](/assets/img/courses/morocco1/Eclipse-journey-beach-silhouettes.jpg){:.right.thumb width="250"}
+![](/assets/img/courses/morocco1/Eclipse-journey-beach-silhouettes.jpg)
 
 
 ## Ecopedagogy and travelling
