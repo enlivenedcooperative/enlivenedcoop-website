@@ -98,11 +98,15 @@ Crossing the landscapes of the Atlas, we are guided by the enduring presence of 
 
 A day of stillness in Ouirgane, where hammams cleanse, treks beckon, and the land reminds us of the balance between movement and pause—a rest note in the song of travel.
 
+
+
 ### Wednesday, June 25: Threads of Connection
+
+![](/assets/img/courses/morocco1/Marrakech-market2.jpg){:.right.thumb width="270"}
 
 Back to Marrakesh, the city’s vibrant energy stirs us. It’s a brief interlude before diving into the layers of art, activism, and ancestral wisdom awaiting us while getting lost in awe and wonder through the streets of the Djma el Fnaa market. 
 
-![](/assets/img/courses/morocco1/Marrakech-market2.jpg){:.right.thumb width="270"}
+
 
 ### Thursday, June 26: The Weave of Voices
 
