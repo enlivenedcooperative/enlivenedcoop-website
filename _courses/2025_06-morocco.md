@@ -122,7 +122,7 @@ Immersed in the festival’s second day, we feel music’s ability to connect an
 
 A day for reflection and integration in Essaouira. As the waves whisper their eternal rhythm, we honor the land and the journey with a closing ceremony, letting gratitude rise like the tide.
 
-![](/![](/assets/img/courses/morocco1/Gnawa-player.jpg){:.right.thumb width="250"}){:.right.thumb width="250"}
+![](/assets/img/courses/morocco1/Eclipse-journey-beach-silhouettes.jpg){:.right.thumb width="250"}){:.right.thumb width="250"}
 
 ### Monday, June 30: Farewell Cadence
 
