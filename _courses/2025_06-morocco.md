@@ -40,7 +40,7 @@ On this pilgrimage to the heart of sound, we will explore different inner landsc
 
 ## What is an un/learning journey?
 
-![](/assets/img/courses/General journeys photos/Horizontal-Peru-panorama-terraces-group.jpg)
+![](/assets/img/courses/General journeys photos/banner-Peru-panorama-terraces-group.jpg)
 
 The raw material of an un/learning journey is time. With care, we curate, knead, craft and co-create it. 
 
