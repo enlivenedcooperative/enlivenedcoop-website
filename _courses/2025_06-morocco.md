@@ -102,15 +102,19 @@ A day of stillness in Ouirgane, where hammams cleanse, treks beckon, and the lan
 
 Back to Marrakesh, the city’s vibrant energy stirs us. It’s a brief interlude before diving into the layers of art, activism, and ancestral wisdom awaiting us while getting lost in awe and wonder through the streets of the Djma el Fnaa market. 
 
+![](/assets/img/courses/morocco1/Marrakech-market2.jpg){:.right.thumb width="270"}
+
 ### Thursday, June 26: The Weave of Voices
 
 The Queens Collective and Musée de la Femme invite us to listen to the power of creativity as a vessel for change. Project Soar echoes a call for empowerment, a reminder of the human voice’s strength.
 
-![](/assets/img/courses/morocco1/Marrakech-market2.jpg){:.right.thumb width="270"}
+
 
 ### Friday, June 27: Rhythms of the Ocean
 
 The journey flows to Essaouira, where the Gnaoua & World Music Festival greets us with its powerful harmonies—ancient beats blending with modern crescendos.
+
+![](/assets/img/courses/morocco1/Morocco-beach-donkey.jpg){:.right.thumb width="250"}
 
 
 
@@ -121,11 +125,11 @@ The journey flows to Essaouira, where the Gnaoua & World Music Festival greets u
 Immersed in the festival’s second day, we feel music’s ability to connect and heal, a universal language weaving through time and place.
 
 
+
+
 ### Sunday, June 29: The Closing Note
 
 A day for reflection and integration in Essaouira. As the waves whisper their eternal rhythm, we honor the land and the journey with a closing ceremony, letting gratitude rise like the tide.
-
-![](/assets/img/courses/morocco1/Morocco-beach-donkey.jpg){:.right.thumb width="250"}
 
 
 ### Monday, June 30: Farewell Cadence
