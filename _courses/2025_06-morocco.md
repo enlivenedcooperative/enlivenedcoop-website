@@ -110,11 +110,16 @@ The Queens Collective and Musée de la Femme invite us to listen to the power of
 
 
 
+
+
 ### Friday, June 27: Rhythms of the Ocean
 
 The journey flows to Essaouira, where the Gnaoua & World Music Festival greets us with its powerful harmonies—ancient beats blending with modern crescendos.
 
 ![](/assets/img/courses/morocco1/Morocco-beach-donkey.jpg){:.right.thumb width="250"}
+
+
+
 
 
 
@@ -130,6 +135,8 @@ Immersed in the festival’s second day, we feel music’s ability to connect an
 ### Sunday, June 29: The Closing Note
 
 A day for reflection and integration in Essaouira. As the waves whisper their eternal rhythm, we honor the land and the journey with a closing ceremony, letting gratitude rise like the tide.
+
+
 
 
 ### Monday, June 30: Farewell Cadence
