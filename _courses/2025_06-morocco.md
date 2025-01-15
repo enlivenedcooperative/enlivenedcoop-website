@@ -112,6 +112,7 @@ The Queens Collective and Musée de la Femme invite us to listen to the power of
 
 The journey flows to Essaouira, where the Gnaoua & World Music Festival greets us with its powerful harmonies—ancient beats blending with modern crescendos.
 
+
 ### Saturday, June 28: Resonant Frequencies
 
 Immersed in the festival’s second day, we feel music’s ability to connect and heal, a universal language weaving through time and place.
@@ -122,11 +123,13 @@ Immersed in the festival’s second day, we feel music’s ability to connect an
 
 A day for reflection and integration in Essaouira. As the waves whisper their eternal rhythm, we honor the land and the journey with a closing ceremony, letting gratitude rise like the tide.
 
-![](/assets/img/courses/morocco1/Eclipse-journey-beach-silhouettes.jpg){:.right.thumb width="250"}){:.right.thumb width="250"}
+![](/assets/img/courses/morocco1/Morocco-beach-donkey.jpg){:.right.thumb width="250"}
 
 ### Monday, June 30: Farewell Cadence
 
 Departures carry the echoes of all we’ve heard, felt, and seen. As we part, the land’s wisdom lingers—a melody we now carry within.
+
+![](/assets/img/courses/morocco1/Eclipse-journey-beach-silhouettes.jpg){:.right.thumb width="250"}
 
 
 ## Ecopedagogy and travelling
