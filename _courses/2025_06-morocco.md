@@ -164,7 +164,7 @@ During the journey, we will have a combination of visits, group process sessions
 As a cooperative, we are exploring new approaches to make the journeys accessible for as many people as possible while covering the logistical costs involved and honouring the contributions of our faculty, the projects hosting us and the team. 
 To support this, we have adopted a sliding scale model - inviting you to choose a fee that reflects your life possibilities. 
 
-**The suggested contribution for this yatra is based on a sliding scale from USD 2000 to USD 3000.**
+**The suggested contribution for this yatra is based on a sliding scale from EUR 1600 to EUR 2500.**
 
 Consider contributing MORE on the scale if you:
 
@@ -188,23 +188,19 @@ Consider contributing LESS on the scale if you.
 - have unstable housing and/or limited access to reliable transportation
 - have not taken a vacation or time off due to the financial burden
 
-((This model is inspired by our friends at Re-imagine Education and is based on the ‘Green Bottle’ sliding scale model by Alexis J. Cunningfolk | www.wortsandcunning.com)
+((This model is inspired by our friends at Re-imagine Education and is based on the ‘Green Bottle’ sliding scale model by Alexis J. Cunningfolk | www.wortsandcunning.com))
 
 If you select an amount at the higher end of the scale, you will make possible future offerings and support the good work of the speakers, facilitators, and organizers who are generously contributing their gifts to this event. You will also be contributing to the partial grants fund for those needing financial support.
 
-We require a non-refundable deposit of $500 USD to book your spot.
+We require a non-refundable deposit of EUR 500 to book your spot.
 
 ## What is included
 
 Your journey includes:
 
-- A team of experts, professional tour leaders and educators and local community organizers.
+- A team of expert facilitators, guides and educators and local community leaders whose knowledge combines local wisdom with global experiences and perspectives.
 
-- City-to-hotel transfers in small groups upon arrival to the city of Marrakesh.
-
-- All food and beverages (except alcohol) throughout the journey.
-
-- Accommodations in shared room with all amenities.
+- Accommodation throughout the journey in shared room (all amenities included).
 
 - All logistics for tours and transportation as outlined in the itinerary.
 
@@ -217,18 +213,20 @@ Your journey does not include:
 
 - flights to and from Morocco
 
-- domestic transportation to the starting point of the journey and return
+- domestic transportation to the starting point of the journey (the city of Skoura) and return. 
 
-- snacks
+- food & beverages throughout the journey 
 
 - optional activities  and local tours in free time.
 
 - health and travel insurance
+  
 
 ## Important considerations
 
 * Accommodation will be provided in comfortable shared rooms  
 * Participants will be responsible with their own visa arrangements. An invitation letter will be provided for any participant who will require it for their visa application.
+* Before the start of the journey each participant will have to provide the health and travel insurance that can be used during the journey. 
 
 
 ## Testimonials of past participants
