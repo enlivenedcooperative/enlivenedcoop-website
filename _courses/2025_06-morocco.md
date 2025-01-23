@@ -63,14 +63,14 @@ Dates: June 18 - 30, 2025
 
 ### Wednesday, June 18: Echoes of arrival
 
-In Marrakesh, we arrive from different paths, converging as strangers and companions. This is a day to settle, to meet one another, and to begin weaving the threads of connection that will guide our journey ahead. 
+In Skoura, we arrive from different paths, converging as strangers and companions. This is a day to settle, to meet one another, and to begin weaving the threads of connection that will guide our journey ahead. 
 
 
 ### Thursday, June 19: The Caravan’s Murmur
 
 ![](/assets/img/courses/morocco1/Peru-journey-group-opening.jpg){:.right.thumb width="270"}
 
-On the road to Skoura, the desert begins to hum its ancient tune. In the afternoon, we gather for the first time as a circle - hearts opening, ears attuned — to hear the collective voice of our journey. Here, we pause to settle into the rhythm of the journey, listening to the whispers of arrival. 
+Under the Skoura sun we gather for the first time as a circle - hearts opening, ears attuned — to hear the collective voice of our journey. Here, we pause to settle into the rhythm of the journey, listening to the whispers of arrival. 
 
 ### Friday, June 20: The Solstice’s Embrace
 
@@ -91,14 +91,14 @@ We rise with the desert sun, its warmth mirroring the Amazigh spirit of resilien
 
 ### Monday, June 23: Pathways of Resonance
 
-Morning in Tamnougalt invites us to savor its serenity before the road leads us to Ouirgane. 
+Morning in Tamnougalt invites us to savor its serenity before the road leads us to Setti Fatma. 
 Crossing the landscapes of the Atlas, we are guided by the enduring presence of the Amazigh people, whose intimate knowledge of these mountains teaches us to walk gently and listen deeply.
 
 ![](/assets/img/courses/morocco1/Morocco-pottery.jpg){:.right.thumb width="270"}
 
 ### Tuesday, June 24: Restful Harmonics
 
-A day of stillness in Ouirgane, where hammams cleanse, treks beckon, and the land reminds us of the balance between movement and pause—a rest note in the song of travel.
+A day of stillness in Setti Fatma, where hammams cleanse, treks beckon, and the land reminds us of the balance between movement and pause—a rest note in the song of travel.
 
 
 
@@ -106,13 +106,13 @@ A day of stillness in Ouirgane, where hammams cleanse, treks beckon, and the lan
 
 ![](/assets/img/courses/morocco1/Marrakech-market2.jpg){:.right.thumb width="270"}
 
-Back to Marrakesh, the city’s vibrant energy stirs us. It’s a brief interlude before diving into the layers of art, activism, and ancestral wisdom awaiting us while getting lost in awe and wonder through the streets of the Djma el Fnaa market. 
+Arriving in Marrakech, the city’s vibrant energy stirs us - a pluriverse of colors, sounds, and scents weaving tradition with modernity. Wandering through the medina, we encounter artisans and conversations that reveal stories of resilience, art, and activism, offering a glimpse of the wisdom to come.
 
 
 
 ### Thursday, June 26: The Weave of Voices
 
-The Queens Collective and Musée de la Femme invite us to listen to the power of creativity as a vessel for change. Project Soar echoes a call for empowerment, a reminder of the human voice’s strength.
+Still in Marrakech, we are invited to witness creativity as a powerful catalyst for change through the work of local artists and cultural spaces. A nearby initiative amplifies the call for empowerment, reminding us of the enduring strength of the human voice.
 
 
 
@@ -140,14 +140,14 @@ Immersed in the festival’s second day, we feel music’s ability to connect an
 
 ### Sunday, June 29: The Closing Note
 
-A day for reflection and integration in Essaouira. As the waves whisper their eternal rhythm, we honor the land and the journey with a closing ceremony, letting gratitude rise like the tide.
+A day for reflection and integration in Essaouira. As the waves whisper their song, we honor the land and the journey with a closing ceremony, letting gratitude rise along with the tide.
 
 
 
 
 ### Monday, June 30: Farewell Cadence
 
-Departures carry the echoes of all we’ve heard, felt, and seen. As we part, the land’s wisdom lingers—a melody we now carry within.
+Departures carry the echoes of all we’ve heard, felt, and seen. As we part, the land’s wisdom lingers — a rhythm we'll now carry within.
 
 ![](/assets/img/courses/morocco1/Eclipse-journey-beach-silhouettes.jpg)
 
