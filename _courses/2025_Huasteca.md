@@ -168,7 +168,7 @@ We believe in offering programs that help you, our communities and the world be 
 As a cooperative, we are exploring new approaches to make the journeys accessible for as many people as possible while covering the logistical costs involved and honouring the contributions of our faculty, the projects hosting us and the team. 
 To support this, we have adopted a sliding scale model - inviting you to choose a fee that reflects your life possibilities. 
 
-**The suggested contribution for this yatra is based on a sliding scale from USD 1600 to USD 3000.**
+**The suggested contribution for this yatra is based on a sliding scale from USD 1850 to USD 3000.**
 
 Consider contributing MORE on the scale if you:
 
