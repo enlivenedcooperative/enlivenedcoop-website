@@ -258,6 +258,10 @@ Meeting fellow travelers with similar interests and mutual inspiration .
 
 ## Faculty and team:
 
+![](/assets/img/courses/morocco1/Faculty-Hajar.png){:.right.thumb width="250"}
+
+**Hajar Tazi**, Storyteller and ecosystem weaver in the field of regenerative development and education from Morocco. Drawing inspiration from the way natural ecosystems flourish, Hajar cross-pollinates amongst regenerative projects and organizations and spreads the mycelium of radical collaboration in service to the full round of Life. Inspired by indigenous cosmovisions and spiritual ecology, Hajar is on a journey of reclaiming and uncovering ancient and new ways of belonging to the Earth. She nurtures the soil of reverence and deep relationality with self, others, and nature to support the blossoming of life-sustaining ways of being, thinking, and relating, paving the way for the Symbiocene.
+
 ![](/assets/img/courses/huaesteca/ana-portrait.jpg){:.right.thumb width="250"}
 
 **Ana Marica**, Romanian community weaver, facilitator and learning designer exploring the rich tapestry of cultures around the world. On a mission to understand how communities can change for the better when self-directed learning principles are introduced in the educational process, she has spent the last 8 years researching and connecting with projects and communities from around the world who actively contribute to reimagining learning paradigms.
