@@ -269,6 +269,11 @@ Meeting fellow travelers with similar interests and mutual inspiration .
 
 ### Faculty and team:
 
+![](/assets/img/courses/huaesteca/Adriana-Carnu.jpg){:.right.thumb width="250"}
+
+**Adriana Cârnu** is a passionate explorer of life’s intricate processes, from the mysteries of birth and death to the ebb and flow of social dynamics that weave the fabric of human connection. She walks a path of deep inquiry, dedicated to creating spaces where people can come together to reflect, feel, and envision ways to honor and defend communities in all its forms. Seeing this as part of a broader, planetary movement for relational, ecological, and ontological harmony, [Adriana is committed to fostering a world of interconnection and coexistence. Drawing inspiration from the idea of a pluriverse—a “world where many worlds fit”—she seeks to engage in collective practices that nourish community, memory, and shared responsibility.
+Adriana is a seeker of spaces informed by love, awareness, and a commitment to healing. Their work spans the realms of land and territory, intimacy and relationships, labor and livelihood—an ongoing pilgrimage toward wholeness, justice, and renewal.
+
 ![](/assets/img/courses/huaesteca/ana-portrait.jpg){:.right.thumb width="250"}
 
 **Ana Marica**, Romanian community weaver, facilitator and learning designer exploring the rich tapestry of cultures around the world. On a mission to understand how communities can change for the better when self-directed learning principles are introduced in the educational process, she has spent the last 8 years researching and connecting with projects and communities from around the world who actively contribute to reimagining learning paradigms.
@@ -282,4 +287,5 @@ Currently based in Bucharest, Romania - her basecamp in between travels and expl
 ![](/assets/img/courses/huaesteca/gerardo.jpg){:.right.thumb width="250"}
 
 **Gerardo López-Amaro**, co-founder of the Enlivened Cooperative, is currently walking  the path of autonomous education with the task of imagining spaces of encounter for thinking-feeling together about ways to strengthen the defense of life, memory and territory. He sees this as part of a planetary struggle for cognitive, relational and ontological justice. He is purposefully becoming entangled in a great “we” of people enacting the pluriverse, that “world where many worlds fit.” Born and raised in San Luis Potosi, Mexico, he’s a pilgrim of viable spaces informed by politics of love and consciousness regarding the healing of land and territory, love and intimacy, and labor and livelihood.
+
 
