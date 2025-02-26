@@ -284,6 +284,12 @@ Currently based in Bucharest, Romania - her basecamp in between travels and expl
 
 **Benigno Robles**, Guardian of the Teenek Ceremonial Center of Tamaletom, linguist who positions the ancestral knowledge that the grandparents and grandmothers have protected. Founder of a meeting space between the indigenous Teenek wisdom and the curiosity of the youth who find in their tradition a way of living the present and future well woven with their history.
 
+![](/assets/img/courses/huaesteca/Bernardo-Sanchez.png){:.right.thumb width="250"}
+
+**Bernardo Sánchez Lapuente**, Traveler, artist, world-crosser, bridge-builder. Father of two daughters, social anthropologist, pedagogue of play, visual creator, process companion, attentive observer of emerging curiosities. Apprentice of unlearning.
+
+Based in Latin America and Germany, he participates in various projects whose common denominator is the intention to unlearn, to generate community processes and collective creation. Through the facilitation of spaces for integration, word circles, songs, games and other magical ingredients, Bernardo creates impulses that help groups generate intimate narratives of what is being experienced both at a collective and an individual level. His presence and facilitation invite reflections that help participants understand what they are experiencing as a space of resonance available to make audible the transforming whisper of the journey.
+
 
 ![](/assets/img/courses/huaesteca/gerardo.jpg){:.right.thumb width="250"}
 
