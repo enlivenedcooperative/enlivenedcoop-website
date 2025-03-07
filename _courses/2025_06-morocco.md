@@ -264,7 +264,7 @@ Meeting fellow travelers with similar interests and mutual inspiration .
 
 ![](/assets/img/courses/morocco1/Wangui.PNG){:.right.thumb width="250"}
 
-**Wangui wa Kamonji**, Wangũi is a regeneration practitioner researching and translating indigenous Afrikan knowledges into experiential processes, art and honey to provide rooted embodied tools for us to decolonise and reindigenise.
+**Wangũi wa Kamonji**, regeneration practitioner researching and translating indigenous Afrikan knowledges into experiential processes, art and honey to provide rooted embodied tools for us to decolonise and reindigenise.
 
 Wangũi weaves research using academic and indigenous methods; storytelling in written and oral forms; traditional Afrikan dance and movement practice; ancestral connection, processwork, and nervous system relation in her work with the organism fromtheroots, which supports individuals’ and communities’ transitions from coloniality to the pluriverse through transformational un/learning, coaching and practice accompaniment. Her work is motivated by the twin challenge of healing the colonial traumas of past and present, and (re)creating ways for us to live regeneratively with ourselves, Earth and ancestors again, and responds to an ancestral invitation to rethink and reimagine everything from indigenous Afrikan ontologies.
 
