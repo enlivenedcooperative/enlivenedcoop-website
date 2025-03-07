@@ -262,12 +262,17 @@ Meeting fellow travelers with similar interests and mutual inspiration .
 
 **Hajar Tazi**, Storyteller and ecosystem weaver in the field of regenerative development and education from Morocco. Drawing inspiration from the way natural ecosystems flourish, Hajar cross-pollinates amongst regenerative projects and organizations and spreads the mycelium of radical collaboration in service to the full round of Life. Inspired by indigenous cosmovisions and spiritual ecology, Hajar is on a journey of reclaiming and uncovering ancient and new ways of belonging to the Earth. She nurtures the soil of reverence and deep relationality with self, others, and nature to support the blossoming of life-sustaining ways of being, thinking, and relating, paving the way for the Symbiocene.
 
+![](/assets/img/courses/morocco1/Wangui.PNG){:.right.thumb width="250"}
+
+**Wangui wa Kamonji**, Wangũi is a regeneration practitioner researching and translating indigenous Afrikan knowledges into experiential processes, art and honey to provide rooted embodied tools for us to decolonise and reindigenise.
+
+Wangũi weaves research using academic and indigenous methods; storytelling in written and oral forms; traditional Afrikan dance and movement practice; ancestral connection, processwork, and nervous system relation in her work with the organism fromtheroots, which supports individuals’ and communities’ transitions from coloniality to the pluriverse through transformational un/learning, coaching and practice accompaniment. Her work is motivated by the twin challenge of healing the colonial traumas of past and present, and (re)creating ways for us to live regeneratively with ourselves, Earth and ancestors again, and responds to an ancestral invitation to rethink and reimagine everything from indigenous Afrikan ontologies.
+
+
 ![](/assets/img/courses/huaesteca/ana-portrait.jpg){:.right.thumb width="250"}
 
-**Ana Marica**, Romanian community weaver, facilitator and learning designer exploring the rich tapestry of cultures around the world. On a mission to understand how communities can change for the better when self-directed learning principles are introduced in the educational process, she has spent the last 8 years researching and connecting with projects and communities from around the world who actively contribute to reimagining learning paradigms.
-
-During this time, she has co-founded Digital Romads, a learning and organizational design consultancy whose purpose is to support communities and organizations explore transparent, open, self-managed, and co-created ways of collaborating and communicating. 
-Currently based in Bucharest, Romania - her basecamp in between travels and explorations of various territories (both at surface and underwater).  
+**Ana Marica**, community weaver, facilitator and learning designer exploring the ways knowledge is woven across communities, cultures, ecologies, and ways of being. Currently she is navigating learning at the intersections of geographies and worlds, designing unlearning journeys that invite individuals and communities to question, reimagine, and transform. 
+Based in Bucharest, Romania, Ana moves between territories - both on land and underwater - seeking the wisdom held in diverse ecosystems and communities.  
 
 
 ![](/assets/img/courses/huaesteca/gerardo.jpg){:.right.thumb width="250"}
