@@ -271,6 +271,8 @@ Wangũi weaves research using academic and indigenous methods; storytelling in w
 
 ![](/assets/img/courses/huaesteca/ana-portrait.jpg){:.right.thumb width="250"}
 
+
+
 **Ana Marica**, community weaver, facilitator and learning designer exploring the ways knowledge is woven across communities, cultures, ecologies, and ways of being. Currently she is navigating learning at the intersections of geographies and worlds, designing unlearning journeys that invite individuals and communities to question, reimagine, and transform. 
 Based in Bucharest, Romania, Ana moves between territories - both on land and underwater - seeking the wisdom held in diverse ecosystems and communities.  
 
